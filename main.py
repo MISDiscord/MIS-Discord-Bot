@@ -115,8 +115,7 @@ async def on_member_join(member):
             server_invites[member.guild.id] = invites_after_join
 
     welcome_verification_message = f"Welcome {member.mention} to Mental health of Reddit! " \
-                                   f"Please read <#701102417512628286> and get some roles in <#808934814689918996> " \
-                                   f"Find the safe word located in #welcome-and-rules and type it in this" \
+                                   f"Please find the safe word located in <#701102417512628286> and type it in this" \
                                    f" channel to gain access to the rest of the server."
 
     verify_channel_id = 817326358107389963
