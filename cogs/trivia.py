@@ -226,7 +226,7 @@ class Trivia(commands.Cog):
 
             for k in top_users:
                 print(int(k[0]))
-                member_object = await self.bot.fetch_user(int(k[0]))
+                member_object = self.bot.get_user(int(k[0]))
                 print(member_object)
                 if len(top_users) >= 1 and k == top_users[0]:
                     leaderboard_string += " :first_place:      "

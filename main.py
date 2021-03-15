@@ -9,6 +9,7 @@ from dotenv import load_dotenv
 import custom_functions
 import traceback
 import discord.utils
+import json
 
 # Load env file
 load_dotenv()
@@ -142,6 +143,30 @@ async def on_member_remove(member):
     embed.add_field(name='Member Since', value=f'{member.joined_at.strftime("%B %d, %Y")}', inline=True)
 
     await bot.get_channel(join_and_leave_logs_channel_id).send(embed=embed)
+
+
+@bot.event
+async def on_reaction_add(reaction, user):
+    print(reaction, user)
+    if reaction.emoji == "🥚" and reaction.message.content == "An easter egg has appeared! React to this message with :egg: to pick it up!":
+        # Open file, get data, then close connection
+        scoreboard_file = open('eggs.json', 'r')
+        data = json.load(scoreboard_file)
+        scoreboard_file.close()
+
+        # Update data
+        if str(user.id) in data:
+            data[str(user.id)] += 1
+        else:
+            data[str(user.id)] = 1
+
+        # Save data and close connection
+        f = open('eggs.json', 'w')
+        json.dump(data, f)
+        f.close()
+
+        # Delete message
+        await reaction.message.delete()
 
 
 # Run the bot with token specified in .env

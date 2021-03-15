@@ -3,6 +3,7 @@ birthdays.xlsx
 bdayoutput.out
 topics.xlsx
 .idea/
+eggs.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
