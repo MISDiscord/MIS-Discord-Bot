@@ -90,6 +90,15 @@ async def on_message(ctx):
 
 @bot.event
 async def on_member_join(member):
+
+    welcome_verification_message = f"Welcome {member.mention} to Mental health of Reddit! " \
+                                   f"Please find the safe word located in <#701102417512628286> and type it in this" \
+                                   f" channel to gain access to the rest of the server."
+
+    verify_channel_id = 817326358107389963
+
+    await bot.get_channel(verify_channel_id).send(welcome_verification_message)
+	
     # Find invites before and after join to see which one was used
     invites_before_join = server_invites[int(member.guild.id)]
     invites_after_join = await member.guild.invites()
@@ -114,14 +123,6 @@ async def on_member_join(member):
 
             # Update server invites
             server_invites[member.guild.id] = invites_after_join
-
-    welcome_verification_message = f"Welcome {member.mention} to Mental health of Reddit! " \
-                                   f"Please find the safe word located in <#701102417512628286> and type it in this" \
-                                   f" channel to gain access to the rest of the server."
-
-    verify_channel_id = 817326358107389963
-
-    await bot.get_channel(verify_channel_id).send(welcome_verification_message)
 
 
 # Print out errors
