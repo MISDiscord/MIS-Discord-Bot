@@ -51,8 +51,11 @@ class Easter(commands.Cog):
         scoreboard_file = open('eggs.json', 'r')
         data = json.load(scoreboard_file)
         scoreboard_file.close()
-        print(data["222479899808628736"])
-        await ctx.send(f"{ctx.author.mention}, you have collected {data[str(ctx.author.id)]} eggs so far!")
+
+        try:
+            await ctx.send(f"{ctx.author.mention}, you have collected {data[str(ctx.author.id)]} eggs so far!")
+        except KeyError:
+            await ctx.send(f"{ctx.author.mention}, you have collected 0 eggs so far!")
 
 
 def setup(bot):
