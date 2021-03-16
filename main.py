@@ -10,6 +10,7 @@ import custom_functions
 import traceback
 import discord.utils
 import json
+import re
 
 # Load env file
 load_dotenv()
@@ -98,7 +99,7 @@ async def on_member_join(member):
     verify_channel_id = 817326358107389963
 
     await bot.get_channel(verify_channel_id).send(welcome_verification_message)
-	
+
     # Find invites before and after join to see which one was used
     invites_before_join = server_invites[int(member.guild.id)]
     invites_after_join = await member.guild.invites()
@@ -149,7 +150,17 @@ async def on_member_remove(member):
 @bot.event
 async def on_reaction_add(reaction, user):
     print(reaction, user)
-    if reaction.emoji == "🥚" and reaction.message.content == "An easter egg has appeared! React to this message with :egg: to pick it up!":
+    emojis = [
+                "<:Eggito:821374260831453184>",
+                "<:EggBurto:821380416581009438>",
+                "<:McEgg:821380416669351936>",
+                "<:Eggie:821380416987725864>"
+            ]
+
+    # Regex search for emoji in string
+    search = re.search('(<:\w*:\d*>)', reaction.message.content)
+
+    if reaction.message.author.bot and search is not None and str(reaction.emoji) == str(search.group(0)):
         # Open file, get data, then close connection
         scoreboard_file = open('eggs.json', 'r')
         data = json.load(scoreboard_file)
