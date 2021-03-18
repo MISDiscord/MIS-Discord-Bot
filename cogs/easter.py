@@ -53,9 +53,31 @@ class Easter(commands.Cog):
         scoreboard_file.close()
 
         try:
-            await ctx.send(f"{ctx.author.mention}, you have collected {data[str(ctx.author.id)]} eggs so far!")
+            if data[str(ctx.author.id)] == 1:
+                await ctx.send(f"{ctx.author.mention}, you have collected {data[str(ctx.author.id)]} egg so far!")
+            else:
+                await ctx.send(f"{ctx.author.mention}, you have collected {data[str(ctx.author.id)]} eggs so far!")
         except KeyError:
             await ctx.send(f"{ctx.author.mention}, you have collected 0 eggs so far!")
+
+    @commands.command(name="eggleaderboard")
+    async def eggleaderboard(self, ctx):
+        scoreboard_file = open('eggs.json', 'r')
+        data = json.load(scoreboard_file)
+        scoreboard_file.close()
+        # print(data)
+        sort_data = sorted(data.items(), key=lambda x: x[1], reverse=True)
+        print(sort_data)
+        leaderboard_string = "__Top 10 Users__\n\n"
+        for i in sort_data[:10]:
+            user = self.bot.get_user(int(i[0]))
+            if i[1] == 1:
+                leaderboard_string += f"{user.name}#{user.discriminator}: {i[1]} egg\n"
+            else:
+                leaderboard_string += f"{user.name}#{user.discriminator}: {i[1]} eggs\n"
+
+        await ctx.send(leaderboard_string)
+
 
 
 def setup(bot):

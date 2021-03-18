@@ -13,17 +13,17 @@ class CustomCommands(commands.Cog):
     @commands.command(name="breathe")
     async def breathe(self, ctx):
         await ctx.message.delete()
-        ctx.send("https://imgur.com/wPqVzGz")
+        await ctx.send("https://imgur.com/wPqVzGz")
 
     @commands.command(name="grounding")
     async def grounding(self, ctx):
         await ctx.message.delete()
-        ctx.send("https://imgur.com/TB659EQ")
+        await ctx.send("https://imgur.com/TB659EQ")
 
     @commands.command(name="relax")
     async def relax(self, ctx):
         await ctx.message.delete()
-        ctx.send("https://imgur.com/rdpfi4N")
+        await ctx.send("https://imgur.com/rdpfi4N")
 
     @commands.command(name="hugs")
     async def hugs(self, ctx, *args):
@@ -49,7 +49,7 @@ class CustomCommands(commands.Cog):
 
             # If not executed in a DM, just reply with a hug gif.
             await ctx.message.delete()
-            ctx.send("https://imgur.com/FF2klRE")
+            await ctx.send("https://imgur.com/FF2klRE")
 
 
 def setup(bot):
