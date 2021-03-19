@@ -11,6 +11,7 @@ import traceback
 import discord.utils
 import json
 import re
+from asyncio import sleep
 
 # Load env file
 load_dotenv()
@@ -61,6 +62,7 @@ async def on_message(ctx):
         return
 
     # Process commands if message starts with specified prefix
+    sleep(0.5)
     await bot.process_commands(ctx)
     print(ctx.content)
 
