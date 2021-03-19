@@ -11,7 +11,7 @@ import traceback
 import discord.utils
 import json
 import re
-from time import sleep
+from asyncio import sleep
 
 # Load env file
 load_dotenv()
