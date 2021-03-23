@@ -11,6 +11,7 @@ import traceback
 import discord.utils
 import json
 import re
+from datetime import datetime
 
 # Load env file
 load_dotenv()
@@ -181,7 +182,7 @@ async def on_reaction_add(reaction, user):
         await reaction.message.delete()
 
         with open('easterlogs.txt', 'a+') as f:
-            f.write(f'{user.name}#{user.discriminator} ({user.id}) collected an egg at {str(datetime.now())}')
+            f.write(f'{user.name}#{user.discriminator} ({user.id}) collected an egg at {str(datetime.now())}\n')
             f.close()
 
 
