@@ -40,7 +40,7 @@ class Easter(commands.Cog):
             selection = random.choice(emojis)
             channel = self.bot.get_channel(random.choice(channel_ids))
             with open('easterlogs.txt', 'a+') as f:
-                f.write(f'{selection} egg spawned at {str(datetime.now())}')
+                f.write(f'{selection} egg spawned at {str(datetime.now())}\n')
                 f.close()
 
             await channel.send(f"An easter egg has appeared! React to this message with {selection} to pick it up!\n")
