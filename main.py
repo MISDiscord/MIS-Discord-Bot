@@ -180,6 +180,10 @@ async def on_reaction_add(reaction, user):
         # Delete message
         await reaction.message.delete()
 
+        with open('easterlogs.txt', 'a+') as f:
+            f.write(f'{user.name}#{user.discriminator} ({user.id}) collected an egg at {str(datetime.now())}')
+            f.close()
+
 
 # Run the bot with token specified in .env
 bot.run(os.getenv("BOT_TOKEN"))

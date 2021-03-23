@@ -1,6 +1,7 @@
 from discord.ext import tasks, commands
 import json
 import random
+from datetime import datetime
 """
 Easter event cog
 """
@@ -38,6 +39,10 @@ class Easter(commands.Cog):
             # Choose a random emoji and channel to format the message
             selection = random.choice(emojis)
             channel = self.bot.get_channel(random.choice(channel_ids))
+            with open('easterlogs.txt', 'a+') as f:
+                f.write(f'{selection} egg spawned at {str(datetime.now())}')
+                f.close()
+
             await channel.send(f"An easter egg has appeared! React to this message with {selection} to pick it up!")
 
     @printer.before_loop
