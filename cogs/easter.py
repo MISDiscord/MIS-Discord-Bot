@@ -15,9 +15,9 @@ class Easter(commands.Cog):
         self.printer.cancel()
 
     # Loop every 15 minutes
-    @tasks.loop(minutes=15)
+    @tasks.loop(minutes=8)
     async def printer(self):
-        if random.random() > 0.3:
+        if random.random() > 0.1:
 
             emojis = [
                         "<:Eggito:821374260831453184>",
