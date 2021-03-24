@@ -2,6 +2,8 @@ from discord.ext import tasks, commands
 import json
 import random
 from datetime import datetime
+import discord
+
 """
 Easter event cog
 """
@@ -19,22 +21,21 @@ class Easter(commands.Cog):
     @tasks.loop(minutes=8)
     async def printer(self):
         if random.random() > 0.1:
-
             emojis = [
-                        "<:Eggito:821374260831453184>",
-                        "<:EggBurto:821380416581009438>",
-                        "<:McEgg:821380416669351936>",
-                        "<:Eggie:821380416987725864>"
-                    ]
+                "<:Eggito:821374260831453184>",
+                "<:EggBurto:821380416581009438>",
+                "<:McEgg:821380416669351936>",
+                "<:Eggie:821380416987725864>"
+            ]
 
             channel_ids = [
-                            701102362516914189,
-                            805391478267969556,
-                            702178236704227480,
-                            714573685431730207,
-                            702908817515479141,
-                            816981072855695370
-                        ]
+                701102362516914189,
+                805391478267969556,
+                702178236704227480,
+                714573685431730207,
+                702908817515479141,
+                816981072855695370
+            ]
 
             # Choose a random emoji and channel to format the message
             selection = random.choice(emojis)
@@ -52,18 +53,26 @@ class Easter(commands.Cog):
 
     # Command for checking how many eggs a user has collected
     @commands.command(name="eggs")
-    async def eggs(self, ctx):
+    async def eggs(self, ctx, user: discord.Member = None):
         scoreboard_file = open('eggs.json', 'r')
         data = json.load(scoreboard_file)
         scoreboard_file.close()
 
         try:
-            if data[str(ctx.author.id)] == 1:
-                await ctx.send(f"{ctx.author.mention}, you have collected {data[str(ctx.author.id)]} egg so far!")
+            if user:
+                await ctx.send(f"{user.name}#{user.discriminator} has collected {data[str(user.id)]} eggs so far!")
             else:
-                await ctx.send(f"{ctx.author.mention}, you have collected {data[str(ctx.author.id)]} eggs so far!")
+                await ctx.send(f"{ctx.author.mention}, you have collected {data[str(ctx.author.id)]} egg so far!")
         except KeyError:
-            await ctx.send(f"{ctx.author.mention}, you have collected 0 eggs so far!")
+            if user:
+                await ctx.send(f"{user.name}#{user.discriminator} has collected 0 eggs so far!")
+            else:
+                await ctx.send(f"{ctx.author.mention}, you have collected 0 eggs so far!")
+
+    @eggs.error
+    async def eggs_error(self, ctx, err):
+        if isinstance(err, discord.ext.commands.MemberNotFound):
+            await ctx.send("I could not find that member!")
 
     @commands.command(name="eggleaderboard")
     async def eggleaderboard(self, ctx):
@@ -82,7 +91,6 @@ class Easter(commands.Cog):
                 leaderboard_string += f"{user.name}#{user.discriminator}: {i[1]} eggs\n"
 
         await ctx.send(leaderboard_string)
-
 
 
 def setup(bot):
