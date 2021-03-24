@@ -62,7 +62,7 @@ class Easter(commands.Cog):
             if user:
                 await ctx.send(f"{user.name}#{user.discriminator} has collected {data[str(user.id)]} eggs so far!")
             else:
-                await ctx.send(f"{ctx.author.mention}, you have collected {data[str(ctx.author.id)]} egg so far!")
+                await ctx.send(f"{ctx.author.mention}, you have collected {data[str(ctx.author.id)]} eggs so far!")
         except KeyError:
             if user:
                 await ctx.send(f"{user.name}#{user.discriminator} has collected 0 eggs so far!")
