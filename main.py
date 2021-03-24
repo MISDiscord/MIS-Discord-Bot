@@ -119,7 +119,7 @@ async def on_member_join(member):
                             inline=False)
             embed.add_field(name=':bust_in_silhouette: Inviter', value=f'{invite.inviter.mention}', inline=True)
             embed.add_field(name=':white_check_mark: Invites', value=f'{invite.uses + 1}', inline=True)
-            time = divmod((datetime.datetime.now() - bot.get_user(member.id).created_at).total_seconds(), 1)[0]
+            time = divmod((datetime.now() - bot.get_user(member.id).created_at).total_seconds(), 1)[0]
             embed.set_footer(text=f'Account Age: {custom_functions.seconds_to_age(int(time))}')
             await bot.get_channel(join_and_leave_logs_channel_id).send(embed=embed)
 
