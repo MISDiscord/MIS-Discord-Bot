@@ -16,7 +16,11 @@ from datetime import datetime
 # Load env file
 load_dotenv()
 
-logging.basicConfig(level=logging.INFO)
+logger = logging.getLogger('discord')
+logger.setLevel(logging.INFO)
+handler = logging.FileHandler(filename='discord.log', encoding='utf-8', mode='w')
+handler.setFormatter(logging.Formatter('%(asctime)s:%(levelname)s:%(name)s: %(message)s'))
+logger.addHandler(handler)
 
 # Set discord intents
 intents = discord.Intents.default()
@@ -82,7 +86,6 @@ async def on_message(ctx):
 
         since_last_message = datetime.now() - last_message
         if since_last_message.total_seconds()//1 > 15:
-            print("Cooldown passed!")
             # Every time a user talks in chat, give them a random amount of experience points ranging from 10-15
             xp = random.randint(10, 15)
             cursor = conn.cursor()
@@ -190,10 +193,6 @@ async def on_reaction_add(reaction, user):
 
         # Delete message
         await reaction.message.delete()
-
-        with open('easterlogs.txt', 'a+') as f:
-            f.write(f'{user.name}#{user.discriminator} ({user.id}) collected an egg at {str(datetime.now())}\n')
-            f.close()
 
 
 # Run the bot with token specified in .env

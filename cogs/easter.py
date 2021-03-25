@@ -19,7 +19,7 @@ class Easter(commands.Cog):
         self.printer.cancel()
 
     # Loop every 15 minutes
-    @tasks.loop(minutes=8)
+    @tasks.loop(minutes=60)
     async def printer(self):
         if random.random() > 0.1:
             emojis = [
@@ -83,12 +83,14 @@ class Easter(commands.Cog):
         sort_data = sorted(data.items(), key=lambda x: x[1], reverse=True)
         count = int(args[0]) if args else 10
         leaderboard_string = f"__Top {count} Users__\n\n"
+        print(sort_data[:count])
         for i in sort_data[:count]:
             user = self.bot.get_user(int(i[0]))
-            if i[1] == 1:
-                leaderboard_string += f"{user.name}#{user.discriminator}: {i[1]} egg\n"
-            else:
-                leaderboard_string += f"{user.name}#{user.discriminator}: {i[1]} eggs\n"
+            if user:
+                if i[1] == 1:
+                    leaderboard_string += f"{user.name}#{user.discriminator}: {i[1]} egg\n"
+                else:
+                    leaderboard_string += f"{user.name}#{user.discriminator}: {i[1]} eggs\n"
 
         for substring in wrap(leaderboard_string, 1900, replace_whitespace=False, drop_whitespace=False):
             await ctx.send(substring)
