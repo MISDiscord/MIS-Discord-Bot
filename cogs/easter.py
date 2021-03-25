@@ -94,6 +94,31 @@ class Easter(commands.Cog):
 
         for substring in wrap(leaderboard_string, 1900, replace_whitespace=False, drop_whitespace=False):
             await ctx.send(substring)
+            
+    @commands.command(name="eggshare")
+    async def eggshare(self, ctx, user: discord.Member, count=0):
+        file = open('eggs.json', 'r')
+        data = json.load(file)
+        file.close()
+        donator = ctx.author
+        recipient = user
+        print(donator.name, recipient.name)
+        print(count)
+
+        data[str(donator.id)] -= count
+        data[str(recipient.id)] += count
+
+        f = open('eggs.json', 'w')
+        json.dump(data, f)
+        f.close()
+
+        await ctx.send(f"You have given {count} eggs to {recipient.mention}")
+
+    @eggshare.error
+    async def eggshare_error(self, ctx, err):
+        if isinstance(err, discord.ext.commands.MemberNotFound):
+            await ctx.send("Please provide a valid member!")
+
 
 
 def setup(bot):
