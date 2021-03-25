@@ -3,6 +3,7 @@ import json
 import random
 from datetime import datetime
 import discord
+from textwrap import wrap
 
 """
 Easter event cog
@@ -29,7 +30,7 @@ class Easter(commands.Cog):
             ]
 
             channel_ids = [
-                701102362516914189,
+                824532627339083786,
                 805391478267969556,
                 702178236704227480,
                 714573685431730207,
@@ -75,22 +76,22 @@ class Easter(commands.Cog):
             await ctx.send("I could not find that member!")
 
     @commands.command(name="eggleaderboard")
-    async def eggleaderboard(self, ctx):
+    async def eggleaderboard(self, ctx, *args):
         scoreboard_file = open('eggs.json', 'r')
         data = json.load(scoreboard_file)
         scoreboard_file.close()
-        # print(data)
         sort_data = sorted(data.items(), key=lambda x: x[1], reverse=True)
-        print(sort_data)
-        leaderboard_string = "__Top 10 Users__\n\n"
-        for i in sort_data[:10]:
+        count = int(args[0]) if args else 10
+        leaderboard_string = f"__Top {count} Users__\n\n"
+        for i in sort_data[:count]:
             user = self.bot.get_user(int(i[0]))
             if i[1] == 1:
                 leaderboard_string += f"{user.name}#{user.discriminator}: {i[1]} egg\n"
             else:
                 leaderboard_string += f"{user.name}#{user.discriminator}: {i[1]} eggs\n"
 
-        await ctx.send(leaderboard_string)
+        for substring in wrap(leaderboard_string, 1900, replace_whitespace=False, drop_whitespace=False):
+            await ctx.send(substring)
 
 
 def setup(bot):

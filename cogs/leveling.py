@@ -22,19 +22,15 @@ class Leveling(commands.Cog):
         self.bot = bot
 
     @commands.command(name="xp")
-    async def level(self, ctx, user: discord.Member):
-
-        # Still testing; restricting command to single user ID
-        if ctx.author.id != 222479899808628736:
-            return
+    async def level(self, ctx):
 
         # Execute query to get xp from specified user.
         cursor = conn.cursor()
-        cursor.execute(f'SELECT xp FROM message_levels WHERE user_id = {user.id}')
+        cursor.execute(f'SELECT xp FROM message_levels WHERE user_id = {ctx.author.id}')
         result = cursor.fetchone()
 
         # Send the amount of experience the user has.
-        await ctx.send(f'{user.name}#{user.discriminator} has {result[0]} experience points!')
+        await ctx.send(f'You have {result[0]} experience points!')
         cursor.close()
 
     # Handle errors if input is invalid

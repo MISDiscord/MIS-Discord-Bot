@@ -54,7 +54,7 @@ async def on_ready():
         server_invites[guild.id] = await guild.invites()
     print(f'Logged in as: {bot.user.name}#{bot.user.discriminator} ({bot.user.id})\n')
 
-
+cooldown_list = {}
 @bot.event
 async def on_message(ctx):
     # Bots can't trigger events
@@ -74,20 +74,30 @@ async def on_message(ctx):
 
     if not ctx.content.startswith(bot.command_prefix):
 
-        # Every time a user talks in chat, give them a random amount of experience points ranging from 1-10
-        xp = random.randint(1, 10)
-        cursor = conn.cursor()
-        cursor.execute(f'SELECT xp FROM message_levels WHERE user_id = {ctx.author.id}')
-        result = cursor.fetchall()
-        if len(result) == 0:
-            print("User is not in database. Add them!")
-            cursor.execute(f'INSERT INTO message_levels VALUES ({ctx.author.id}, {xp})')
-            conn.commit()
-        else:
-            newXP = result[0][0] + xp
-            print(f'{ctx.author.name} got {xp} XP points. They now have {newXP} experience.')
-            cursor.execute(f'UPDATE message_levels SET xp = {newXP} WHERE user_id = {ctx.author.id}')
-            conn.commit()
+        try:
+            last_message = cooldown_list[ctx.author.id]
+        except KeyError:
+            last_message = datetime.now()
+            cooldown_list[ctx.author.id] = datetime.now()
+
+        since_last_message = datetime.now() - last_message
+        if since_last_message.total_seconds()//1 > 15:
+            print("Cooldown passed!")
+            # Every time a user talks in chat, give them a random amount of experience points ranging from 10-15
+            xp = random.randint(10, 15)
+            cursor = conn.cursor()
+            cursor.execute(f'SELECT xp FROM message_levels WHERE user_id = {ctx.author.id}')
+            result = cursor.fetchall()
+            if len(result) == 0:
+                print("User is not in database. Add them!")
+                cursor.execute(f'INSERT INTO message_levels VALUES ({ctx.author.id}, {xp})')
+                conn.commit()
+            else:
+                newXP = result[0][0] + xp
+                print(f'{ctx.author.name} got {xp} XP points. They now have {newXP} experience.')
+                cursor.execute(f'UPDATE message_levels SET xp = {newXP} WHERE user_id = {ctx.author.id}')
+                conn.commit()
+            cooldown_list[ctx.author.id] = datetime.now()
 
 
 @bot.event
