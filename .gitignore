@@ -4,6 +4,7 @@ bdayoutput.out
 topics.xlsx
 .idea/
 eggs.json
+easterlogs.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
