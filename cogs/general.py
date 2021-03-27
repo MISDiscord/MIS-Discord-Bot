@@ -1,6 +1,10 @@
 from discord.ext import commands
 import pandas as pd
 import os
+import discord
+from PIL import Image, ImageOps
+import requests
+from io import BytesIO
 
 """
 Picks a random conversation topic from a spreadsheet and sends it to the channel.
@@ -20,6 +24,31 @@ class General(commands.Cog):
             topic = file.sample().iloc[0]['Topics']
 
         await ctx.send(topic)
+
+    @commands.command(name="userheart")
+    async def userheart(self, ctx, user: discord.Member):
+        mask = Image.open('images/userheart_mask.png').convert('L')
+        avatar_url = user.avatar_url
+        sparkles = Image.open('images/userheart_sparkles.png')
+
+        response = requests.get(avatar_url)
+
+        img = ImageOps.fit(Image.open(BytesIO(response.content)), mask.size)
+        img.putalpha(mask)
+        img.paste(sparkles, (0, 0), sparkles)
+
+        with BytesIO() as image_binary:
+            img.save(image_binary, 'PNG')
+            image_binary.seek(0)
+            await ctx.send(file=discord.File(fp=image_binary, filename=f"{user.name}.png"))
+
+    @userheart.error
+    async def userheart_error(self, ctx, err):
+        print(err)
+        if isinstance(err, discord.ext.commands.MissingRequiredArgument):
+            await ctx.send("Please mention a user!")
+        if isinstance(err, discord.ext.commands.MemberNotFound):
+            await ctx.send("Please provide a valid member!")
 
 
 def setup(bot):
