@@ -33,7 +33,7 @@ class General(commands.Cog):
 
         response = requests.get(avatar_url)
 
-        img = ImageOps.fit(Image.open(BytesIO(response.content)), mask.size)
+        img = ImageOps.fit(Image.open(BytesIO(response.content)).convert('RGBA'), mask.size)
         img.putalpha(mask)
         img.paste(sparkles, (0, 0), sparkles)
 
