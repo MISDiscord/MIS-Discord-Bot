@@ -40,7 +40,7 @@ class General(commands.Cog):
         with BytesIO() as image_binary:
             img.save(image_binary, 'PNG')
             image_binary.seek(0)
-            await ctx.send(file=discord.File(fp=image_binary, filename=f"{user.name}.png"))
+            await ctx.send(file=discord.File(fp=image_binary, filename="userheart.png"))
 
     @userheart.error
     async def userheart_error(self, ctx, err):
