@@ -1,3 +1,5 @@
+import os
+import sqlite3
 
 def seconds_to_age(seconds: int):
     if type(seconds) != int:
@@ -36,3 +38,18 @@ def find_invite_by_code(invite_list, code):
         if str(inv.code) == str(code):
             return inv
     return None
+
+
+class SqliteConnection:
+    def __init__(self, db):
+        self.db = db
+        try:
+            self.conn = sqlite3.connect(db)
+        except sqlite3.Error as err:
+            print("Failed to connect to sqlite table!!", err)
+
+    def current_db(self):
+        print(f"Currently connected to: {self.db}")
+
+
+

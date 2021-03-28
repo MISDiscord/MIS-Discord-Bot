@@ -1,6 +1,7 @@
 import os
 import discord
 from discord.ext import commands
+import custom_functions
 import sqlite3
 
 """
@@ -10,11 +11,9 @@ Leveling commands. Not yet complete.
 # Connect to database
 try:
     dbdir = os.getcwd() + '/database.sqlite'
-    print(dbdir)
-    conn = sqlite3.connect(dbdir)
-    print("Connected!")
-except sqlite3.Error as error:
-    print("Failed to connect to sqlite table", error)
+    conn = custom_functions.SqliteConnection(dbdir).conn
+except AttributeError as err:
+    print("Failed to connect to sqlite table!", err)
 
 
 class Leveling(commands.Cog):

@@ -3,20 +3,18 @@ import discord
 from discord.ext import commands
 import sqlite3
 import operator
+import custom_functions
 from discord.utils import get
 
 """
 Handling points and leaderboard for users/events
 """
 
-# Connect to database.
 try:
     dbdir = os.getcwd() + '/database.sqlite'
-    print(dbdir)
-    conn = sqlite3.connect(dbdir)
-    print("Connected!")
-except sqlite3.Error as error:
-    print("Failed to connect to sqlite table", error)
+    conn = custom_functions.SqliteConnection(dbdir).conn
+except AttributeError as err:
+    print("Failed to connect to sqlite table!", err)
 
 
 async def has_permission(ctx):
@@ -57,7 +55,7 @@ class Trivia(commands.Cog):
             return
 
         # Lambda function to get the team role a user has.
-        role = discord.utils.find(lambda r: r.name.endswith('Team'), user.roles)
+        role = discord.utils.find(lambda r: r.name.endswith('Team') and (r.name.split(" ")[0] in ["Red", "Blue", "Pink", "Purple"]), user.roles)
         if role is None or role.name not in ["Red Team", "Blue Team", "Pink Team", "Purple Team"]:
             await ctx.send(f'{user.mention} has not joined a team yet. They must be part of a team to receive points!')
             return
@@ -105,7 +103,7 @@ class Trivia(commands.Cog):
             # If there is an error of bad argument, send an error message back.
             await ctx.send("I could not find that member. Please try again!")
 
-    @commands.command(name="rp")
+    @commands.command(name="rpts")
     @commands.check(has_permission)
     async def remove_points(self, ctx, user: discord.Member, amount):
         if not amount.isdigit():
