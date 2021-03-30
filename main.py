@@ -93,7 +93,7 @@ async def on_message(ctx):
         def check_user(m):
             return m.author.id == ctx.author.id
 
-        await bot.get_channel(anonymous_channel_id).purge(limit=5, check=check_user)
+        await bot.get_channel(826474833000661012).purge(limit=5, check=check_user)
 
         embed = discord.Embed(title="", url="")
         embed.set_author(name=f"{ctx.author.name}#{ctx.author.discriminator}", icon_url=ctx.author.avatar_url)
