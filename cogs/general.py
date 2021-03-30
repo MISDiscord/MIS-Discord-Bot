@@ -15,6 +15,15 @@ class General(commands.Cog):
     def __init__(self, bot):
         self.bot = bot
 
+    @commands.command(name="joinvc")
+    async def joinvc(self, ctx):
+        channel = ctx.author.voice.channel
+        await channel.connect()
+
+    @commands.command(name="leavevc")
+    async def leavevc(self, ctx):
+        await ctx.voice_client.disconnect()
+
     @commands.command(name="topic")
     async def topic(self, ctx):
 

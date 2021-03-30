@@ -13,6 +13,7 @@ import json
 import re
 from datetime import datetime
 import numpy as np
+import requests
 
 # Load env file
 load_dotenv()
@@ -76,7 +77,30 @@ async def on_message(ctx):
             member_role_id = 802838038094151692
             role = discord.utils.get(ctx.guild.roles, id=member_role_id)
             await ctx.author.add_roles(role)
-            await ctx.channel.purge(limit=1)
+            await ctx.delete()
+
+    if ctx.channel.id == 826474833000661012:
+        anonymous_channel_id = 795669876345274378
+        #
+        # json_params = { "channel_id": anonymous_channel_id }
+        # headers = { "Authorization": "Bot " + os.getenv("BOT_TOKEN") }
+        # url = '/'.join(os.getenv("ANONYMOUS_CONFESSIONS_WEBHOOK_URL").split('/')[:6])
+        #
+        # change_channel = requests.patch(url, json=json_params, headers=headers)
+
+        send_message = requests.post(url=os.getenv("ANONYMOUS_CONFESSIONS_WEBHOOK_URL"), data={"content": ctx.content})
+
+        def check_user(m):
+            return m.author.id == ctx.author.id
+
+        await bot.get_channel(anonymous_channel_id).purge(limit=5, check=check_user)
+
+        embed = discord.Embed(title="", url="")
+        embed.set_author(name=f"{ctx.author.name}#{ctx.author.discriminator}", icon_url=ctx.author.avatar_url)
+        embed.add_field(name="Message Content:", value=ctx.content, inline=False)
+        embed.set_footer(text=f"ID: {ctx.author.id} • {datetime.now().strftime('Today    at %I:%M %p')}")
+
+        await bot.get_channel(826516916196999198).send(embed=embed)
 
     if not ctx.content.startswith(bot.command_prefix):
 
@@ -87,7 +111,7 @@ async def on_message(ctx):
             cooldown_list[ctx.author.id] = datetime.now()
 
         since_last_message = datetime.now() - last_message
-        if since_last_message.total_seconds() // 1 > -1:
+        if since_last_message.total_seconds() // 1 > 12:
             # Every time a user talks in chat, give them a random amount of experience points ranging from 10-15
             xp = random.randint(10, 15)
             cursor = conn.cursor()
@@ -122,10 +146,12 @@ async def on_member_join(member):
     invites_before_join = server_invites[int(member.guild.id)]
     invites_after_join = await member.guild.invites()
 
+    foundInvite = False
     for invite in invites_before_join:
 
         # Find which invite has an extra use and use its data to format the embed
-        if invite.uses < custom_functions.find_invite_by_code(invites_after_join, invite.code).uses:
+        if invite.uses < custom_functions.find_invite_uses_by_code(invites_after_join, invite.code):
+            foundInvite = True
             embed = discord.Embed(color=0xabe9ff)
             embed.set_author(name=f'{member.name}#{member.discriminator}',
                              url=f'{member.avatar_url}',
@@ -143,6 +169,17 @@ async def on_member_join(member):
             # Update server invites
             server_invites[member.guild.id] = invites_after_join
 
+    if not foundInvite:
+        embed = discord.Embed(color=0xabe9ff)
+        embed.set_author(name=f'{member.name}#{member.discriminator}',
+                         url=f'{member.avatar_url}',
+                         icon_url=f'{member.avatar_url}')
+        embed.add_field(name='Welcome to Mental Health of Reddit',
+                        value=f'{member.mention} has joined using the vanity invite!',
+                        inline=False)
+        time = divmod((datetime.now() - bot.get_user(member.id).created_at).total_seconds(), 1)[0]
+        embed.set_footer(text=f'Account Age: {custom_functions.seconds_to_age(int(time))}')
+        await bot.get_channel(join_and_leave_logs_channel_id).send(embed=embed)
 
 # Print out errors
 @bot.event
