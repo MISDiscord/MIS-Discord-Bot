@@ -12,6 +12,7 @@ import discord.utils
 import json
 import re
 from datetime import datetime
+import numpy as np
 
 # Load env file
 load_dotenv()
@@ -56,7 +57,10 @@ async def on_ready():
         server_invites[guild.id] = await guild.invites()
     print(f'Logged in as: {bot.user.name}#{bot.user.discriminator} ({bot.user.id})\n')
 
+
 cooldown_list = {}
+
+
 @bot.event
 async def on_message(ctx):
     # Bots can't trigger events
@@ -83,27 +87,29 @@ async def on_message(ctx):
             cooldown_list[ctx.author.id] = datetime.now()
 
         since_last_message = datetime.now() - last_message
-        if since_last_message.total_seconds()//1 > 15:
+        if since_last_message.total_seconds() // 1 > -1:
             # Every time a user talks in chat, give them a random amount of experience points ranging from 10-15
             xp = random.randint(10, 15)
             cursor = conn.cursor()
             cursor.execute(f'SELECT xp FROM message_levels WHERE user_id = {ctx.author.id}')
             result = cursor.fetchall()
             if len(result) == 0:
-                print("User is not in database. Add them!")
-                cursor.execute(f'INSERT INTO message_levels VALUES ({ctx.author.id}, {xp})')
+                print(f"({ctx.author.id}): User is not in database. Add them!")
+                cursor.execute(f'INSERT INTO message_levels VALUES ({ctx.author.id}, {xp}, {0})')
                 conn.commit()
             else:
                 newXP = result[0][0] + xp
+                level = np.floor(np.sqrt(newXP / 200))
+
                 print(f'{ctx.author.name} got {xp} XP points. They now have {newXP} experience.')
-                cursor.execute(f'UPDATE message_levels SET xp = {newXP} WHERE user_id = {ctx.author.id}')
+                cursor.execute(
+                    f'UPDATE message_levels SET xp = {newXP}, level = {level} WHERE user_id = {ctx.author.id}')
                 conn.commit()
             cooldown_list[ctx.author.id] = datetime.now()
 
 
 @bot.event
 async def on_member_join(member):
-
     welcome_verification_message = f"Welcome {member.mention} to Mental health of Reddit! " \
                                    f"Please find the safe word located in <#701102417512628286> and type it in this" \
                                    f" channel to gain access to the rest of the server."
@@ -163,11 +169,11 @@ async def on_member_remove(member):
 async def on_reaction_add(reaction, user):
     print(reaction, user)
     emojis = [
-                "<:Eggito:821374260831453184>",
-                "<:EggBurto:821380416581009438>",
-                "<:McEgg:821380416669351936>",
-                "<:Eggie:821380416987725864>"
-            ]
+        "<:Eggito:821374260831453184>",
+        "<:EggBurto:821380416581009438>",
+        "<:McEgg:821380416669351936>",
+        "<:Eggie:821380416987725864>"
+    ]
 
     # Regex search for emoji in string
     search = re.search('(<:\w*:\d*>)', reaction.message.content)

@@ -89,7 +89,7 @@ class Easter(commands.Cog):
             if user:
                 if i[1] == 1:
                     leaderboard_string += f"{user.name}#{user.discriminator}: {i[1]} egg\n"
-                else:
+                elif i[1] != 0:
                     leaderboard_string += f"{user.name}#{user.discriminator}: {i[1]} eggs\n"
 
         for substring in wrap(leaderboard_string, 1900, replace_whitespace=False, drop_whitespace=False):
@@ -102,9 +102,13 @@ class Easter(commands.Cog):
         file.close()
         donator = ctx.author
         recipient = user
+
         print(donator.name, recipient.name)
         print(count)
 
+        if data[str(donator.id)] < count:
+            await ctx.send("You cannot give more eggs than you have!")
+            return
         data[str(donator.id)] -= count
         data[str(recipient.id)] += count
 

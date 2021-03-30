@@ -7,7 +7,7 @@ import requests
 from io import BytesIO
 
 """
-Picks a random conversation topic from a spreadsheet and sends it to the channel.
+General commands
 """
 
 
