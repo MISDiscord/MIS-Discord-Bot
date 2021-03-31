@@ -11,18 +11,40 @@ General commands
 """
 
 
+async def has_permission(ctx):
+    # Restrict command.
+    role = discord.utils.get(ctx.guild.roles, name="Moderator")
+    if role in ctx.author.roles:
+        return True
+    else:
+        return False
+
+
 class General(commands.Cog):
     def __init__(self, bot):
         self.bot = bot
 
     @commands.command(name="joinvc")
+    @commands.check(has_permission)
     async def joinvc(self, ctx):
         channel = ctx.author.voice.channel
         await channel.connect()
 
     @commands.command(name="leavevc")
+    @commands.check(has_permission)
     async def leavevc(self, ctx):
         await ctx.voice_client.disconnect()
+
+    @commands.command(name="send")
+    @commands.check(has_permission)
+    async def send(self, ctx, channel: discord.TextChannel, *content):
+        await channel.send(str(' '.join(content)))
+        await ctx.message.delete()
+
+    @send.error
+    async def send_error(self, ctx, err):
+        if isinstance(err, discord.ext.commands.MissingRequiredArgument):
+            await ctx.send("Please provide a text channel to send the message to!")
 
     @commands.command(name="topic")
     async def topic(self, ctx):

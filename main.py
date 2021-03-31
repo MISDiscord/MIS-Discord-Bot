@@ -134,7 +134,7 @@ async def on_message(ctx):
 
 @bot.event
 async def on_member_join(member):
-    welcome_verification_message = f"Welcome {member.mention} to Mental health of Reddit! " \
+    welcome_verification_message = f"Welcome {member.mention} to r/mentalillness " \
                                    f"Please find the safe word located in <#701102417512628286> and type it in this" \
                                    f" channel to gain access to the rest of the server."
 
