@@ -66,21 +66,23 @@ class General(commands.Cog):
         await ctx.send(topic)
 
     @commands.command(name="userheart")
-    async def userheart(self, ctx, user: discord.Member):
+    async def userheart(self, ctx, *users: discord.Member):
         mask = Image.open('images/userheart_mask.png').convert('L')
-        avatar_url = user.avatar_url
         sparkles = Image.open('images/userheart_sparkles.png')
 
-        response = requests.get(avatar_url)
+        for user in users:
+            avatar_url = user.avatar_url
 
-        img = ImageOps.fit(Image.open(BytesIO(response.content)).convert('RGBA'), mask.size)
-        img.putalpha(mask)
-        img.paste(sparkles, (0, 0), sparkles)
+            response = requests.get(avatar_url)
 
-        with BytesIO() as image_binary:
-            img.save(image_binary, 'PNG')
-            image_binary.seek(0)
-            await ctx.send(file=discord.File(fp=image_binary, filename="userheart.png"))
+            img = ImageOps.fit(Image.open(BytesIO(response.content)).convert('RGBA'), mask.size)
+            img.putalpha(mask)
+            img.paste(sparkles, (0, 0), sparkles)
+
+            with BytesIO() as image_binary:
+                img.save(image_binary, 'PNG')
+                image_binary.seek(0)
+                await ctx.send(file=discord.File(fp=image_binary, filename="userheart.png"))
 
     @userheart.error
     async def userheart_error(self, ctx, err):
