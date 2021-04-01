@@ -13,8 +13,10 @@ General commands
 
 async def has_permission(ctx):
     # Restrict command.
-    role = discord.utils.get(ctx.guild.roles, name="Moderator")
-    if role in ctx.author.roles:
+    t_mod = discord.utils.get(ctx.guild.roles, name="Trial Moderator")
+    mod = discord.utils.get(ctx.guild.roles, name="Moderator")
+    sr_mod = discord.utils.get(ctx.guild.roles, name="Senior Moderator")
+    if t_mod or mod or sr_mod in ctx.author.roles:
         return True
     else:
         return False

@@ -136,7 +136,7 @@ async def on_message(ctx):
 
 @bot.event
 async def on_member_join(member):
-    unverified_role = discord.utils.get(member.server.roles, id=827100596824834078)
+    unverified_role = discord.utils.get(member.guild.roles, id=827100596824834078)
     await member.add_roles(unverified_role)
 
     welcome_verification_message = f"Welcome {member.mention} to r/mentalillness " \

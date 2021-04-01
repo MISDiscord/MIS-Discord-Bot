@@ -32,9 +32,7 @@ def seconds_to_age(seconds: int):
 
 
 def find_invite_uses_by_code(invite_list, code):
-    print("Find invite by code test output ", invite_list, code)
     for inv in invite_list:
-        print("Invite", inv)
         if str(inv.code) == str(code):
             print(f"Invite found: {inv}")
             return inv.uses
