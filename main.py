@@ -72,15 +72,6 @@ async def on_message(ctx):
     await bot.process_commands(ctx)
     print(ctx.content)
 
-    if ctx.channel.id == 817326358107389963:
-        if ctx.content.lower() == "elephant":
-            member_role_id = 802838038094151692
-            member_role = discord.utils.get(ctx.guild.roles, id=member_role_id)
-            await ctx.author.add_roles(member_role)
-            unverified_role = discord.utils.get(ctx.guild.roles, id=827100596824834078)
-            await ctx.author.remove_roles(unverified_role)
-            await ctx.delete()
-
     if ctx.channel.id == 826474833000661012:
         anonymous_channel_id = 795669876345274378
         #
@@ -138,9 +129,9 @@ async def on_message(ctx):
 async def on_member_join(member):
     # unverified_role = discord.utils.get(member.guild.roles, id=827100596824834078)
     # await member.add_roles(unverified_role)
-    welcome_verification_message = f"Welcome {member.mention} to r/mentalillness " \
-                                   f"Please find the safe word located in <#701102417512628286> and type it in this" \
-                                   f" channel to gain access to the rest of the server."
+    welcome_verification_message = f"Welcome {member.mention} to r/mentalillness! " \
+                                   f"Please read through <#701102417512628286> where you " \
+                                   f"will find instructions to gain access to the server."
 
     verify_channel_id = 817326358107389963
 
