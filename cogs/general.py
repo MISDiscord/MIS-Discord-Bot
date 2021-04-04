@@ -67,6 +67,33 @@ class General(commands.Cog):
 
         await ctx.send(topic)
 
+    @commands.command(name="sparkleheart")
+    async def sparkleheart(self, ctx, *users: discord.Member):
+        mask = Image.open('images/userheart_mask.png').convert('L')
+        sparkles = Image.open('images/userheart_sparkles.png')
+
+        for user in users:
+            avatar_url = user.avatar_url
+
+            response = requests.get(avatar_url)
+
+            img = ImageOps.fit(Image.open(BytesIO(response.content)).convert('RGBA'), mask.size)
+            img.putalpha(mask)
+            img.paste(sparkles, (0, 0), sparkles)
+
+            with BytesIO() as image_binary:
+                img.save(image_binary, 'PNG')
+                image_binary.seek(0)
+                await ctx.send(file=discord.File(fp=image_binary, filename="userheart.png"))
+
+    @sparkleheart.error
+    async def sparkleheart_error(self, ctx, err):
+        print(err)
+        if isinstance(err, discord.ext.commands.MissingRequiredArgument):
+            await ctx.send("Please mention a user!")
+        if isinstance(err, discord.ext.commands.MemberNotFound):
+            await ctx.send("Please provide a valid member!")
+
     @commands.command(name="userheart")
     async def userheart(self, ctx, *users: discord.Member):
         mask = Image.open('images/userheart_mask.png').convert('L')
@@ -79,7 +106,6 @@ class General(commands.Cog):
 
             img = ImageOps.fit(Image.open(BytesIO(response.content)).convert('RGBA'), mask.size)
             img.putalpha(mask)
-            img.paste(sparkles, (0, 0), sparkles)
 
             with BytesIO() as image_binary:
                 img.save(image_binary, 'PNG')

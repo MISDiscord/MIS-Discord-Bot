@@ -154,9 +154,8 @@ class Trivia(commands.Cog):
             await ctx.send("I could not find that member. Please try again!")
 
     # Show user leaderboard
-    @commands.command(name="leaderboard")
-    @commands.check(has_permission)
-    async def leaderboard(self, ctx, *args):
+    @commands.command(name="eventsleaderboard")
+    async def eventsleaderboard(self, ctx, *args):
         if args == ():
             await ctx.send("Please specify a valid command!")
             return
@@ -226,14 +225,15 @@ class Trivia(commands.Cog):
                 print(int(k[0]))
                 member_object = self.bot.get_user(int(k[0]))
                 print(member_object)
-                if len(top_users) >= 1 and k == top_users[0]:
-                    leaderboard_string += " :first_place:      "
-                if len(top_users) >= 2 and k == top_users[1]:
-                    leaderboard_string += " :second_place:      "
-                if len(top_users) >= 3 and k == top_users[2]:
-                    leaderboard_string += " :third_place:      "
-                leaderboard_string += f'{k[2]} **{member_object.name + "#" + member_object.discriminator}**:' \
-                                      f' {k[1]} Points\n'
+                if member_object:
+                    if len(top_users) >= 1 and k == top_users[0]:
+                        leaderboard_string += " :first_place:      "
+                    if len(top_users) >= 2 and k == top_users[1]:
+                        leaderboard_string += " :second_place:      "
+                    if len(top_users) >= 3 and k == top_users[2]:
+                        leaderboard_string += " :third_place:      "
+                    leaderboard_string += f'{k[2]} **{member_object.name + "#" + member_object.discriminator}**:' \
+                                          f' {k[1]} Points\n'
 
         if args != () and args[0] == "final":
 

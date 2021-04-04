@@ -197,39 +197,5 @@ async def on_member_remove(member):
     await bot.get_channel(join_and_leave_logs_channel_id).send(embed=embed)
 
 
-@bot.event
-async def on_reaction_add(reaction, user):
-    print(reaction, user)
-    emojis = [
-        "<:Eggito:821374260831453184>",
-        "<:EggBurto:821380416581009438>",
-        "<:McEgg:821380416669351936>",
-        "<:Eggie:821380416987725864>"
-    ]
-
-    # Regex search for emoji in string
-    search = re.search('(<:\w*:\d*>)', reaction.message.content)
-
-    if reaction.message.author.bot and search is not None and str(reaction.emoji) == str(search.group(0)):
-        # Open file, get data, then close connection
-        scoreboard_file = open('eggs.json', 'r')
-        data = json.load(scoreboard_file)
-        scoreboard_file.close()
-
-        # Update data
-        if str(user.id) in data:
-            data[str(user.id)] += 1
-        else:
-            data[str(user.id)] = 1
-
-        # Save data and close connection
-        f = open('eggs.json', 'w')
-        json.dump(data, f)
-        f.close()
-
-        # Delete message
-        await reaction.message.delete()
-
-
 # Run the bot with token specified in .env
 bot.run(os.getenv("BOT_TOKEN"))

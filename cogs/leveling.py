@@ -12,8 +12,8 @@ Leveling commands. Not yet complete.
 try:
     dbdir = os.getcwd() + '/database.sqlite'
     conn = custom_functions.SqliteConnection(dbdir).conn
-except AttributeError as err:
-    print("Failed to connect to sqlite table!", err)
+except AttributeError as error:
+    print("Failed to connect to sqlite table!", error)
 
 
 class Leveling(commands.Cog):
