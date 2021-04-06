@@ -37,15 +37,6 @@ class General(commands.Cog):
     async def leavevc(self, ctx):
         await ctx.voice_client.disconnect()
 
-    @commands.command(name="rickroll")
-    async def rickroll(self, ctx, user: discord.Member):
-        await user.send("https://www.youtube.com/watch?v=dQw4w9WgXcQ")
-
-    @rickroll.error
-    async def rickroll_error(self, ctx, err):
-        if isinstance(err, discord.ext.commands.MemberNotFound):
-            await ctx.send("Please provide a valid member!")
-
     @commands.command(name="send")
     @commands.check(has_permission)
     async def send(self, ctx, channel: discord.TextChannel, *content):

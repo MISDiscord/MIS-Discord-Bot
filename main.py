@@ -170,7 +170,7 @@ async def on_member_join(member):
                          url=f'{member.avatar_url}',
                          icon_url=f'{member.avatar_url}')
         embed.add_field(name='Welcome to Mental Health of Reddit',
-                        value=f'{member.mention} has joined using the vanity invite!',
+                        value=f'{member.mention} has joined using server discovery!',
                         inline=False)
         time = divmod((datetime.now() - bot.get_user(member.id).created_at).total_seconds(), 1)[0]
         embed.set_footer(text=f'Account Age: {custom_functions.seconds_to_age(int(time))}')
