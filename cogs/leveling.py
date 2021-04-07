@@ -53,13 +53,14 @@ class Leveling(commands.Cog):
             level = result[0]
             await ctx.send(f'{user.name}#{user.discriminator} is level {level}!')
 
-            # Assign roles
-            level_roles = [5, 10, 20, 30, 40, 50, 60, 70, 80]
-            index = int((level - level % 10) / 10)
-            role = discord.utils.find(lambda r: r.name == f"Level {level_roles[index]}", ctx.guild.roles)
+            if level >= 5:
+                # Assign roles
+                level_roles = [5, 10, 20, 30, 40, 50, 60, 70, 80]
+                index = int((level - level % 10) / 10)
+                role = discord.utils.find(lambda r: r.name == f"Level {level_roles[index]}", ctx.guild.roles)
 
-            if role and role not in user.roles:
-                await user.add_roles(role)
+                if role and role not in user.roles:
+                    await user.add_roles(role)
 
         else:
             # Execute query to get user's level.
@@ -71,14 +72,15 @@ class Leveling(commands.Cog):
             # Reply with level number
             await ctx.send(f'You are level {level}!')
 
-            # Assign roles
-            level_roles = [5, 10, 20, 30, 40, 50, 60, 70, 80]
-            index = int((level - level % 10) / 10)
+            if level >= 5:
+                # Assign roles
+                level_roles = [5, 10, 20, 30, 40, 50, 60, 70, 80]
+                index = int((level - level % 10) / 10)
 
-            role = discord.utils.find(lambda r: r.name == f"Level {level_roles[index]}", ctx.guild.roles)
+                role = discord.utils.find(lambda r: r.name == f"Level {level_roles[index]}", ctx.guild.roles)
 
-            if role and role not in ctx.author.roles:
-                await ctx.author.add_roles(role)
+                if role and role not in ctx.author.roles:
+                    await ctx.author.add_roles(role)
         cursor.close()
 
     @level.error
