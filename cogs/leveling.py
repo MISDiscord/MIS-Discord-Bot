@@ -50,19 +50,40 @@ class Leveling(commands.Cog):
             cursor = conn.cursor()
             cursor.execute(f'SELECT level FROM message_levels WHERE user_id = {user.id}')
             result = cursor.fetchone()
-            await ctx.send(f'{user.name}#{user.discriminator} is level {result[0]}!')
+            level = result[0]
+            await ctx.send(f'{user.name}#{user.discriminator} is level {level}!')
+
+            # Assign roles
+            level_roles = [5, 10, 20, 30, 40, 50, 60, 70, 80]
+            index = int((level - level % 10) / 10)
+            role = discord.utils.find(lambda r: r.name == f"Level {level_roles[index]}", ctx.guild.roles)
+
+            if role and role not in user.roles:
+                await user.add_roles(role)
+
         else:
-            # Execute query to get xp from specified user.
+            # Execute query to get user's level.
             cursor = conn.cursor()
             cursor.execute(f'SELECT level FROM message_levels WHERE user_id = {ctx.author.id}')
             result = cursor.fetchone()
+            level = int(result[0])
 
-            # Send the amount of experience the user has.
-            await ctx.send(f'You are level {result[0]}!')
-            cursor.close()
+            # Reply with level number
+            await ctx.send(f'You are level {level}!')
+
+            # Assign roles
+            level_roles = [5, 10, 20, 30, 40, 50, 60, 70, 80]
+            index = int((level - level % 10) / 10)
+
+            role = discord.utils.find(lambda r: r.name == f"Level {level_roles[index]}", ctx.guild.roles)
+
+            if role and role not in ctx.author.roles:
+                await ctx.author.add_roles(role)
+        cursor.close()
 
     @level.error
     async def level_error(self, ctx, err):
+        print(err)
         if isinstance(err, discord.ext.commands.BadArgument):
             await ctx.send("I could not find that member. Please try again.")
 

@@ -64,6 +64,7 @@ cooldown_list = {}
 
 @bot.event
 async def on_message(ctx):
+
     # Bots can't trigger events
     if ctx.author.bot:
         return
@@ -116,7 +117,15 @@ async def on_message(ctx):
                 conn.commit()
             else:
                 newXP = result[0][0] + xp
-                level = np.floor(np.sqrt(newXP / 200))
+
+                level = int(np.floor((1+np.sqrt(1+(4*newXP)/25))/4))
+
+                level_roles = [5, 10, 20, 30, 40, 50, 60, 70, 80]
+
+                if level in level_roles:
+                    level_role = discord.utils.find(lambda r: r.name == f"Level {level}", ctx.guild.roles)
+                    if level_role and level_role not in ctx.author.roles:
+                        await ctx.author.add_roles(level_role)
 
                 print(f'{ctx.author.name} got {xp} XP points. They now have {newXP} experience.')
                 cursor.execute(
@@ -175,6 +184,7 @@ async def on_member_join(member):
         time = divmod((datetime.now() - bot.get_user(member.id).created_at).total_seconds(), 1)[0]
         embed.set_footer(text=f'Account Age: {custom_functions.seconds_to_age(int(time))}')
         await bot.get_channel(join_and_leave_logs_channel_id).send(embed=embed)
+
 
 # Print out errors
 @bot.event
