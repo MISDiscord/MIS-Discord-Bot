@@ -72,7 +72,19 @@ async def on_message(ctx):
     # Process commands if message starts with specified prefix
     await bot.process_commands(ctx)
     print(ctx.content)
-
+    
+    if ctx.channel.id == 817326358107389963 and ctx.content == "$verify":
+        embed = discord.Embed(title="r/mentalillness", color=0x7b57d4)
+        embed.add_field(name="Welcome to r/mentalillness",
+                        value=f"Hey, {ctx.author.mention}!\nHead over to <#808934814689918996> to grab some roles "
+                              f"and introduce yourself in <#702569287214301206>.\n"
+                              f"Feel free to start a conversation in <#824532627339083786> or join a current one and"
+                              f" say hi.\nIf you need any support please head over to any of our heavy channels.\n"
+                              f"Any questions? Feel free to file a ticket or ask in <#826478320472293407>.",
+                        inline=False)
+        # await bot.get_channel(828909612291457045).send(embed=embed)
+        await bot.get_channel(827096861043064852).send(embed=embed)
+    
     if ctx.channel.id == 826474833000661012:
         anonymous_channel_id = 795669876345274378
         #
@@ -92,7 +104,7 @@ async def on_message(ctx):
         embed = discord.Embed(title="", url="")
         embed.set_author(name=f"{ctx.author.name}#{ctx.author.discriminator}", icon_url=ctx.author.avatar_url)
         embed.add_field(name="Message Content:", value=ctx.content, inline=False)
-        embed.set_footer(text=f"ID: {ctx.author.id} • {datetime.now().strftime('Today    at %I:%M %p')}")
+        embed.set_footer(text=f"ID: {ctx.author.id} • {datetime.now().strftime('Today at %I:%M %p')}")
 
         await bot.get_channel(826516916196999198).send(embed=embed)
 
@@ -132,6 +144,12 @@ async def on_message(ctx):
                     f'UPDATE message_levels SET xp = {newXP}, level = {level} WHERE user_id = {ctx.author.id}')
                 conn.commit()
             cooldown_list[ctx.author.id] = datetime.now()
+
+    with open(f"logs/{str(ctx.channel.id)}-{ctx.channel.name}.txt", "a+", encoding="utf8") as f:
+        time = datetime.now()
+        user = f"{ctx.author.name}#{ctx.author.discriminator}"
+        f.write(f"[{str(time)[:-7]}] ({ctx.author.id}) {user}: {ctx.system_content}\n")
+        f.close()
 
 
 @bot.event

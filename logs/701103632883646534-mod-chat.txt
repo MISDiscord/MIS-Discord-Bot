@@ -1,0 +1,63 @@
+[2021-04-08 21:24:21] (222479899808628736) Michael#3287: ok i've entirely refreshed the logs so it'll start recording now
+[2021-04-08 21:24:53] (222479899808628736) Michael#3287: and you can pull the last n messages from any channel with /channellogs <amount> #channel-mention
+[2021-04-08 21:24:59] (222479899808628736) Michael#3287: and it'll include stuff that's been deleted
+[2021-04-08 21:25:37] (222479899808628736) Michael#3287: i maxed it out so you can't request more than 1,000 messages just so the command doesnt take too long if there's a typo or something and you do too many
+[2021-04-08 21:25:47] (222479899808628736) Michael#3287: i can up the limit but if you want like the *entire* file just lmk and i can grab it from the server
+[2021-04-08 21:26:35] (222479899808628736) Michael#3287: also if you want a shorter command feel free to suggest an alias
+[2021-04-08 21:27:03] (396441108995112970) beebee#3442: maybe just /logs <amount> channel mention
+[2021-04-08 21:27:09] (222479899808628736) Michael#3287: sounds good
+[2021-04-08 21:28:22] (396441108995112970) beebee#3442: but we should never need more than 1000
+[2021-04-08 21:30:00] (222479899808628736) Michael#3287: /logs 200 <#701103632883646534>
+[2021-04-08 21:30:07] (222479899808628736) Michael#3287: ok cool you can use /logs now
+[2021-04-08 21:30:11] (222479899808628736) Michael#3287: and yeah i figured 1000 is a good number
+[2021-04-08 21:46:42] (396441108995112970) beebee#3442: <@!516313738588979210> ya know flourish is struggling? well sy is, ive been talking to her about some different stuff, mainly events, so i was wondering if <@!543871424188907544> once their revamp is over, you do such an amazing job here, to help out over there and help that get up and running, ofc you're welcome to say no and it wouldnt be until sy has figured out what she's doing with the server
+[2021-04-08 21:49:44] (543871424188907544) awesomenoodles#4169: i dont mind doing that, but thats certainly something i cant do on my own
+[2021-04-08 21:50:01] (543871424188907544) awesomenoodles#4169: as long as a small team can be made im in
+[2021-04-08 21:50:22] (543871424188907544) awesomenoodles#4169: even if its just one or two more people alongside me
+[2021-04-08 21:51:41] (396441108995112970) beebee#3442: i’d definitely help you out with it, and hopefully the owner is looking about bringing new staff in, so they’d be able to help out too, it’s just a rough idea, i hate to see such a nice server go to waste, and she’s really struggling bless her
+[2021-04-08 21:52:10] (543871424188907544) awesomenoodles#4169: yeah im totally down to do it
+[2021-04-08 21:55:49] (184040294851936256) jupiter#5970: *what should i do about the two support tickets*
+[2021-04-08 21:56:57] (543871424188907544) awesomenoodles#4169: close caplo's they probably forgot about that and dont need it, if they do they can file a new one
+[2021-04-08 21:57:07] (543871424188907544) awesomenoodles#4169: and for ashy boi's maybe just ping them?
+[2021-04-08 21:57:15] (396441108995112970) beebee#3442: it’s been over 24hrs
+[2021-04-08 21:57:33] (396441108995112970) beebee#3442: i’ll add something into the rules about keeping it open for 24hrs and then it getting closed
+[2021-04-08 21:57:59] (396441108995112970) beebee#3442: i’m also gonna write up a rule list for people using the system of what they can expect ect
+[2021-04-08 21:58:06] (396441108995112970) beebee#3442: someone remind me about that if i don’t do it
+[2021-04-08 21:58:42] (184040294851936256) jupiter#5970: can you also add that you can’t ping private support if they don’t get to your ticket asap
+[2021-04-08 21:59:12] (396441108995112970) beebee#3442: absolutely
+[2021-04-08 21:59:16] (184040294851936256) jupiter#5970: thank you
+[2021-04-08 21:59:20] (396441108995112970) beebee#3442: it’s in the top of the ticket but people can’t read
+[2021-04-08 22:00:25] (184040294851936256) jupiter#5970: yeah i know
+[2021-04-08 22:00:46] (543871424188907544) awesomenoodles#4169: im talking to sy about this rn
+[2021-04-08 22:00:59] (222479899808628736) Michael#3287: instead of $verify we should make people upload scores from online literacy tests /s
+[2021-04-08 22:01:08] (396441108995112970) beebee#3442: make a list in <#801504927947554876> of anything you want me to include
+[2021-04-08 22:01:17] (396441108995112970) beebee#3442: lmaoo lily would fail
+[2021-04-08 22:01:27] (222479899808628736) Michael#3287: so would i if we're being honest lmao
+[2021-04-08 22:01:52] (222479899808628736) Michael#3287: i set my bag of food down apparently it was unbalanced and fell
+[2021-04-08 22:02:03] (222479899808628736) Michael#3287: i spent the last 10 minutes cleaning up french fry crumbs and soda
+[2021-04-08 22:04:53] (396441108995112970) beebee#3442: <@!184040294851936256> go careful with med talk, bet ya there’s gonna ask for recommendations
+[2021-04-08 22:05:26] (184040294851936256) jupiter#5970: yeah i’m aware
+[2021-04-08 22:20:36] (184040294851936256) jupiter#5970: is it ok that beth was telling people to stop typing in the chat
+[2021-04-08 22:21:18] (222479899808628736) Michael#3287: i don't really think so
+[2021-04-08 22:21:19] (184040294851936256) jupiter#5970: cause in imo that was disrespectful to everyone else in the chat
+[2021-04-08 22:21:22] (222479899808628736) Michael#3287: ^
+[2021-04-08 22:22:24] (396441108995112970) beebee#3442: well i mean people are allowed to say when somethings annoying rm
+[2021-04-08 22:23:10] (396441108995112970) beebee#3442: so i don’t think they did anything wrong
+[2021-04-08 22:23:21] (396441108995112970) beebee#3442: we’re you gonna warn em?
+[2021-04-08 22:23:49] (184040294851936256) jupiter#5970: no but i don’t understand why they couldn’t mute the server if they don’t want to get notifications
+[2021-04-08 22:24:26] (396441108995112970) beebee#3442: maybe they just wanted to talk to people
+[2021-04-08 22:26:05] (396441108995112970) beebee#3442: i mean they were rude but people were annoying them
+[2021-04-08 22:26:43] (222479899808628736) Michael#3287: b it's not your job to intentionally disagree just for the sake of "testing" people, we want to avoid unnecessary arguments not start them
+[2021-04-08 22:27:53] (396441108995112970) beebee#3442: i’m not trying to start an argument, i’m trying to see if they’re confident enough to speak out when they think something is wrong
+[2021-04-08 22:29:38] (222479899808628736) Michael#3287: that's still not your job to see how confident they are. Jupiter was promoted because they've shown they're more than capable of handling themselves when complicated situations arise, you guys don't need to undergo constant tests and neither should they
+[2021-04-08 22:31:41] (396441108995112970) beebee#3442: i’m well aware how capable they are michael, all of our new mods are. but the ability to speak out when you think something is wrong is an important one, of being able to have your own opinion and stand firm in your decision making process
+[2021-04-08 22:33:10] (222479899808628736) Michael#3287: Which is exactly what I am doing right now, with a genuine disagreement, not something made up for the sake of seeing how you respond. I'm not saying that skill isn't important, I'm saying it's not your place to go around testing people to see if they can or not
+[2021-04-08 22:34:11] (222479899808628736) Michael#3287: I'm sorry that I didn't reply to your dm saying you were going to do this earlier, I was tabbed out
+[2021-04-08 22:34:24] (184040294851936256) jupiter#5970: michael i appreciate that bee tries to push me to voice my opinion more. it’s definitely a big issue that i face and i would honestly label it my biggest flaw as a mod. i don’t think you have to get upset about this since it’s my decision whether i want to be challenged or not
+[2021-04-08 22:34:52] (184040294851936256) jupiter#5970: i appreciate the concern but i can handle it.
+[2021-04-08 22:35:08] (184040294851936256) jupiter#5970: if it was too much, i would let you all know.
+[2021-04-08 22:36:09] (222479899808628736) Michael#3287: Sorry, I didn't mean to come across as implying you couldn't handle it, my issue is with the idea, not that she's doing it to you specifically. Considering how many arguments and team drama has resulted from you doing things like this, I would've thought you would know better b, to just avoid it altogether
+[2021-04-08 22:37:11] (222479899808628736) Michael#3287: From previous experience with all that's happened here over the past year, we have absolutely no reason to uselessly invite opportunities for arguments, which is what it seems like you were expecting jupiter to do
+[2021-04-08 22:37:38] (222479899808628736) Michael#3287: Which I am proud of you for handling well Jupiter
+[2021-04-08 22:38:08] (396441108995112970) beebee#3442: michael if you have a problem, feel free to dm me, but i will not engaging with you on this topic in this chat.
+[2021-04-08 22:40:20] (222479899808628736) Michael#3287: alright if you have anything more to add, you can message me, but I've said all that I need to. This was a team discussion which is why I put it here

@@ -3,6 +3,8 @@ import discord
 from discord.ext import commands
 import custom_functions
 import sqlite3
+from datetime import datetime
+import asyncio
 
 """
 Leveling commands. Not yet complete.
@@ -28,6 +30,7 @@ class Leveling(commands.Cog):
             cursor.execute(f'SELECT xp FROM message_levels WHERE user_id = {user.id}')
             result = cursor.fetchone()
             await ctx.send(f'{user.name}#{user.discriminator} has {result[0]} experience points!')
+            cursor.close()
         else:
             # Execute query to get xp from specified user.
             cursor = conn.cursor()
