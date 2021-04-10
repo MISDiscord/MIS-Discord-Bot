@@ -64,8 +64,8 @@ class General(commands.Cog):
             await ctx.send("Please provide a number of messages to retrieve the logs for!")
         if isinstance(err, discord.ext.commands.BadArgument):
             await ctx.send("Input could not be understood! "
-                           "Please be sure to provide an integer value for the number of messages to retrieve logs for, "
-                           "as well as the specified channel.")
+                           "Please be sure to provide an integer value for the number of messages to retrieve logs "
+                           "for, as well as the specified channel.")
 
     @commands.command(name="messagelog")
     @commands.check(has_permission)

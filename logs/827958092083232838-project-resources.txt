@@ -1,0 +1,61 @@
+[2021-04-09 10:16:27] (516313738588979210) Lil#1500: ————————————
+[2021-04-09 10:16:37] (516313738588979210) Lil#1500: NEW PROJECT TIME
+[2021-04-09 10:19:03] (516313738588979210) Lil#1500: Okie
+[2021-04-09 10:19:04] (516313738588979210) Lil#1500: So
+[2021-04-09 10:19:13] (516313738588979210) Lil#1500: We could make additional custom commands he
+[2021-04-09 10:19:16] (516313738588979210) Lil#1500: *ye
+[2021-04-09 10:19:23] (516313738588979210) Lil#1500: What ideas have we got for that?
+[2021-04-09 10:20:17] (821012679816249424) Avery | Library Collective#3148: in one of the server's we're in they have multiple responses to the same command (so when you do the breathing command you can get different ones or so), maybe something like that? if that's doable
+[2021-04-09 10:20:59] (516313738588979210) Lil#1500: That could be possible? I’m not quite sure how to do that with dyno but I can make it so the breathe commands have numbers after them
+[2021-04-09 10:21:14] (516313738588979210) Lil#1500: So you could be like $breathe2 etc
+[2021-04-09 10:21:18] (821012679816249424) Avery | Library Collective#3148: they have it with nadeko bot, i'm not sure
+[2021-04-09 10:21:24] (821012679816249424) Avery | Library Collective#3148: oh yeah, that could work too
+[2021-04-09 10:22:31] (516313738588979210) Lil#1500: I’ve seen that in Galaxy did server
+[2021-04-09 10:22:41] (516313738588979210) Lil#1500: I just don’t wanna add more bots
+[2021-04-09 10:22:45] (821012679816249424) Avery | Library Collective#3148: mmh yeah thats the one i mean
+[2021-04-09 10:22:48] (821012679816249424) Avery | Library Collective#3148: yeah fair
+[2021-04-09 10:24:34] (821012679816249424) Avery | Library Collective#3148: but yeah then maybe multiple commands would make sense
+[2021-04-09 10:24:51] (516313738588979210) Lil#1500: I like the resources Lizzy sent but some of them are blurry
+[2021-04-09 10:24:57] (516313738588979210) Lil#1500: And I don’t want blurry pics
+[2021-04-09 10:25:02] (821012679816249424) Avery | Library Collective#3148: is there a limit on how many you can add and if yes are we close to that?
+[2021-04-09 10:25:10] (821012679816249424) Avery | Library Collective#3148: we can try finding more high res ones
+[2021-04-09 10:25:31] (516313738588979210) Lil#1500: There’s no limit but I just don’t think we need more bots when we could probs do it with the ones we’ve got
+[2021-04-09 10:25:59] (821012679816249424) Avery | Library Collective#3148: no i meant the custom commands sorry
+[2021-04-09 10:26:36] (516313738588979210) Lil#1500: OH
+[2021-04-09 10:26:38] (516313738588979210) Lil#1500: nah
+[2021-04-09 10:26:41] (516313738588979210) Lil#1500: I don’t think so
+[2021-04-09 10:27:00] (821012679816249424) Avery | Library Collective#3148: nice
+[2021-04-09 10:27:54] (516313738588979210) Lil#1500: What resources do we like of the ones lizzy sent?
+[2021-04-09 10:27:57] (516313738588979210) Lil#1500: Tho
+[2021-04-09 10:30:17] (821012679816249424) Avery | Library Collective#3148: some of them are just the same thing but in different formats
+[2021-04-09 10:30:27] (821012679816249424) Avery | Library Collective#3148: like the 478 breathing thing for example
+[2021-04-09 10:30:33] (516313738588979210) Lil#1500: Yeah
+[2021-04-09 10:30:41] (516313738588979210) Lil#1500: Wanna go through and send the ones you like here?
+[2021-04-09 10:30:58] (821012679816249424) Avery | Library Collective#3148: mhm sure
+[2021-04-09 10:31:00] (821012679816249424) Avery | Library Collective#3148: 1 sec then
+[2021-04-09 10:31:19] (516313738588979210) Lil#1500: Thank you
+[2021-04-09 10:31:55] (516313738588979210) Lil#1500: Imma see if I can find some myself too
+[2021-04-09 10:33:18] (821012679816249424) Avery | Library Collective#3148: 
+[2021-04-09 10:33:46] (821012679816249424) Avery | Library Collective#3148: 4 n 5 are a bit blurry but there are sources
+[2021-04-09 10:35:36] (516313738588979210) Lil#1500: Some of them are just a detailed description of others hmm
+[2021-04-09 10:36:14] (821012679816249424) Avery | Library Collective#3148: hmm yea
+[2021-04-09 10:36:31] (821012679816249424) Avery | Library Collective#3148: i tried to pick the ones that include others already
+[2021-04-09 10:37:05] (516313738588979210) Lil#1500: Do you think we need all of them?
+[2021-04-09 10:38:06] (821012679816249424) Avery | Library Collective#3148: probably not
+[2021-04-09 10:38:33] (821012679816249424) Avery | Library Collective#3148: the ones that i like the most are the muscle thing, those sentences and probably one of the first two
+[2021-04-09 10:40:20] (516313738588979210) Lil#1500: I like the same as you but the first one not the second
+[2021-04-09 17:28:31] (516313738588979210) Lil#1500: <@&793917061243994134> ideas for <#800113531999485982>
+[2021-04-09 17:29:11] (184040294851936256) jupiter#5970: the muscle one is a good technique
+[2021-04-09 19:23:46] (516313738588979210) Lil#1500: What do you think about maybe making a carrd for resources?
+[2021-04-09 19:23:48] (516313738588979210) Lil#1500: Hmm idk
+[2021-04-09 19:24:26] (516313738588979210) Lil#1500: I’m trying to think of ideas what we could do with the channel
+[2021-04-09 19:33:24] (533736043736858627) yxng_pxriah#1969: i mean a carrd would be easy but i doubt people would use them
+[2021-04-09 19:33:39] (516313738588979210) Lil#1500: true
+[2021-04-09 19:33:48] (516313738588979210) Lil#1500: So maybe just organise the channel or make more commands?
+[2021-04-09 19:36:17] (533736043736858627) yxng_pxriah#1969: im not sure we could stick multiple pictures to one command so
+[2021-04-09 19:36:25] (533736043736858627) yxng_pxriah#1969: channels ig
+[2021-04-09 19:37:20] (516313738588979210) Lil#1500: I can do multiple commands tho?
+[2021-04-09 19:37:46] (516313738588979210) Lil#1500: Hmmm
+[2021-04-09 19:37:52] (533736043736858627) yxng_pxriah#1969: i mean i feel like people might stick to a single one
+[2021-04-09 19:37:58] (533736043736858627) yxng_pxriah#1969: but feel free
+[2021-04-09 19:38:11] (516313738588979210) Lil#1500: Lemme see if I can randomise it

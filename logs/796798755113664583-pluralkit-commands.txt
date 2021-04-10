@@ -1,0 +1,99 @@
+[2021-04-09 03:14:27] (816103117183123476) 𝖑𝖔𝖎𝖈(mako sys)#6610: pk;system
+[2021-04-09 03:16:02] (816103117183123476) 𝖑𝖔𝖎𝖈(mako sys)#6610: pk;member 𝖑𝖔𝖎𝖈 rename Loic
+[2021-04-09 03:19:25] (816103117183123476) 𝖑𝖔𝖎𝖈(mako sys)#6610: pk;member Loic proxy firetruck
+[2021-04-09 03:21:03] (816103117183123476) 𝖑𝖔𝖎𝖈(mako sys)#6610: pk;member Loic proxy firetruck text
+[2021-04-09 03:22:27] (816103117183123476) 𝖑𝖔𝖎𝖈(mako sys)#6610: test firetruck
+[2021-04-09 03:22:39] (816103117183123476) 𝖑𝖔𝖎𝖈(mako sys)#6610: test firetruck text
+[2021-04-09 03:24:12] (816103117183123476) 𝖑𝖔𝖎𝖈(mako sys)#6610: pk;member Loic autoproxy on
+[2021-04-09 03:25:56] (816103117183123476) 𝖑𝖔𝖎𝖈(mako sys)#6610: test firetruck
+[2021-04-09 03:26:07] (816103117183123476) 𝖑𝖔𝖎𝖈(mako sys)#6610: test firetruck text
+[2021-04-09 03:26:19] (816103117183123476) 𝖑𝖔𝖎𝖈(mako sys)#6610: can someone help me?
+[2021-04-09 03:26:31] (462713398187130884) moonielove244 ★#3912: Put fire truck before you what you want to say
+[2021-04-09 03:26:38] (462713398187130884) moonielove244 ★#3912: You replace the text with what you want to say
+[2021-04-09 03:26:56] (462713398187130884) moonielove244 ★#3912: mine is crane: text so i’d do crane: hello to say hello
+[2021-04-09 03:27:00] (462713398187130884) moonielove244 ★#3912: crane: like that
+[2021-04-09 03:27:33] (816103117183123476) 𝖑𝖔𝖎𝖈(mako sys)#6610: firetruck test
+[2021-04-09 03:27:38] (816103117183123476) 𝖑𝖔𝖎𝖈(mako sys)#6610: oh
+[2021-04-09 03:27:43] (816103117183123476) 𝖑𝖔𝖎𝖈(mako sys)#6610: ty!!!
+[2021-04-09 03:28:03] (462713398187130884) moonielove244 ★#3912: No problem!
+[2021-04-09 04:52:23] (724929820726919180) Yuki_blue <3#2872: pk;autoproxy off
+[2021-04-09 06:03:23] (724929820726919180) Yuki_blue <3#2872: pk;autoproxy on
+[2021-04-09 06:03:49] (724929820726919180) Yuki_blue <3#2872: pk;autoproxy front
+[2021-04-09 06:06:40] (609434268149743626) Ursa Major System#4025: pk; ap Andy
+[2021-04-09 06:08:32] (724929820726919180) Yuki_blue <3#2872: pk;autoproxy off
+[2021-04-09 07:33:45] (259234944524615681) Diamondroxxx#4956: <@!724929820726919180> hiya!
+[2021-04-09 07:34:02] (724929820726919180) Yuki_blue <3#2872: Hewoo
+[2021-04-09 07:34:29] (259234944524615681) Diamondroxxx#4956: alright so
+[2021-04-09 07:34:30] (259234944524615681) Diamondroxxx#4956: firstly
+[2021-04-09 07:34:33] (259234944524615681) Diamondroxxx#4956: what's your name?
+[2021-04-09 07:34:42] (724929820726919180) Yuki_blue <3#2872: Oh I'm Aaliyah
+[2021-04-09 07:34:57] (259234944524615681) Diamondroxxx#4956: Nice to meet you! I'm Ava :D
+[2021-04-09 07:35:02] (259234944524615681) Diamondroxxx#4956: oki so
+[2021-04-09 07:35:08] (259234944524615681) Diamondroxxx#4956: av. This is a proxy account.
+[2021-04-09 07:35:22] (724929820726919180) Yuki_blue <3#2872: Oh ok it's so amazing
+[2021-04-09 07:35:39] (259234944524615681) Diamondroxxx#4956: by using pluralkit my headmates and I can communicate through the same main discord account
+[2021-04-09 07:36:01] (259234944524615681) Diamondroxxx#4956: so for example here's one of my other headmate's proxy
+[2021-04-09 07:36:07] (259234944524615681) Diamondroxxx#4956: er. Test
+[2021-04-09 07:36:20] (724929820726919180) Yuki_blue <3#2872: Oh okie it's so amazing
+[2021-04-09 07:37:04] (259234944524615681) Diamondroxxx#4956: mhmm it's pretty cool
+[2021-04-09 07:37:09] (259234944524615681) Diamondroxxx#4956: would you like to set one up for yourself?
+[2021-04-09 07:37:36] (724929820726919180) Yuki_blue <3#2872: Oh how??
+[2021-04-09 07:38:44] (259234944524615681) Diamondroxxx#4956: type `pk;m new Aaliyah`
+[2021-04-09 07:39:04] (724929820726919180) Yuki_blue <3#2872: pk;m new Aaliyah
+[2021-04-09 07:39:22] (259234944524615681) Diamondroxxx#4956: oh
+[2021-04-09 07:39:22] (724929820726919180) Yuki_blue <3#2872: Ohhhh so I already have an account
+[2021-04-09 07:39:26] (259234944524615681) Diamondroxxx#4956: mhmm seems like it
+[2021-04-09 07:39:48] (724929820726919180) Yuki_blue <3#2872: Wait did that host created my proxy account
+[2021-04-09 07:40:12] (259234944524615681) Diamondroxxx#4956: maybe
+[2021-04-09 07:40:21] (259234944524615681) Diamondroxxx#4956: can you do `pk;m Aaliyah` for me?
+[2021-04-09 07:40:30] (724929820726919180) Yuki_blue <3#2872: Oh okiee
+[2021-04-09 07:40:42] (724929820726919180) Yuki_blue <3#2872: pk;m Aaliyah
+[2021-04-09 07:41:07] (724929820726919180) Yuki_blue <3#2872: Oh by the way what is proxy tags?
+[2021-04-09 07:41:14] (259234944524615681) Diamondroxxx#4956: oki so
+[2021-04-09 07:41:33] (259234944524615681) Diamondroxxx#4956: proxy tags are how pluralkit knows who to send the message as
+[2021-04-09 07:41:42] (259234944524615681) Diamondroxxx#4956: for example if I type `av. hello`
+[2021-04-09 07:41:45] (259234944524615681) Diamondroxxx#4956: av. hello
+[2021-04-09 07:41:48] (259234944524615681) Diamondroxxx#4956: then that happens
+[2021-04-09 07:41:56] (259234944524615681) Diamondroxxx#4956: so if you type `heart hello`
+[2021-04-09 07:42:03] (259234944524615681) Diamondroxxx#4956: it should come proxied
+[2021-04-09 07:42:08] (724929820726919180) Yuki_blue <3#2872: I try it
+[2021-04-09 07:42:14] (724929820726919180) Yuki_blue <3#2872: Heart hello
+[2021-04-09 07:42:20] (724929820726919180) Yuki_blue <3#2872: Eh?
+[2021-04-09 07:42:28] (259234944524615681) Diamondroxxx#4956: without the capital
+[2021-04-09 07:42:29] (724929820726919180) Yuki_blue <3#2872: There's nothing happened
+[2021-04-09 07:42:32] (259234944524615681) Diamondroxxx#4956: it's case sensitive
+[2021-04-09 07:42:44] (724929820726919180) Yuki_blue <3#2872: Oh okie I try again
+[2021-04-09 07:42:56] (724929820726919180) Yuki_blue <3#2872: Heart hello
+[2021-04-09 07:43:06] (724929820726919180) Yuki_blue <3#2872: heart hello
+[2021-04-09 07:43:17] (724929820726919180) Yuki_blue <3#2872: Yayy I did it
+[2021-04-09 07:43:20] (259234944524615681) Diamondroxxx#4956: yayyy
+[2021-04-09 07:43:39] (724929820726919180) Yuki_blue <3#2872: Thankiees <@259234944524615681>
+[2021-04-09 07:43:41] (259234944524615681) Diamondroxxx#4956: would you like it to automatically proxy messages?
+[2021-04-09 07:43:48] (724929820726919180) Yuki_blue <3#2872: Uh sure
+[2021-04-09 07:43:53] (724929820726919180) Yuki_blue <3#2872: But how?
+[2021-04-09 07:43:58] (259234944524615681) Diamondroxxx#4956: you can do `pk;ap latch`
+[2021-04-09 07:44:13] (724929820726919180) Yuki_blue <3#2872: pk;ap latch
+[2021-04-09 07:44:17] (259234944524615681) Diamondroxxx#4956: then it'll proxy automatically to whoever proxied last
+[2021-04-09 07:44:25] (724929820726919180) Yuki_blue <3#2872: Oh okiee
+[2021-04-09 07:44:33] (259234944524615681) Diamondroxxx#4956: so now you don't need to type `heart` every time
+[2021-04-09 07:44:37] (724929820726919180) Yuki_blue <3#2872: Wow it's sooo amazing
+[2021-04-09 07:44:39] (259234944524615681) Diamondroxxx#4956: and done tadah!
+[2021-04-09 07:45:14] (724929820726919180) Yuki_blue <3#2872: Did the pluralkit knows who frontedm
+[2021-04-09 07:46:46] (259234944524615681) Diamondroxxx#4956: you can tell it that
+[2021-04-09 07:46:59] (259234944524615681) Diamondroxxx#4956: by doing `pk;sw Aaliyah`
+[2021-04-09 07:48:34] (724929820726919180) Yuki_blue <3#2872: Okie thank you<@259234944524615681>
+[2021-04-09 07:48:48] (724929820726919180) Yuki_blue <3#2872: pk;sw Aaliyah
+[2021-04-09 07:48:50] (259234944524615681) Diamondroxxx#4956: np
+[2021-04-09 07:49:03] (724929820726919180) Yuki_blue <3#2872: Woww it's really amaaaziinggg
+[2021-04-09 07:50:05] (259234944524615681) Diamondroxxx#4956: mhm it's pretty cool
+[2021-04-09 07:50:17] (724929820726919180) Yuki_blue <3#2872: Ye
+[2021-04-09 09:29:22] (821012679816249424) Avery | Library Collective#3148: pk;ap latch
+[2021-04-09 09:29:23] (821012679816249424) Avery | Library Collective#3148: test
+[2021-04-09 10:14:49] (724929820726919180) Yuki_blue <3#2872: Pk;m Aaliyah
+[2021-04-09 11:18:53] (724929820726919180) Yuki_blue <3#2872: Hachi hi
+[2021-04-09 11:19:00] (724929820726919180) Yuki_blue <3#2872: Ok
+[2021-04-09 11:19:29] (724929820726919180) Yuki_blue <3#2872: Pk;ap Yuki
+[2021-04-09 11:20:14] (724929820726919180) Yuki_blue <3#2872: Pk.sw Yuki
+[2021-04-09 11:20:34] (724929820726919180) Yuki_blue <3#2872: pk;sw Yuki
+[2021-04-09 17:51:25] (733577184031277086) ´•.𝓢𝓽𝓪𝓻𝓵𝓲𝓰𝓱𝓽.•´#0001: pk;ap latch
+[2021-04-09 16:14:23] (717638444314263672) sam_the_jam#6696: pk;ap latch

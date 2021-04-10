@@ -1,0 +1,12 @@
+[2021-04-09 03:14:08] (184040294851936256) jupiter#5970: **things to mention in the thing about private support:**
+-do not ping private support if it's been less than two hours
+-conversations should not exceed 2 hours 
+-respect the private supporters since they are volunteers from the server
+-let the private supporter close the ticket
+(^^^ if you want to know my reasoning behind this, don't be afraid to ask and i'll be glad to explain)
+[2021-04-09 16:31:09] (516313738588979210) Lil#1500: @.announcement the mod team have decided to add a feedback channel where you can say things you like about the server such as channels, people, modding etc and things you would like to add this is a thing we have decided to implement for around a week to see what you like about the server :)
+[2021-04-09 16:31:12] (516313738588979210) Lil#1500: How does this sound?
+[2021-04-09 16:31:24] (222479899808628736) Michael#3287: i like it!
+[2021-04-09 16:33:24] (516313738588979210) Lil#1500: <@&793917061243994134>
+[2021-04-09 16:34:27] (533736043736858627) yxng_pxriah#1969: ye
+[2021-04-09 16:34:29] (533736043736858627) yxng_pxriah#1969: it worls

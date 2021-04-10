@@ -35,6 +35,7 @@ bot = commands.Bot(intents=intents, command_prefix=os.getenv("BOT_PREFIX"), help
 
 join_and_leave_logs_channel_id = 792161507005038612
 welcome_channel_id = 798686136691458088
+confession_log_channel_id = 826516916196999198
 
 # Load cogs
 for filename in os.listdir("./cogs"):
@@ -51,6 +52,16 @@ except AttributeError as err:
 
 server_invites = {}
 
+def is_staff(ctx):
+    # Restrict command.
+    t_mod = discord.utils.get(ctx.guild.roles, name="Trial Moderator")
+    mod = discord.utils.get(ctx.guild.roles, name="Moderator")
+    sr_mod = discord.utils.get(ctx.guild.roles, name="Senior Moderator")
+    if t_mod or mod or sr_mod in ctx.author.roles:
+        return True
+    else:
+        return False
+
 
 @bot.event
 async def on_ready():
@@ -64,7 +75,6 @@ cooldown_list = {}
 
 @bot.event
 async def on_message(ctx):
-
     # Bots can't trigger events
     if ctx.author.bot:
         return
@@ -72,7 +82,16 @@ async def on_message(ctx):
     # Process commands if message starts with specified prefix
     await bot.process_commands(ctx)
     print(ctx.content)
-    
+
+    if ctx.channel.id == 830171012199874600:
+        await ctx.delete()
+        await ctx.channel.send(ctx.content)
+        embed = discord.Embed(title="Feedback Log", url="", color=0xabc9FF)
+        embed.set_author(name=f"{ctx.author.name}#{ctx.author.discriminator}", icon_url=ctx.author.avatar_url)
+        embed.add_field(name="Message Content:", value=ctx.content, inline=False)
+        embed.set_footer(text=f"ID: {ctx.author.id} • {datetime.now().strftime('Today at %I:%M %p')}")
+        await bot.get_channel(confession_log_channel_id).send(embed=embed)
+
     if ctx.channel.id == 817326358107389963 and ctx.content == "$verify":
         embed = discord.Embed(title="r/mentalillness", color=0x7b57d4)
         embed.add_field(name="Welcome to r/mentalillness",
@@ -82,9 +101,8 @@ async def on_message(ctx):
                               f" say hi.\nIf you need any support please head over to any of our heavy channels.\n"
                               f"Any questions? Feel free to file a ticket or ask in <#826478320472293407>.",
                         inline=False)
-        # await bot.get_channel(828909612291457045).send(embed=embed)
-        await bot.get_channel(827096861043064852).send(embed=embed)
-    
+        await bot.get_channel(828909612291457045).send(embed=embed)
+
     if ctx.channel.id == 826474833000661012:
         anonymous_channel_id = 795669876345274378
         #
@@ -101,12 +119,12 @@ async def on_message(ctx):
 
         await bot.get_channel(826474833000661012).purge(limit=5, check=check_user)
 
-        embed = discord.Embed(title="", url="")
+        embed = discord.Embed(title="Confession Log", url=" ", color=0xabc9FF)
         embed.set_author(name=f"{ctx.author.name}#{ctx.author.discriminator}", icon_url=ctx.author.avatar_url)
         embed.add_field(name="Message Content:", value=ctx.content, inline=False)
         embed.set_footer(text=f"ID: {ctx.author.id} • {datetime.now().strftime('Today at %I:%M %p')}")
 
-        await bot.get_channel(826516916196999198).send(embed=embed)
+        await bot.get_channel(confession_log_channel_id).send(embed=embed)
 
     if not ctx.content.startswith(bot.command_prefix):
 
@@ -130,7 +148,7 @@ async def on_message(ctx):
             else:
                 newXP = result[0][0] + xp
 
-                level = int(np.floor((1+np.sqrt(1+(4*newXP)/25))/4))
+                level = int(np.floor((1 + np.sqrt(1 + (4 * newXP) / 25)) / 4))
 
                 level_roles = [5, 10, 20, 30, 40, 50, 60, 70, 80]
 

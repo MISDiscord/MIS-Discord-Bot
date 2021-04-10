@@ -1,0 +1,28 @@
+[2021-04-09 03:31:37] (184040294851936256) jupiter#5970: ?setnote 808522195587563540 sent non censored message in light general (2 strikes)
+[2021-04-09 03:32:09] (396441108995112970) beebee#3442: for notes we dont set strikes, only for warns btw
+[2021-04-09 03:32:43] (184040294851936256) jupiter#5970: oh ok
+[2021-04-09 03:33:16] (184040294851936256) jupiter#5970: i think i was told to a few days back but noted now
+[2021-04-09 03:33:30] (396441108995112970) beebee#3442: oh
+[2021-04-09 03:33:45] (396441108995112970) beebee#3442: huh thats okay i'd like that clearing up
+[2021-04-09 05:00:15] (184040294851936256) jupiter#5970: ?setnote 601041954981019678 posted something mentioning religion and politics
+[2021-04-09 05:57:13] (200391976837840896) ParanoidKitty#7023: ?setnote 601041954981019678 put: I might have ‘the gay’, in LGBTQ+ channel. No context, can’t tell tone, no warning and edited message with no fuss. Seems ok.
+[2021-04-09 07:43:42] (184040294851936256) jupiter#5970: ?mute 621467078955630604 12hr nsfw in non nsfw channel, not censoring words that need to be censored (5 strikes)
+[2021-04-09 07:45:08] (184040294851936256) jupiter#5970: /notes 601041954981019678
+[2021-04-09 07:45:14] (184040294851936256) jupiter#5970: ?notes 601041954981019678
+[2021-04-09 07:47:09] (184040294851936256) jupiter#5970: ?modlogs 601041954981019678
+[2021-04-09 07:49:52] (184040294851936256) jupiter#5970: ?mute 601041954981019678 24hrs didn't censor words that needed to be censored, posted something mentioning religion and politics, this was on top of the previous 3 strikes (6 strikes)
+[2021-04-09 07:56:57] (184040294851936256) jupiter#5970: ?notes 621467078955630604
+[2021-04-09 08:00:11] (184040294851936256) jupiter#5970: ?mute 609434268149743626 12hrs didn't censor words that needed to be censored, posted something nsfw in a non nsfw channel (5 strikes)
+[2021-04-09 15:34:39] (184040294851936256) jupiter#5970: ?setnote 830102725558665308 sending self promotional information in the light channels
+[2021-04-09 15:34:43] (184040294851936256) jupiter#5970: huh
+[2021-04-09 15:38:20] (222479899808628736) Michael#3287: ?setnote 421837462047031297 minimodding in <#824532627339083786>
+[2021-04-09 15:40:21] (184040294851936256) jupiter#5970: ?setnote 830102864138862642 sending self promotional link in light general
+[2021-04-09 15:40:26] (184040294851936256) jupiter#5970: i-
+[2021-04-09 15:42:39] (184040294851936256) jupiter#5970: ?setnote 830105261107707914 sending self promotional link in <#824532627339083786>
+[2021-04-09 15:45:50] (222479899808628736) Michael#3287: ?setnote 747493549104431106 sending self promotional link in <#824532627339083786>
+[2021-04-09 15:46:13] (222479899808628736) Michael#3287: <@!184040294851936256> I think you must’ve accidentally copied the message ID
+[2021-04-09 15:47:12] (184040294851936256) jupiter#5970: oh
+[2021-04-09 15:47:14] (184040294851936256) jupiter#5970: lol
+[2021-04-09 15:47:31] (222479899808628736) Michael#3287: I’ve done that so many times I can’t count lmao
+[2021-04-09 15:47:47] (222479899808628736) Michael#3287: They need to make it more obvious which ids are users and which aren’t
+[2021-04-09 16:21:58] (516313738588979210) Lil#1500: ?warn <@690944256080347136> inappropriate comments
