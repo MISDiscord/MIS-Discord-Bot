@@ -14,6 +14,7 @@ import re
 from datetime import datetime
 import numpy as np
 import requests
+import asyncio
 
 # Load env file
 load_dotenv()
@@ -81,7 +82,7 @@ async def on_message(ctx):
 
     # Process commands if message starts with specified prefix
     await bot.process_commands(ctx)
-    print(ctx.content)
+    print(f"{ctx.author.name}#{ctx.author.discriminator} ({ctx.author.id}): {ctx.content}")
 
     if ctx.channel.id == 830171012199874600:
         await ctx.delete()
@@ -93,6 +94,12 @@ async def on_message(ctx):
         await bot.get_channel(confession_log_channel_id).send(embed=embed)
 
     if ctx.channel.id == 817326358107389963 and ctx.content == "$verify":
+        messages = await ctx.channel.history(limit=None).flatten()
+        for message in messages:
+            if message.author == ctx.author:
+                await message.delete()
+                await asyncio.sleep(0.5)
+        # [await message.delete() for message in messages if message.author == ctx.author]
         embed = discord.Embed(title="r/mentalillness", color=0x7b57d4)
         embed.add_field(name="Welcome to r/mentalillness",
                         value=f"Hey, {ctx.author.mention}!\nHead over to <#808934814689918996> to grab some roles "
@@ -172,15 +179,6 @@ async def on_message(ctx):
 
 @bot.event
 async def on_member_join(member):
-    # unverified_role = discord.utils.get(member.guild.roles, id=827100596824834078)
-    # await member.add_roles(unverified_role)
-    welcome_verification_message = f"Welcome {member.mention} to r/mentalillness! " \
-                                   f"Please read through <#701102417512628286> where you " \
-                                   f"will find instructions to gain access to the server."
-
-    verify_channel_id = 817326358107389963
-
-    await bot.get_channel(verify_channel_id).send(welcome_verification_message)
 
     # Find invites before and after join to see which one was used
     invites_before_join = server_invites[int(member.guild.id)]

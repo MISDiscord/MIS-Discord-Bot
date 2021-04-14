@@ -97,3 +97,172 @@
 [2021-04-09 11:20:34] (724929820726919180) Yuki_blue <3#2872: pk;sw Yuki
 [2021-04-09 17:51:25] (733577184031277086) ´•.𝓢𝓽𝓪𝓻𝓵𝓲𝓰𝓱𝓽.•´#0001: pk;ap latch
 [2021-04-09 16:14:23] (717638444314263672) sam_the_jam#6696: pk;ap latch
+[2021-04-11 04:02:20] (776545200741941248) your friendly goth (eric)#6180: pk;ap latch
+[2021-04-11 07:40:35] (715143242093690931) Ara#9553: Pk;ap off
+[2021-04-11 08:13:34] (813059039474745394) Cloud system~☁#3334: Pk; ap front
+[2021-04-11 13:19:36] (776545200741941248) your friendly goth (eric)#6180: pk;s tag
+[2021-04-11 15:55:37] (724929820726919180) Yuki_blue <3#2872: pk;m Yuki pronouns he/them
+[2021-04-11 15:55:46] (724929820726919180) Yuki_blue <3#2872: Ok
+[2021-04-11 15:57:32] (724929820726919180) Yuki_blue <3#2872: pk;m Yuki icon https://static.wikia.nocookie.net/hanakokun/images/8/82/JSHK_Chapter_22.png/revision/latest?cb=20190318041850
+[2021-04-11 15:58:19] (724929820726919180) Yuki_blue <3#2872: pk;m Yuki icon
+[2021-04-11 15:58:35] (724929820726919180) Yuki_blue <3#2872: Tesy
+[2021-04-11 15:59:05] (724929820726919180) Yuki_blue <3#2872: Test
+[2021-04-11 16:02:52] (724929820726919180) Yuki_blue <3#2872: pk;m Yuki
+[2021-04-11 16:06:39] (724929820726919180) Yuki_blue <3#2872: pk;system description Welcome to Magical System.
+[2021-04-11 16:08:19] (724929820726919180) Yuki_blue <3#2872: pk;system pywld
+[2021-04-12 03:35:59] (829851298811215902) Us#6468: pk;system list
+[2021-04-12 04:06:42] (829851298811215902) Us#6468: pk;ap latch
+[2021-04-12 04:06:50] (829851298811215902) Us#6468: R: test
+[2021-04-12 04:43:23] (829851298811215902) Us#6468: pk;ap off
+[2021-04-12 05:06:54] (829851298811215902) Us#6468: pk;ap latch
+[2021-04-12 23:41:02] (724929820726919180) Yuki_blue <3#2872: ||lol||
+[2021-04-13 04:34:02] (825392044779503636) DinoGameDev#1621: pk;m rename lando Lando
+[2021-04-13 04:34:33] (825392044779503636) DinoGameDev#1621: pk;m lando rename Lando
+[2021-04-13 04:35:05] (825392044779503636) DinoGameDev#1621: pk;m Lando pronouns he/him
+[2021-04-13 04:35:22] (825392044779503636) DinoGameDev#1621: pk;m Lando color pink
+[2021-04-13 04:36:03] (825392044779503636) DinoGameDev#1621: pk;m Lando color     #FFB6C1
+[2021-04-13 04:36:36] (825392044779503636) DinoGameDev#1621: pk;m Lando birthdate 3/28/2001
+[2021-04-13 04:37:04] (825392044779503636) DinoGameDev#1621: pk;m Lando birthdate March 28 2001
+[2021-04-13 04:38:27] (825392044779503636) DinoGameDev#1621: pk;m Lando description Small game developer with little depression, I also like anime an art :)
+[2021-04-13 04:38:37] (825392044779503636) DinoGameDev#1621: pk;m Lando
+[2021-04-13 04:43:51] (825392044779503636) DinoGameDev#1621: pk;m Lando keepproxy on
+[2021-04-13 04:43:54] (825392044779503636) DinoGameDev#1621: ok
+[2021-04-13 04:44:20] (825392044779503636) DinoGameDev#1621: pk;m Landon proxy add Dinosaur
+[2021-04-13 04:44:27] (825392044779503636) DinoGameDev#1621: oop
+[2021-04-13 04:44:36] (825392044779503636) DinoGameDev#1621: pk;m Lando proxy add I
+[2021-04-13 04:44:51] (825392044779503636) DinoGameDev#1621: pk;m Lando proxy add Dino
+[2021-04-13 04:45:55] (825392044779503636) DinoGameDev#1621: pk;m Lando proxy Dino
+[2021-04-13 04:45:59] (825392044779503636) DinoGameDev#1621: idk what a proxy is
+[2021-04-13 04:48:18] (681531347583631444) Vortetty#5020: Ah, the proxy is the tezt used to tell pluralkit who to talk as
+[2021-04-13 04:48:38] (825392044779503636) DinoGameDev#1621: Uh ok
+[2021-04-13 04:48:52] (681531347583631444) Vortetty#5020: For example, I prefix my messages with `ana=`
+so I set it to `ana=text`
+[2021-04-13 04:49:19] (681531347583631444) Vortetty#5020: then it sends it as me
+[2021-04-13 04:49:54] (825392044779503636) DinoGameDev#1621: So how would i make mine?...
+[2021-04-13 04:50:39] (681531347583631444) Vortetty#5020: if you want tto prefix with `Dino`
+Set it to `Dinotext`
+It is case sensitive
+[2021-04-13 04:51:23] (825392044779503636) DinoGameDev#1621: pk;m Lando proxy add Dinotext
+[2021-04-13 04:51:27] (825392044779503636) DinoGameDev#1621: Huh
+[2021-04-13 04:51:41] (681531347583631444) Vortetty#5020: then you could send a message using `Dino text text`
+[2021-04-13 04:51:58] (825392044779503636) DinoGameDev#1621: Dinotext ok
+[2021-04-13 04:52:03] (825392044779503636) DinoGameDev#1621: weird
+[2021-04-13 04:52:24] (825392044779503636) DinoGameDev#1621: But how can i make it not show the “dinotext part”
+[2021-04-13 04:52:31] (825392044779503636) DinoGameDev#1621: Dino text ok
+[2021-04-13 04:52:36] (825392044779503636) DinoGameDev#1621: Ok
+[2021-04-13 04:52:52] (681531347583631444) Vortetty#5020: mm, it shouldn't, that's odd
+[2021-04-13 04:53:03] (462713398187130884) moonielove244 ★#3912: It's cause you turned keepproxy on
+[2021-04-13 04:53:06] (825392044779503636) DinoGameDev#1621: O
+[2021-04-13 04:53:07] (825392044779503636) DinoGameDev#1621: oh
+[2021-04-13 04:53:08] (825392044779503636) DinoGameDev#1621: ok
+[2021-04-13 04:53:18] (825392044779503636) DinoGameDev#1621: pk;m Lando keepproxy off
+[2021-04-13 04:53:19] (462713398187130884) moonielove244 ★#3912: If you don't want it to show dino then you have to keep it off
+[2021-04-13 04:53:27] (825392044779503636) DinoGameDev#1621: dinotext now is it there?
+[2021-04-13 04:53:35] (462713398187130884) moonielove244 ★#3912: You don't have to write text
+[2021-04-13 04:53:42] (462713398187130884) moonielove244 ★#3912: You replace text with what you want to say
+[2021-04-13 04:53:58] (825392044779503636) DinoGameDev#1621: Oh
+[2021-04-13 04:53:59] (825392044779503636) DinoGameDev#1621: so
+[2021-04-13 04:54:03] (825392044779503636) DinoGameDev#1621: Dino hello
+[2021-04-13 04:54:12] (825392044779503636) DinoGameDev#1621: Neato
+[2021-04-13 04:54:27] (825392044779503636) DinoGameDev#1621: I might make the proxy shorter of a wprd
+[2021-04-13 04:54:29] (825392044779503636) DinoGameDev#1621: Word
+[2021-04-13 04:54:54] (825392044779503636) DinoGameDev#1621: Thanks
+[2021-04-13 04:55:04] (462713398187130884) moonielove244 ★#3912: Np
+[2021-04-13 04:55:21] (825392044779503636) DinoGameDev#1621: pk;m Lando rename Cute Dino
+[2021-04-13 04:55:53] (825392044779503636) DinoGameDev#1621: pk;m “Cute Dino” rename CuteDino
+[2021-04-13 04:56:24] (681531347583631444) Vortetty#5020: Sorry if my attempt to help was confusing, not the best at explaining
+[2021-04-13 04:56:56] (825392044779503636) DinoGameDev#1621: it’s all good
+[2021-04-13 04:57:13] (825392044779503636) DinoGameDev#1621: pk;m CuteDino proxy remove Dino
+[2021-04-13 04:57:56] (825392044779503636) DinoGameDev#1621: Oop
+[2021-04-13 04:57:58] (825392044779503636) DinoGameDev#1621: Oops
+[2021-04-13 04:58:04] (681531347583631444) Vortetty#5020: To remove it you have to do `pk;m CuteDino proxy remove Dinotext`
+[2021-04-13 04:58:13] (825392044779503636) DinoGameDev#1621: pk;m CuteDino proxy remove Dinotext
+[2021-04-13 04:58:42] (825392044779503636) DinoGameDev#1621: pk;m CuteDino proxy add Jotext
+[2021-04-13 04:58:54] (724929820726919180) Yuki_blue <3#2872: hm
+[2021-04-13 04:59:11] (825392044779503636) DinoGameDev#1621: Jo now i need to figure out how to make a profile picture, the website makes no sense (it’s probably just me)
+[2021-04-13 05:00:09] (681531347583631444) Vortetty#5020: you attach an image to a message saying `pk;m <user name here> icon`
+[2021-04-13 05:00:32] (825392044779503636) DinoGameDev#1621: Ok
+[2021-04-13 05:00:37] (462713398187130884) moonielove244 ★#3912: pk;m help
+[2021-04-13 05:00:38] (724929820726919180) Yuki_blue <3#2872: hmm yeahh that's the command
+[2021-04-13 05:00:39] (681531347583631444) Vortetty#5020: So for you it would be `pk;m CuteDino icon` and an image
+[2021-04-13 05:00:40] (462713398187130884) moonielove244 ★#3912: there's all of that
+[2021-04-13 05:01:11] (825392044779503636) DinoGameDev#1621: pk;m CuteDino
+[2021-04-13 05:01:55] (825392044779503636) DinoGameDev#1621: pk;m CuteDino icon
+[2021-04-13 05:02:00] (724929820726919180) Yuki_blue <3#2872: pk;m CuteDino icon
+[2021-04-13 05:02:06] (825392044779503636) DinoGameDev#1621: Got it
+[2021-04-13 05:02:12] (825392044779503636) DinoGameDev#1621: Jo alrighty
+[2021-04-13 05:02:29] (681531347583631444) Vortetty#5020: yay! gj!
+[2021-04-13 05:02:33] (724929820726919180) Yuki_blue <3#2872: ok i guess the pfp is now created
+[2021-04-13 05:02:52] (825392044779503636) DinoGameDev#1621: Jo so huh, doesn’t let you edit these texts or something?
+[2021-04-13 05:03:03] (681531347583631444) Vortetty#5020: It does not
+[2021-04-13 05:03:10] (462713398187130884) moonielove244 ★#3912: there's a new bot that lets you edit it but it's not verified yet
+[2021-04-13 05:03:10] (825392044779503636) DinoGameDev#1621: Jo alrighty
+[2021-04-13 05:03:21] (681531347583631444) Vortetty#5020: You can delete tthem by reacting with ❌
+[2021-04-13 05:03:27] (825392044779503636) DinoGameDev#1621: Ok
+[2021-04-13 05:03:31] (724929820726919180) Yuki_blue <3#2872: ok
+[2021-04-13 05:03:47] (825392044779503636) DinoGameDev#1621: Jo ok
+[2021-04-13 05:04:01] (681531347583631444) Vortetty#5020: I'd be curious how the new bot does that
+[2021-04-13 05:04:12] (462713398187130884) moonielove244 ★#3912: you dm it
+[2021-04-13 05:04:19] (462713398187130884) moonielove244 ★#3912: it functions like tupper's edit function
+[2021-04-13 05:04:28] (462713398187130884) moonielove244 ★#3912: you react with ✏️ and then dm it the new message
+[2021-04-13 05:04:28] (681531347583631444) Vortetty#5020: I've never used tuppee
+[2021-04-13 05:04:45] (462713398187130884) moonielove244 ★#3912: tupper just added the edit function we were just testing it ¯\_(ツ)_/¯
+[2021-04-13 05:04:52] (724929820726919180) Yuki_blue <3#2872: oh ok
+[2021-04-13 05:04:52] (681531347583631444) Vortetty#5020: But I mean backend-wise
+[2021-04-13 05:05:04] (462713398187130884) moonielove244 ★#3912: yeah i'm not sure
+[2021-04-13 05:05:39] (681531347583631444) Vortetty#5020: ~~totally not planning on making my own pk bot alternative~~
+[2021-04-13 05:06:40] (825392044779503636) DinoGameDev#1621: pk;m Lando proxy remove Jotext
+[2021-04-13 05:06:47] (825392044779503636) DinoGameDev#1621: oop
+[2021-04-13 05:06:59] (825392044779503636) DinoGameDev#1621: pk;m CuteDino proxy remove Jotext
+[2021-04-13 05:07:08] (462713398187130884) moonielove244 ★#3912: you could make cute dino the display name
+[2021-04-13 05:07:17] (825392044779503636) DinoGameDev#1621: pk;m CuteDino proxy add jotext
+[2021-04-13 05:08:19] (825392044779503636) DinoGameDev#1621: pk;m CuteDino displayname CuteDino
+[2021-04-13 05:08:31] (825392044779503636) DinoGameDev#1621: pk;m CuteDino rename Lando
+[2021-04-13 05:08:42] (825392044779503636) DinoGameDev#1621: alright
+[2021-04-13 05:08:42] (825392044779503636) DinoGameDev#1621: thanks
+[2021-04-13 05:08:54] (724929820726919180) Yuki_blue <3#2872: CuteDino is such a cute name
+[2021-04-13 05:09:11] (825392044779503636) DinoGameDev#1621: jothanks, i like dinosaurs but in a cute way lol
+
+fits perfect I guess
+[2021-04-13 05:09:42] (724929820726919180) Yuki_blue <3#2872: oh ok, are you also a system?
+[2021-04-13 05:09:59] (825392044779503636) DinoGameDev#1621: jono idea what that is
+[2021-04-13 05:10:10] (462713398187130884) moonielove244 ★#3912: wait then what are you using pk for-
+[2021-04-13 05:10:20] (462713398187130884) moonielove244 ★#3912: and you have the system role <:huh:785528220057206804>
+[2021-04-13 05:10:27] (825392044779503636) DinoGameDev#1621: Idk
+[2021-04-13 05:10:33] (462713398187130884) moonielove244 ★#3912: ...huh
+[2021-04-13 05:10:36] (825392044779503636) DinoGameDev#1621: i just assigned myself, like half the roles
+[2021-04-13 05:10:36] (825392044779503636) DinoGameDev#1621: .
+[2021-04-13 05:10:46] (462713398187130884) moonielove244 ★#3912: ...well,
+[2021-04-13 05:10:55] (825392044779503636) DinoGameDev#1621: pk;m Lando
+[2021-04-13 05:11:07] (681531347583631444) Vortetty#5020: *I see...*
+[2021-04-13 05:11:10] (462713398187130884) moonielove244 ★#3912: maybe don't use pk just to mess around with it? it's an accessibility tool for us-
+[2021-04-13 05:11:25] (825392044779503636) DinoGameDev#1621: idrk what it does-
+[2021-04-13 05:11:33] (825392044779503636) DinoGameDev#1621: Sorry-
+[2021-04-13 05:11:54] (462713398187130884) moonielove244 ★#3912: it lets members of a system proxy as themselves. like how ana's proxying i could as well as could other members of my system
+[2021-04-13 05:12:01] (462713398187130884) moonielove244 ★#3912: i gently encourage you to delete that, pk isn't a toy /nm
+[2021-04-13 05:12:48] (724929820726919180) Yuki_blue <3#2872: yeahh that's right
+[2021-04-13 05:12:58] (184040294851936256) jupiter#5970: hi dinogamedev, i would kindly ask you to not use pk because it's used by systems to help communicate and allow others to know whose fronting. i would also suggest to not add random roles for disorders.
+[2021-04-13 05:13:33] (825392044779503636) DinoGameDev#1621: Alriht, also I didn’t add random roles for disorder, just for the others because I didn’t know what some of them were.
+[2021-04-13 05:13:49] (462713398187130884) moonielove244 ★#3912: being a system is the result of a disorder so ,,
+[2021-04-13 05:14:31] (184040294851936256) jupiter#5970: i understand however you're always free to ask the moderators if you're unsure about what the specific disorders are
+[2021-04-13 05:15:48] (825392044779503636) DinoGameDev#1621: pk;m Lando delete
+[2021-04-13 05:16:06] (825392044779503636) DinoGameDev#1621: Whats a member id
+[2021-04-13 05:16:23] (825392044779503636) DinoGameDev#1621: pk;m Lando delete
+[2021-04-13 05:17:24] (825392044779503636) DinoGameDev#1621: Idk what to do
+[2021-04-13 05:18:05] (681531347583631444) Vortetty#5020: `pk;s delete`
+[2021-04-13 05:18:28] (825392044779503636) DinoGameDev#1621: pk;s delete
+[2021-04-13 05:18:35] (825392044779503636) DinoGameDev#1621: mggku
+[2021-04-13 05:18:35] (681531347583631444) Vortetty#5020: `mggku`
+[2021-04-13 05:18:44] (681531347583631444) Vortetty#5020: There ya go
+[2021-04-13 05:18:48] (825392044779503636) DinoGameDev#1621: thanks
+[2021-04-13 05:20:30] (681531347583631444) Vortetty#5020: Oh
+they left the whole server
+[2021-04-13 08:14:01] (724929820726919180) Yuki_blue <3#2872: pk;sw Aaliyah
+[2021-04-13 08:15:37] (724929820726919180) Yuki_blue <3#2872: Pk;ap Aaliyah
+[2021-04-13 08:15:43] (724929820726919180) Yuki_blue <3#2872: Test
+[2021-04-13 11:31:31] (724929820726919180) Yuki_blue <3#2872: pk;sw Yuki
+[2021-04-13 11:31:39] (724929820726919180) Yuki_blue <3#2872: Hello
+[2021-04-13 11:31:51] (724929820726919180) Yuki_blue <3#2872: Hachi hi
+[2021-04-13 11:32:13] (724929820726919180) Yuki_blue <3#2872: Pk;ap Yuki
+[2021-04-13 11:32:21] (724929820726919180) Yuki_blue <3#2872: Hii
+[2021-04-13 18:22:57] (681531347583631444) Vortetty#5020: pk;m Anon proxy add ˀ⁼text
