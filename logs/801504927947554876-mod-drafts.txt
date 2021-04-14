@@ -108,3 +108,20 @@ Any questions? Feel free to file a ticket or ask in ask the mods
 [2021-04-14 17:07:35] (533736043736858627) yxng_pxriah#1969: but with another color
 [2021-04-14 17:09:12] (516313738588979210) Lil#1500: How does it look now?
 [2021-04-14 17:11:08] (516313738588979210) Lil#1500: I added more decorations
+[2021-04-14 20:52:36] (222479899808628736) Michael#3287: i like it!
+[2021-04-14 21:01:05] (222479899808628736) Michael#3287: <@!516313738588979210>
+[2021-04-14 21:01:08] (222479899808628736) Michael#3287: can you do me a favor
+[2021-04-14 21:01:14] (222479899808628736) Michael#3287: copy that but put ` before and after
+[2021-04-14 21:01:17] (222479899808628736) Michael#3287: so i can copy formatting too
+[2021-04-14 21:02:25] (516313738588979210) Lil#1500: `<a:bluesparkle:803020379055456256> __**Welcome to r/mentalillness!**__ <a:bluesparkle:803020379055456256> 
+
+> <:PinkDot:801840466861621258> Please read through <#701102417512628286> where you will find instructions to gain access to the server.
+> <:PinkDot:801840466861621258> Also please familiarise yourself with the spoiler list and how to spoiler things before entering the server
+
+<a:PinkSparkle:803020390410485770> **__Once you have gained access to the server__** <a:PinkSparkle:803020390410485770> 
+
+> <:PinkDot:801840466861621258> Head on over to **roles-and reports** to grab some roles and introduce yourself in **introductions**
+> <:PinkDot:801840466861621258> Feel free to start a conversation in **light general** or join a current one and say hi.
+> <:PinkDot:801840466861621258> If you need any support please head over to any of our **heavy channels**
+> <:PinkDot:801840466861621258> Any questions? Feel free to file a ticket or ask in **ask the mods**`
+[2021-04-14 21:02:51] (222479899808628736) Michael#3287: thank you!

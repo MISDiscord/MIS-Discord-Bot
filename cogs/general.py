@@ -27,6 +27,18 @@ class General(commands.Cog):
     def __init__(self, bot):
         self.bot = bot
 
+    @commands.command(name="webhooksend")
+    @commands.check(has_permission)
+    async def webhooksend(self, ctx, channel: discord.TextChannel, *content):
+        data = {"content": str(' '.join(content))}
+        url = '/'.join(os.getenv("MENTALILLNESS_WEBHOOK_URL").split('/')[:6])
+        json_params = {"channel_id": int(channel.id)}
+        headers = {"Authorization": "Bot " + os.getenv("BOT_TOKEN")}
+        print(channel.id, data, json_params, headers)
+        change_channel = requests.patch(url, json=json_params, headers=headers)
+        send_message = requests.post(os.getenv("MENTALILLNESS_WEBHOOK_URL"), data=data)
+
+
     @commands.command(name="channellogs", aliases=["logs"])
     @commands.check(has_permission)
     async def channellogs(self, ctx, count: int, *selected_channel: discord.TextChannel):
@@ -41,7 +53,7 @@ class General(commands.Cog):
             channel = ctx.channel
         try:
             with open(f"logs/{channel.id}-{channel.name}.txt", "r", encoding="utf8") as f:
-                lines = f.readlines()[-1*count:]
+                lines = f.readlines()[-1 * count:]
                 f.close()
         except FileNotFoundError:
             await ctx.send("There do not seem to be any logs for that channel!")

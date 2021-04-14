@@ -1,0 +1,1 @@
+[2021-04-14 17:47:36] (222479899808628736) Michael#3287: **Update:** We've changed the bot prefix to `!` to avoid potential conflicts with slash commands in the future.

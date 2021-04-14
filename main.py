@@ -99,16 +99,6 @@ async def on_message(ctx):
             if message.author == ctx.author:
                 await message.delete()
                 await asyncio.sleep(0.5)
-        # [await message.delete() for message in messages if message.author == ctx.author]
-        embed = discord.Embed(title="r/mentalillness", color=0x7b57d4)
-        embed.add_field(name="Welcome to r/mentalillness",
-                        value=f"Hey, {ctx.author.mention}!\nHead over to <#808934814689918996> to grab some roles "
-                              f"and introduce yourself in <#702569287214301206>.\n"
-                              f"Feel free to start a conversation in <#824532627339083786> or join a current one and"
-                              f" say hi.\nIf you need any support please head over to any of our heavy channels.\n"
-                              f"Any questions? Feel free to file a ticket or ask in <#826478320472293407>.",
-                        inline=False)
-        await bot.get_channel(828909612291457045).send(embed=embed)
 
     if ctx.channel.id == 826474833000661012:
         anonymous_channel_id = 795669876345274378

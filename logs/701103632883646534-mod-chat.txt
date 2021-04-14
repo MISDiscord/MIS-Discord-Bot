@@ -2654,3 +2654,171 @@ We could pin a message rather than send one everytime and they type the command 
 [2021-04-14 16:49:38] (222479899808628736) Michael#3287: OH
 [2021-04-14 16:49:40] (222479899808628736) Michael#3287: I see what you mean
 [2021-04-14 16:49:44] (222479899808628736) Michael#3287: yeah ok can you send the message you want sent
+[2021-04-14 21:10:20] (516313738588979210) Lil#1500: ?poll delete <#828909612291457045> “yes” “no”
+[2021-04-14 21:10:35] (516313738588979210) Lil#1500: You fuckin bot I hate you
+[2021-04-14 21:10:51] (516313738588979210) Lil#1500: $poll delete <#828909612291457045> “yes” “no”
+[2021-04-14 17:18:42] (516313738588979210) Lil#1500: <@222479899808628736> might wanna add type your answer here lol
+[2021-04-14 17:18:47] (516313738588979210) Lil#1500: You never know with people
+[2021-04-14 17:19:23] (222479899808628736) Michael#3287: what
+[2021-04-14 17:19:56] (516313738588979210) Lil#1500: Like “please type the command in this channel”
+[2021-04-14 17:20:10] (222479899808628736) Michael#3287: ah okie
+[2021-04-14 17:20:23] (222479899808628736) Michael#3287: it's the only channel they can type in when they join
+[2021-04-14 17:20:39] (516313738588979210) Lil#1500: *have you met people?*
+[2021-04-14 17:20:55] (222479899808628736) Michael#3287: *if they can't figure that out i have lost all faith in people*
+[2021-04-14 17:20:59] (184040294851936256) jupiter#5970: well it's welcoming not welcome
+[2021-04-14 17:21:55] (222479899808628736) Michael#3287: no <#817326358107389963> when they join
+[2021-04-14 17:22:03] (516313738588979210) Lil#1500: For deletion yes
+[2021-04-14 17:22:14] (184040294851936256) jupiter#5970: why this one say welcoming then
+[2021-04-14 17:22:32] (516313738588979210) Lil#1500: Because we wanna delete that one?
+[2021-04-14 17:22:49] (184040294851936256) jupiter#5970: then why does michael think it's <#817326358107389963>
+[2021-04-14 17:22:57] (516313738588979210) Lil#1500: *idk*
+[2021-04-14 17:22:59] (222479899808628736) Michael#3287: what
+[2021-04-14 17:23:01] (222479899808628736) Michael#3287: im so confused
+[2021-04-14 17:23:08] (222479899808628736) Michael#3287: i thought you meant like
+[2021-04-14 17:23:11] (222479899808628736) Michael#3287: make sure people type
+[2021-04-14 17:23:14] (222479899808628736) Michael#3287: $verify
+[2021-04-14 17:23:20] (222479899808628736) Michael#3287: verify
+[2021-04-14 17:23:25] (222479899808628736) Michael#3287: in the welcome channel
+[2021-04-14 17:23:31] (516313738588979210) Lil#1500: Yes I am
+[2021-04-14 17:23:42] (222479899808628736) Michael#3287: that's the only channel they can type in when they join
+[2021-04-14 17:24:02] (516313738588979210) Lil#1500: Oki
+[2021-04-14 17:24:05] (184040294851936256) jupiter#5970: y'all what
+[2021-04-14 17:24:17] (516313738588979210) Lil#1500: *you’ve confused me so much wha*
+[2021-04-14 17:24:53] (222479899808628736) Michael#3287: wait ok
+[2021-04-14 17:25:00] (184040294851936256) jupiter#5970: ok we deleting <#828909612291457045> (the channel where the welcome message go to) or <#817326358107389963> where they type the verify code in?
+[2021-04-14 17:25:00] (222479899808628736) Michael#3287: so are we deleting welcome? i have it open i can remove the bot rn from it
+[2021-04-14 17:25:04] (184040294851936256) jupiter#5970: ok so welcoming
+[2021-04-14 17:25:06] (184040294851936256) jupiter#5970: NO
+[2021-04-14 17:25:11] (184040294851936256) jupiter#5970: we deleting <#828909612291457045>
+[2021-04-14 17:25:12] (222479899808628736) Michael#3287: *welcoming
+[2021-04-14 17:25:14] (222479899808628736) Michael#3287: yes
+[2021-04-14 17:25:21] (516313738588979210) Lil#1500: *michael this isn’t the time for typos*
+[2021-04-14 17:25:24] (516313738588979210) Lil#1500: /j
+[2021-04-14 17:25:30] (222479899808628736) Michael#3287: shut up
+[2021-04-14 17:25:33] (184040294851936256) jupiter#5970: this is so confusing
+[2021-04-14 17:25:33] (222479899808628736) Michael#3287: you can't talk about typos ever lmao
+[2021-04-14 17:25:44] (516313738588979210) Lil#1500: lol when your typos go from one channel to another
+[2021-04-14 17:25:48] (516313738588979210) Lil#1500: Basically
+[2021-04-14 17:26:03] (516313738588979210) Lil#1500: **delete** <#828909612291457045> 
+
+**we revamped** <#817326358107389963>
+[2021-04-14 17:26:33] (184040294851936256) jupiter#5970: yes
+[2021-04-14 17:26:34] (184040294851936256) jupiter#5970: i agree
+[2021-04-14 17:27:19] (516313738588979210) Lil#1500: Okie
+[2021-04-14 17:27:44] (222479899808628736) Michael#3287: ok ive deleted <#828909612291457045> from the bot
+[2021-04-14 17:27:48] (516313738588979210) Lil#1500: *that was painful*
+[2021-04-14 17:27:56] (222479899808628736) Michael#3287: telephone except we're all deaf and speak different languages lmao
+[2021-04-14 17:28:05] (516313738588979210) Lil#1500: Kai wants to delete the channel they called dibs
+[2021-04-14 17:28:09] (222479899808628736) Michael#3287: ok
+[2021-04-14 17:28:13] (222479899808628736) Michael#3287: they can delete it whenever
+[2021-04-14 17:28:19] (516313738588979210) Lil#1500: <@!533736043736858627> wake up
+[2021-04-14 17:28:20] (184040294851936256) jupiter#5970: yeah kai go for it
+[2021-04-14 17:28:44] (184040294851936256) jupiter#5970: can we have the mods make asmr tracks
+[2021-04-14 17:28:47] (184040294851936256) jupiter#5970: off topic thought
+[2021-04-14 17:29:15] (543871424188907544) awesomenoodles#4169: you all should do it too
+[2021-04-14 17:29:26] (184040294851936256) jupiter#5970: yes i want to listen to everyone's soothing voices
+[2021-04-14 17:31:09] (222479899808628736) Michael#3287: i have one lmao
+[2021-04-14 17:31:09] (222479899808628736) Michael#3287: oops
+[2021-04-14 17:31:18] (184040294851936256) jupiter#5970: what
+[2021-04-14 17:31:26] (222479899808628736) Michael#3287: was from years ago
+[2021-04-14 17:31:30] (222479899808628736) Michael#3287: someone recorded my voice
+[2021-04-14 17:32:29] (516313738588979210) Lil#1500: Oh whoops I misplaced my voice
+[2021-04-14 17:33:52] (222479899808628736) Michael#3287: <@!516313738588979210>
+[2021-04-14 17:33:57] (222479899808628736) Michael#3287: i have a surprise for you
+[2021-04-14 17:34:30] (222479899808628736) Michael#3287: *now she disappears smh*
+[2021-04-14 17:34:51] (184040294851936256) jupiter#5970: so impatient
+[2021-04-14 17:35:12] (516313738588979210) Lil#1500: I was gunna reply but you complained after **1 min**
+[2021-04-14 17:35:44] (222479899808628736) Michael#3287: i know \<3
+[2021-04-14 17:35:58] (184040294851936256) jupiter#5970: ~~clingy~~
+[2021-04-14 17:36:03] (222479899808628736) Michael#3287: *no*
+[2021-04-14 17:36:10] (184040294851936256) jupiter#5970: ~~fan behavior~~
+[2021-04-14 17:36:13] (222479899808628736) Michael#3287: *shut*
+[2021-04-14 17:36:21] (222479899808628736) Michael#3287: i'm letting her do webhooks so i don't get pinged every time smh
+[2021-04-14 17:36:38] (184040294851936256) jupiter#5970: what are webhooks
+[2021-04-14 17:36:40] (222479899808628736) Michael#3287: do `/webhooksend #channel message` and it'll send the message using the webhook
+[2021-04-14 17:36:46] (222479899808628736) Michael#3287: it's what we have in <#701102417512628286>
+[2021-04-14 17:36:57] (222479899808628736) Michael#3287: <#827498249770369054> also uses webhooks
+[2021-04-14 17:37:11] (543871424188907544) awesomenoodles#4169: /webhooksend <#701103632883646534> hey bitches
+[2021-04-14 17:37:12] (516313738588979210) Lil#1500: Lil pinned a message to this channel.
+[2021-04-14 17:37:39] (516313738588979210) Lil#1500: /webhooksend <#701103632883646534> i like tomatos
+[2021-04-14 17:37:59] (543871424188907544) awesomenoodles#4169: we're clearly using this for very important things
+[2021-04-14 17:38:02] (222479899808628736) Michael#3287: mhm
+[2021-04-14 17:38:08] (184040294851936256) jupiter#5970: /webhooksend <#701103632883646534> michael is a dipshit
+[2021-04-14 17:38:33] (222479899808628736) Michael#3287: /webhooksend <#701103632883646534> well that was rude
+[2021-04-14 17:38:34] (543871424188907544) awesomenoodles#4169: /webhooksend <#701103632883646534> uwu mod asmr videos
+[2021-04-14 17:38:42] (222479899808628736) Michael#3287: also random but
+[2021-04-14 17:38:47] (222479899808628736) Michael#3287: do we have any ideas for different prefixes for MIS?
+[2021-04-14 17:38:51] (222479899808628736) Michael#3287: / gets in the way of slash commands
+[2021-04-14 17:39:00] (222479899808628736) Michael#3287: it keeps autocompleting when i dont want it to
+[2021-04-14 17:39:17] (184040294851936256) jupiter#5970: idk what you mean
+[2021-04-14 17:39:21] (184040294851936256) jupiter#5970: so imma disappear
+[2021-04-14 17:39:28] (222479899808628736) Michael#3287: no get back here smh
+[2021-04-14 17:39:36] (222479899808628736) Michael#3287: 
+[2021-04-14 17:39:37] (222479899808628736) Michael#3287: do you not get that
+[2021-04-14 17:39:39] (222479899808628736) Michael#3287: every time you type?
+[2021-04-14 17:39:41] (222479899808628736) Michael#3287: a /
+[2021-04-14 17:39:49] (543871424188907544) awesomenoodles#4169: are there any bots that we have that use !
+[2021-04-14 17:39:57] (543871424188907544) awesomenoodles#4169: we could use that otherwise
+[2021-04-14 17:39:59] (222479899808628736) Michael#3287: disboard sorta
+[2021-04-14 17:40:00] (222479899808628736) Michael#3287: !d
+[2021-04-14 17:40:09] (222479899808628736) Michael#3287: !help
+[2021-04-14 17:40:11] (222479899808628736) Michael#3287: nope
+[2021-04-14 17:40:22] (543871424188907544) awesomenoodles#4169: disboards would be
+[2021-04-14 17:40:24] (543871424188907544) awesomenoodles#4169: !d help
+[2021-04-14 17:40:32] (543871424188907544) awesomenoodles#4169: the d distinguishes it
+[2021-04-14 17:40:34] (222479899808628736) Michael#3287: i know i just did !help to make sure nothing else was
+[2021-04-14 17:40:41] (222479899808628736) Michael#3287: so should we change it to !
+[2021-04-14 17:40:55] (543871424188907544) awesomenoodles#4169: i think we should
+[2021-04-14 17:40:56] (516313738588979210) Lil#1500: <a:nodnod:805546938761347082>
+[2021-04-14 17:41:08] (516313738588979210) Lil#1500: Your gunna have confused peoples
+[2021-04-14 17:41:18] (222479899808628736) Michael#3287: they can deal with it smh
+[2021-04-14 17:41:30] (222479899808628736) Michael#3287: discord is annoying when it yells at me for interfering with slash commands lmao
+[2021-04-14 17:42:26] (222479899808628736) Michael#3287: !lilyisaloserwebhooksend <#701103632883646534> what do you think of this
+[2021-04-14 17:43:19] (543871424188907544) awesomenoodles#4169: !lilyisaloserwebhooksend <#701103632883646534> its good
+[2021-04-14 17:43:20] (516313738588979210) Lil#1500: Lily is a loser I agree
+[2021-04-14 17:47:30] (184040294851936256) jupiter#5970: wow
+[2021-04-14 17:47:38] (184040294851936256) jupiter#5970: thanks dyno
+[2021-04-14 17:48:18] (184040294851936256) jupiter#5970: omg
+[2021-04-14 17:48:20] (222479899808628736) Michael#3287: !webhooksend <#701103632883646534> ok it's changed now
+[2021-04-14 17:48:54] (184040294851936256) jupiter#5970: <a:nodnod:805546938761347082>
+[2021-04-14 17:48:58] (184040294851936256) jupiter#5970: this is so cute
+[2021-04-14 17:49:20] (222479899808628736) Michael#3287: *it is*
+[2021-04-14 17:50:04] (222479899808628736) Michael#3287: *NO*
+[2021-04-14 17:50:15] (184040294851936256) jupiter#5970: the bot agrees
+[2021-04-14 17:50:18] (222479899808628736) Michael#3287: i'm gonna start eating pizza with ketchup
+[2021-04-14 17:50:27] (184040294851936256) jupiter#5970: ok
+[2021-04-14 17:51:36] (222479899808628736) Michael#3287: 2 people have a birthday today
+[2021-04-14 17:52:09] (222479899808628736) Michael#3287: or tomorrow technically
+[2021-04-14 17:52:12] (222479899808628736) Michael#3287: in like an hour
+[2021-04-14 17:52:13] (184040294851936256) jupiter#5970: why didn't the birthday bot go
+[2021-04-14 17:52:19] (222479899808628736) Michael#3287: it goes off UK time
+[2021-04-14 17:52:26] (184040294851936256) jupiter#5970: oooooo
+[2021-04-14 17:53:52] (184040294851936256) jupiter#5970: why are all the cool facts i can think of not safe for light general
+[2021-04-14 17:54:02] (184040294851936256) jupiter#5970: curse me knowing too many medical facts
+[2021-04-14 17:54:09] (222479899808628736) Michael#3287: lmao
+[2021-04-14 17:54:38] (222479899808628736) Michael#3287: another benefit to enjoying math
+[2021-04-14 17:54:41] (222479899808628736) Michael#3287: math is always sfw
+[2021-04-14 17:55:05] (184040294851936256) jupiter#5970: female spiders bit the heads off the males they mate with
+[2021-04-14 17:55:15] (222479899808628736) Michael#3287: really?
+[2021-04-14 17:55:17] (184040294851936256) jupiter#5970: yes
+[2021-04-14 17:55:23] (222479899808628736) Michael#3287: i knew that black widows did that but is it all spiders?
+[2021-04-14 17:55:30] (184040294851936256) jupiter#5970: well black widows
+[2021-04-14 17:55:48] (184040294851936256) jupiter#5970: i'm sure other spiders might too but i can't google it
+[2021-04-14 17:56:00] (222479899808628736) Michael#3287: when i lived in albuquerque we lived in a house that got a black widow infestation once
+[2021-04-14 17:56:05] (184040294851936256) jupiter#5970: ew
+[2021-04-14 17:56:07] (222479899808628736) Michael#3287: that was scary lol
+[2021-04-14 17:56:48] (184040294851936256) jupiter#5970: also some praying mantis females cannabalize their mates after mating
+[2021-04-14 17:57:05] (222479899808628736) Michael#3287: that's scary lol
+[2021-04-14 17:57:52] (184040294851936256) jupiter#5970: my favorite type of moth is the atlas moth
+[2021-04-14 17:58:56] (184040294851936256) jupiter#5970: fun fact about them is that they don't have a fully formed mouth and therefore die only a few days after emerging from their cocoon
+[2021-04-14 17:59:49] (222479899808628736) Michael#3287: that's really sad
+[2021-04-14 17:59:58] (222479899808628736) Michael#3287: what's their purpose then?
+[2021-04-14 18:00:08] (222479899808628736) Michael#3287: idk what moths even do other than be annoying
+[2021-04-14 18:00:34] (184040294851936256) jupiter#5970: are animals supposed to have purposes?
+[2021-04-14 18:00:50] (184040294851936256) jupiter#5970: they contribute to their ecosystem
+[2021-04-14 18:01:16] (184040294851936256) jupiter#5970: they're also one of the biggest species of moths!
+[2021-04-14 18:04:04] (184040294851936256) jupiter#5970: the idea of eukaryotes having a purpose is just based in the human belief that everything has a purpose. the reason creatures exist is simply due to evolutions. they don't need to fill a purpose, they just have to survive.
+[2021-04-14 18:13:23] (222479899808628736) Michael#3287: sorry I didn't mean that to come across in an offensive way, more just like you wouldn't generally assume that moths that can't even eat would survive through evolution and also making a joke
+[2021-04-14 18:15:38] (184040294851936256) jupiter#5970: oh i know
+[2021-04-14 18:15:56] (184040294851936256) jupiter#5970: but they do because the entire time they're moths, they are mating with others
+[2021-04-14 18:16:26] (184040294851936256) jupiter#5970: honestly i'm just happy you gave me an excuse to talk about bio
