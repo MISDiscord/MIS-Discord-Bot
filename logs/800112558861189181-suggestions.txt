@@ -1,1 +1,4 @@
 [2021-04-13 15:02:43] (516313738588979210) Lil#1500: ?approve 153 <@&831464924038823957>
+[2021-04-19 21:21:19] (396441108995112970) beebee#3442: ?accept 152 <#833814393917407273>
+[2021-04-19 21:21:48] (396441108995112970) beebee#3442: ?approve 152 <#833814393917407273>
+[2021-04-22 01:13:52] (222479899808628736) Michael#3287: ?deny 160 We can’t do a separate color for *each* level, however we’d be more than willing to consider suggestions for the current level roles which are 5.10,20,30,40,50,60, and 70.

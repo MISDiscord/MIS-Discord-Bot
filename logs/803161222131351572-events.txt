@@ -11,3 +11,20 @@ Enjoy tonight's movie night!
 -The Events Team
 [2021-04-12 21:42:00] (543871424188907544) awesomenoodles#4169: awesomenoodles pinned a message to this channel.
 [2021-04-14 10:39:47] (543871424188907544) awesomenoodles#4169: <@&705596937201516544> heres the rescheduled bee be cooking ^, bee will be making a swiss roll i believe
+[2021-04-15 06:52:03] (543871424188907544) awesomenoodles#4169: <@&705596937201516544> Reminder for later today we have bee be cookin #1 happening.
+
+For Saturday I need everyone to vote on what times suits them the best for our first quiz night
+[2021-04-15 06:52:06] (543871424188907544) awesomenoodles#4169: -poll "What time on **SATURDAY** suits you best for the quiz night. All times in  Irish/British timezone, check pins for a timezone converter" "3pm" "5pm" "7pm" "9pm" "11pm"
+[2021-04-16 20:20:54] (543871424188907544) awesomenoodles#4169: <@&705596937201516544> here's the event panel for tomorrow's quiz night ^. It was supposed to be a general knowledge quiz but I just didn't have the times to make one so it has to be geography for now (Sorry!) As always timezone converter is in pins
+[2021-04-17 17:27:37] (543871424188907544) awesomenoodles#4169: <@&705596937201516544> Almost time for the quiz!
+[2021-04-17 17:32:02] (543871424188907544) awesomenoodles#4169: its not a VC activity btw so dw about that
+[2021-04-19 17:22:00] (396441108995112970) beebee#3442: Hey <@&705596937201516544> on Wednesday will be the second instalment of Bee be cooking! Please let me know what times suit you so i know when to stream! This week we will be making Spaghetti and Meatballs!
+[2021-04-19 17:22:04] (396441108995112970) beebee#3442: $poll What time on WEDNESDAY suits you best for Bee be cooking #2? All times are BST UK times, a time zone converter is in the pins. “3pm” “5pm “7pm” 9pm”
+[2021-04-20 13:30:32] (396441108995112970) beebee#3442: -events c
+[2021-04-20 13:31:00] (396441108995112970) beebee#3442: -events create
+[2021-04-20 13:31:05] (396441108995112970) beebee#3442: this
+[2021-04-20 13:31:17] (396441108995112970) beebee#3442: Bee be cooking #2
+[2021-04-20 13:31:21] (396441108995112970) beebee#3442: 50
+[2021-04-20 13:31:37] (396441108995112970) beebee#3442: tomorrow 9pm
+[2021-04-20 13:31:43] (396441108995112970) beebee#3442: yes
+[2021-04-20 13:32:26] (396441108995112970) beebee#3442: <@&705596937201516544> above is the event panel for Bee be cooking! We will be making meatballs!

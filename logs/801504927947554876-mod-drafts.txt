@@ -125,3 +125,552 @@ Any questions? Feel free to file a ticket or ask in ask the mods
 > <:PinkDot:801840466861621258> If you need any support please head over to any of our **heavy channels**
 > <:PinkDot:801840466861621258> Any questions? Feel free to file a ticket or ask in **ask the mods**`
 [2021-04-14 21:02:51] (222479899808628736) Michael#3287: thank you!
+[2021-04-15 16:08:05] (516313738588979210) Lil#1500: @everyone  
+Hello! This is an announcement on the focus of adding new mods to the r/mentalillness moderation team please apply for the team if you are interested one of the requirements of applying for mod is knowing our <#701102417512628286> and being **16+**
+
+We are specifically looking for mods from any areas that are not in Europe or in the time zone EST because we have a lot of these already
+[2021-04-15 16:09:10] (516313738588979210) Lil#1500: How does this look?
+[2021-04-15 17:47:28] (516313738588979210) Lil#1500: *good or nah*
+[2021-04-15 18:04:01] (543871424188907544) awesomenoodles#4169: its good
+[2021-04-15 18:47:53] (222479899808628736) Michael#3287: i like it
+[2021-04-16 07:37:20] (821012679816249424) Avery | Library Collective#3148: same
+[2021-04-16 20:06:58] (543871424188907544) awesomenoodles#4169: __**MOD DM RULE**__
+
+If you need to DM a mod in a mod-member manner we ask that you pay attention to our DM rules as you would for anyone else and it would be appreciated if you asked us if you could DM us anyways as we tend to get DMs from users a lot and it gets quite cluttered easily. When asking us if you can DM us please also give us the general topic of the DM. We will not carry out private support in DMs unless **both** parties consent to do so.
+[2021-04-16 20:07:20] (543871424188907544) awesomenoodles#4169: <@&793917061243994134> how does this look? this is just a rough thing so if theres anything that needs to be cleaned up let me know
+[2021-04-16 20:07:52] (396441108995112970) beebee#3442: i think it might be good to mention where you can talk about mod related matters like private support and filing a ticket but other than that i like it!
+[2021-04-16 20:08:21] (821012679816249424) Avery | Library Collective#3148: looks good, maybe specify that its fine to dm for non mod related stuff? (if they have dm open) just wanna make it extra clear cause people cant read
+[2021-04-16 20:08:31] (516313738588979210) Lil#1500: It’s very wordy
+[2021-04-16 20:08:38] (543871424188907544) awesomenoodles#4169: does the mod-member manner part not convey that?
+[2021-04-16 20:08:46] (543871424188907544) awesomenoodles#4169: if you can cut it down go for it
+[2021-04-16 20:09:08] (821012679816249424) Avery | Library Collective#3148: it does but people cant read
+[2021-04-16 20:09:40] (516313738588979210) Lil#1500: Maybe “if you need to dm a mod for non moderation issues we ask you respect dm roles”?
+[2021-04-16 20:10:05] (821012679816249424) Avery | Library Collective#3148: yeah i think thats good?
+[2021-04-16 20:10:12] (533736043736858627) yxng_pxriah#1969: I’d say leave it wordy
+[2021-04-16 20:10:31] (533736043736858627) yxng_pxriah#1969: *but people kinda cant read*
+[2021-04-16 20:10:52] (543871424188907544) awesomenoodles#4169: i added a little on there
+[2021-04-16 20:11:44] (516313738588979210) Lil#1500: Idk I feel like that kinda adds a fear that they can’t dm us for anything
+[2021-04-16 20:12:14] (543871424188907544) awesomenoodles#4169: well considering the amount of dms jupiter got what else can we do?
+[2021-04-16 20:12:42] (543871424188907544) awesomenoodles#4169: will i add on a part saying if its a friend-friend manner its fine?
+[2021-04-16 20:12:47] (543871424188907544) awesomenoodles#4169: actually
+[2021-04-16 20:12:49] (543871424188907544) awesomenoodles#4169: wait
+[2021-04-16 20:13:51] (543871424188907544) awesomenoodles#4169: rather than this:
+> If you need to DM a mod for non-moderation issues please respect DM roles.
+we could have:
+> If you want to DM a mod in a friend-friend/non-server related manner please pay attention to our DM roles
+[2021-04-16 20:14:17] (184040294851936256) jupiter#5970: solution: i stop being nice
+[2021-04-16 20:14:22] (516313738588979210) Lil#1500: Yeah that works
+[2021-04-16 20:14:26] (533736043736858627) yxng_pxriah#1969: Oh yeah that would work
+[2021-04-16 20:14:30] (533736043736858627) yxng_pxriah#1969: Become me lmao
+[2021-04-16 20:14:36] (516313738588979210) Lil#1500: *but Idk I still feel like it’s too many words sorry*
+[2021-04-16 20:14:51] (516313738588979210) Lil#1500: Like if you look at the rest of our rules and then that one
+[2021-04-16 20:14:53] (516313738588979210) Lil#1500: It just idk
+[2021-04-16 20:15:03] (516313738588979210) Lil#1500: More words = less likely for people to read it
+[2021-04-16 20:15:20] (543871424188907544) awesomenoodles#4169: if you can find a way to convey all of that in a fewer amount of words be my guest /lh
+[2021-04-16 20:19:55] (516313738588979210) Lil#1500: __**MOD DM RULE**__
+
+If you need to DM a mod for a moderation issue we ask you to either respect DM roles and ask in the server with the topic of the dm or create a ticket in <#808934814689918996>. We will not carry out private support in DMs unless **both** parties consent to do so. If you want to DM a mod in a friend-friend/non-server related manner please pay attention to our DM roles
+[2021-04-16 20:20:00] (516313738588979210) Lil#1500: How’s that?
+[2021-04-16 20:20:41] (516313738588979210) Lil#1500: Or is it too short? <@!543871424188907544>
+[2021-04-16 20:20:59] (821012679816249424) Avery | Library Collective#3148: imo it covers the most important parts
+[2021-04-16 20:21:35] (543871424188907544) awesomenoodles#4169: just in the first sentence say "general topic"
+[2021-04-16 20:21:39] (543871424188907544) awesomenoodles#4169: thats all i have to say
+[2021-04-16 20:21:47] (543871424188907544) awesomenoodles#4169: its perfect otherwise
+[2021-04-16 20:22:39] (516313738588979210) Lil#1500: Are you sure?
+[2021-04-16 20:23:05] (516313738588979210) Lil#1500: I don’t wanna seem like I over stepped with the rule if you prefer yours it’s okay
+[2021-04-16 20:23:06] (543871424188907544) awesomenoodles#4169: yeah
+[2021-04-16 20:23:13] (543871424188907544) awesomenoodles#4169: nah i like yours
+[2021-04-16 20:23:20] (543871424188907544) awesomenoodles#4169: i have a tendency to waffle a lot
+[2021-04-16 20:25:07] (516313738588979210) Lil#1500: __**Welcome to the r/mentalillness Discord server!**__
+
+__**Rules**__
+
+**1**:  No self promotion or advertising
+This includes linking to your own website, blog, fundraisers, or YouTube videos. Links from well known websites are allowed, but personal sites, blogs, surveys and polls are not.
+
+**2**: The language of communication of this server is English. It's difficult to moderate other languages. Any user knowingly found communicating in any another language will have to face the consequences.
+
+**3** : Keep things in the correct channels. Non mental health discussions regarding politics or religion are not allowed.
+
+**4**: Please avoid minimodding. We appreciate efforts to help out, but more often than not it ends up interfering with our job, and can have unintended consequences.
+
+**5**: Do not ask for or suggest a diagnosis
+We are not doctors. Lists of symptoms mean nothing without seeing them in the context of your life. The most we can do is give advice for coping methods. Mental health is very important and you should seek professional help if you think something is wrong. 
+
+**6** : Do not advocate for or against treatments
+Leave the treatment for the professionals: do not prescribe treatments or suggest medication. You can describe how something worked for you, but please do not advocate for a form of treatment or a specific medication. 
+
+**7**: No alternative medicine
+Please do not promote religion, homeopathy, diets or any other form of treatment that does not have scientific backing. We are trying to help people.
+
+**8**: Do not complain about a lack of responsiveness in heavy chats.
+While we do want everyone to receive the assistance they need, and understand it can be frustrating to be seemingly ignored after a request for help, there are unfortunately some times of day where the server is relatively slow due to time zone restrictions. We do not want others to feel bad for not replying at a time they were unable to.
+[2021-04-16 20:25:51] (516313738588979210) Lil#1500: **9**: Respect DM roles.
+
+**10**: Please refer to the list in #info-and-rules for trigger warnings and not allowed topics. Censor any words or phrases that fall within that list, and do not post about them in any light channels. 
+
+**11**: Be civil and respectful
+Racist, homophobic, transphobic, sexist or just generally offensive messages are not allowed. 
+
+**12**: Do not encourage dangerous activities
+Encouraging harmful or illegal activities is not okay. Advice to cease medication will be removed. Asking for medical advice concerning illicit drugs is forbidden. 
+
+**13**: No NSFW messages out of <#706591269865914489>.
+
+**14**: No graphic descriptions or details, specifically regarding eating disorders, self harm, or harm to others.
+
+**15**: Moderators have final say: they're in the position for a reason. Unnecessarily argumentative behavior without valid justification will be met with an appropriate punishment.
+
+**16**: If you need to DM a mod for a moderation issue we ask you to either respect DM roles and ask in the server with the general topic of the dm or create a ticket in <#808934814689918996>. We will not carry out private support in DMs unless **both** parties consent to do so. If you want to DM a mod in a friend-friend/non-server related manner please pay attention to our DM roles
+
+Please file a ticket in <#808934814689918996> if you believe you have been wrongfully warned.
+[2021-04-16 20:26:02] (516313738588979210) Lil#1500: Is there anything else someone wants to do with the rules?
+[2021-04-16 20:26:50] (543871424188907544) awesomenoodles#4169: ah shit i feel like i did
+[2021-04-16 20:26:59] (543871424188907544) awesomenoodles#4169: but i cant remember
+[2021-04-16 20:27:01] (396441108995112970) beebee#3442: it’s been bugging me for ages
+[2021-04-16 20:27:01] (396441108995112970) beebee#3442: space in between the end of rule 8 and the beginning of 9
+[2021-04-16 20:27:15] (543871424188907544) awesomenoodles#4169: sure if i didnt write it down it wasnt important
+[2021-04-16 20:27:25] (543871424188907544) awesomenoodles#4169: omg yes please fix this
+[2021-04-16 20:27:32] (516313738588979210) Lil#1500: Fixed it
+[2021-04-16 20:27:36] (543871424188907544) awesomenoodles#4169: thank you
+[2021-04-16 20:27:47] (516313738588979210) Lil#1500: Maybe I could bold some keywords?
+[2021-04-16 20:28:03] (543871424188907544) awesomenoodles#4169: yes do that
+[2021-04-16 20:28:18] (516313738588979210) Lil#1500: If imma have to repost everything in <#701102417512628286> might as well make our corrections and shit now
+[2021-04-16 20:28:24] (543871424188907544) awesomenoodles#4169: yeah
+[2021-04-16 20:28:27] (543871424188907544) awesomenoodles#4169: ping moderator?
+[2021-04-16 20:28:28] (516313738588979210) Lil#1500: <@!396441108995112970> anything you wanna do?
+[2021-04-16 20:28:34] (543871424188907544) awesomenoodles#4169: get everyone to say what they need to
+[2021-04-16 20:28:36] (516313738588979210) Lil#1500: <@&793917061243994134>  ping
+[2021-04-16 20:28:47] (543871424188907544) awesomenoodles#4169: read above fellow mods
+[2021-04-16 20:28:58] (184040294851936256) jupiter#5970: 😩 why the ping
+[2021-04-16 20:29:19] (184040294851936256) jupiter#5970: i know why but like i was already reading
+[2021-04-16 20:29:45] (396441108995112970) beebee#3442: self deprecating
+[2021-04-16 20:29:46] (543871424188907544) awesomenoodles#4169: just so everything we want to fix with rules can happen
+[2021-04-16 20:29:48] (396441108995112970) beebee#3442: in light
+[2021-04-16 20:29:53] (543871424188907544) awesomenoodles#4169: yes that
+[2021-04-16 20:30:06] (516313738588979210) Lil#1500: What do you want that included under?
+[2021-04-16 20:30:23] (396441108995112970) beebee#3442: rule 10
+[2021-04-16 20:30:57] (516313738588979210) Lil#1500: **How to report a user or Issue**
+To file a ticket for any reason, react to the message in <#808934814689918996> . A new channel for your ticket will be created, and moderators will be notified and will come to assist you.
+
+**Self-Serve Roles**
+Please give yourself roles in the <#808934814689918996> channel by reacting with the appropriate emoji to the role you want
+
+**Additional Information**
+
+Want to invite someone to the server? Send them this: https://discord.gg/mentalillness
+
+By participating in NSFW and heavy Marked channels and all channels on this server, you acknowledge that you may be exposed to potentially triggering content
+
+Use $hotline to get a DM with a directory of region-based crisis hotlines
+
+To get in the server you need to type `$verify` in <#817326358107389963> 
+
+Any message, action, or user who breaks Discord TOS in any way will be removed
+
+By participating in this server you acknowledge that you are not breaking any rules set by Discord and will abide regulations of the server.
+[2021-04-16 20:31:01] (543871424188907544) awesomenoodles#4169: also
+> Please refer to the list in #info-and-rules for trigger war
+that channel doesnt exist
+[2021-04-16 20:31:02] (516313738588979210) Lil#1500: We have this too
+[2021-04-16 20:31:05] (533736043736858627) yxng_pxriah#1969: *but all my self deprecating jokes* :pensivewobble:
+[2021-04-16 20:31:19] (396441108995112970) beebee#3442: we can hate ourselves in mod chats
+[2021-04-16 20:31:26] (533736043736858627) yxng_pxriah#1969: Good enough
+[2021-04-16 20:31:32] (533736043736858627) yxng_pxriah#1969: Unlike me
+[2021-04-16 20:31:34] (516313738588979210) Lil#1500: Self deprecating jokes either kill the chat or make it go too heavy lol
+[2021-04-16 20:31:37] (533736043736858627) yxng_pxriah#1969: *slaps knee*
+[2021-04-16 20:31:46] (396441108995112970) beebee#3442: slap me
+[2021-04-16 20:31:50] (396441108995112970) beebee#3442: make me feel something
+[2021-04-16 20:31:58] (396441108995112970) beebee#3442: other than self hate and pain
+[2021-04-16 20:32:04] (543871424188907544) awesomenoodles#4169: OwO swap me
+[2021-04-16 20:32:06] (533736043736858627) yxng_pxriah#1969: Only if you slap me too
+[2021-04-16 20:32:10] (396441108995112970) beebee#3442: deal
+[2021-04-16 20:32:18] (533736043736858627) yxng_pxriah#1969: Swap
+[2021-04-16 20:32:22] (516313738588979210) Lil#1500: *where is rhis*
+[2021-04-16 20:32:31] (543871424188907544) awesomenoodles#4169: lets see your notifs fuck that up
+[2021-04-16 20:32:36] (543871424188907544) awesomenoodles#4169: rule 10
+[2021-04-16 20:32:36] (184040294851936256) jupiter#5970: oh if only i was hot and someone loved me <:sadfax:773419858482036766>
+[2021-04-16 20:32:47] (396441108995112970) beebee#3442: you are hot and i do love you
+[2021-04-16 20:32:49] (533736043736858627) yxng_pxriah#1969: One of thosr is true
+[2021-04-16 20:33:11] (184040294851936256) jupiter#5970: wait
+[2021-04-16 20:33:17] (533736043736858627) yxng_pxriah#1969: *i was gonna try confuse them smh*
+[2021-04-16 20:33:19] (516313738588979210) Lil#1500: you are hot stfu
+[2021-04-16 20:34:11] (396441108995112970) beebee#3442: 
+[2021-04-16 20:34:22] (184040294851936256) jupiter#5970: 
+[2021-04-16 20:35:03] (396441108995112970) beebee#3442: 
+[2021-04-16 20:35:20] (533736043736858627) yxng_pxriah#1969: <a:HR_ClubSwag:658725739952078868>
+[2021-04-16 20:37:20] (543871424188907544) awesomenoodles#4169: <a:froggiedance:708432766135435354>
+[2021-04-16 20:37:57] (533736043736858627) yxng_pxriah#1969: N o
+[2021-04-16 20:38:12] (533736043736858627) yxng_pxriah#1969: Fucking *n o*
+[2021-04-16 20:38:14] (516313738588979210) Lil#1500: How does the bonding look on the rules?
+[2021-04-16 20:38:21] (516313738588979210) Lil#1500: Also get out this chat smh
+[2021-04-16 20:38:30] (533736043736858627) yxng_pxriah#1969: Bonding
+[2021-04-16 20:38:37] (516313738588979210) Lil#1500: *bolding
+[2021-04-16 20:38:54] (396441108995112970) beebee#3442: imma get out of this life
+[2021-04-16 20:39:00] (396441108995112970) beebee#3442: bad dum tisss
+[2021-04-16 20:39:38] (533736043736858627) yxng_pxriah#1969: *that was decent*
+[2021-04-16 20:39:40] (543871424188907544) awesomenoodles#4169: im a fan
+[2021-04-16 20:39:47] (533736043736858627) yxng_pxriah#1969: Also i like the bolding
+[2021-04-16 20:39:52] (516313738588979210) Lil#1500: Okie thank u
+[2021-04-16 20:39:56] (533736043736858627) yxng_pxriah#1969: Makes it look more professional
+[2021-04-16 20:42:35] (516313738588979210) Lil#1500: /webhooksend <#701102417512628286> __**Welcome to the r/mentalillness Discord server!**__
+I
+**Rules**
+
+**1**:  **No self promotion or advertising**
+This includes linking to your own website, blog, fundraisers, or YouTube videos. Links from well known websites are allowed, but personal sites, blogs, surveys and polls are not.
+
+**2**: **The language of communication of this server is English**. 
+It's difficult to moderate other languages. Any user knowingly found communicating in any another language will have to face the consequences.
+
+**3** : **Keep things in the correct channels**. 
+Non mental health discussions regarding politics or religion are not allowed.
+
+**4**: **No minimodding.**
+ We appreciate efforts to help out, but more often than not it ends up interfering with our job, and can have unintended consequences.
+
+**5**: **Do not ask for or suggest a diagnosis**
+We are not doctors. Lists of symptoms mean nothing without seeing them in the context of your life. The most we can do is give advice for coping methods. Mental health is very important and you should seek professional help if you think something is wrong. 
+
+**6** : **Do not advocate for or against treatments**
+**Leave the treatment for the professionals**: do not prescribe treatments or suggest medication. You can describe how something worked for you, but please do not advocate for a form of treatment or a specific medication. 
+
+**7**: **No alternative medicine**
+Please do not promote religion, homeopathy, diets or any other form of treatment that does not have scientific backing. We are trying to help people.
+-
+[2021-04-16 20:42:41] (516313738588979210) Lil#1500: *oh*
+[2021-04-16 20:42:46] (516313738588979210) Lil#1500: *it didn’t work*
+[2021-04-16 20:42:52] (516313738588979210) Lil#1500: I broke it
+[2021-04-16 20:43:12] (516313738588979210) Lil#1500: <@222479899808628736> help me please?
+[2021-04-16 20:43:48] (222479899808628736) Michael#3287: *it's !*
+[2021-04-16 20:43:50] (222479899808628736) Michael#3287: *not /*
+[2021-04-16 20:44:01] (516313738588979210) Lil#1500: Oh
+[2021-04-16 20:44:07] (222479899808628736) Michael#3287: *sorry lol*
+[2021-04-16 20:44:13] (516313738588979210) Lil#1500: !webhooksend <#701102417512628286> __**Welcome to the r/mentalillness Discord server!**__
+I
+**Rules**
+
+**1**:  **No self promotion or advertising**
+This includes linking to your own website, blog, fundraisers, or YouTube videos. Links from well known websites are allowed, but personal sites, blogs, surveys and polls are not.
+
+**2**: **The language of communication of this server is English**. 
+It's difficult to moderate other languages. Any user knowingly found communicating in any another language will have to face the consequences.
+
+**3** : **Keep things in the correct channels**. 
+Non mental health discussions regarding politics or religion are not allowed.
+
+**4**: **No minimodding.**
+ We appreciate efforts to help out, but more often than not it ends up interfering with our job, and can have unintended consequences.
+
+**5**: **Do not ask for or suggest a diagnosis**
+We are not doctors. Lists of symptoms mean nothing without seeing them in the context of your life. The most we can do is give advice for coping methods. Mental health is very important and you should seek professional help if you think something is wrong. 
+
+**6** : **Do not advocate for or against treatments**
+**Leave the treatment for the professionals**: do not prescribe treatments or suggest medication. You can describe how something worked for you, but please do not advocate for a form of treatment or a specific medication. 
+
+**7**: **No alternative medicine**
+Please do not promote religion, homeopathy, diets or any other form of treatment that does not have scientific backing. We are trying to help people.
+-
+[2021-04-16 20:44:31] (222479899808628736) Michael#3287: uhhh wtf
+[2021-04-16 20:44:40] (516313738588979210) Lil#1500: Michael
+[2021-04-16 20:44:42] (516313738588979210) Lil#1500: *lmao*
+[2021-04-16 20:44:46] (222479899808628736) Michael#3287: *it worked yesterday*
+[2021-04-16 20:44:48] (222479899808628736) Michael#3287: *you saw it*
+[2021-04-16 20:45:00] (516313738588979210) Lil#1500: *also where did rule 8 go?*
+[2021-04-16 20:45:02] (222479899808628736) Michael#3287: can i just teach you how to use the real webhook editor
+[2021-04-16 20:45:05] (222479899808628736) Michael#3287: idk thats your problem lmao
+[2021-04-16 20:45:50] (516313738588979210) Lil#1500: We gud
+[2021-04-16 20:45:53] (516313738588979210) Lil#1500: I’m never on pc
+[2021-04-16 20:47:07] (222479899808628736) Michael#3287: smh
+[2021-04-16 20:48:20] (222479899808628736) Michael#3287: !webhooksend <#801504927947554876> **Rules**
+
+**1**:**  No self promotion or advertising**
+This includes linking to your own website, blog, fundraisers, or YouTube videos. Links from well known websites are allowed, but personal sites, blogs, surveys and polls are not.
+
+**2**:** The language of communication of this server is English. **
+It's difficult to moderate other languages. Any user knowingly found communicating in any another language will have to face the consequences.
+
+**3**:** Keep things in the correct channels. **
+Non mental health discussions regarding politics or religion are not allowed.
+
+**4**:** No minimodding.**
+ We appreciate efforts to help out, but more often than not it ends up interfering with our job, and can have unintended consequences.
+
+**5**:** Do not ask for or suggest a diagnosis**
+We are not doctors. Lists of symptoms mean nothing without seeing them in the context of your life. The most we can do is give advice for coping methods. Mental health is very important and you should seek professional help if you think something is wrong. 
+
+**6**:** Do not advocate for or against treatments**
+Leave the treatment for the professionals: do not prescribe treatments or suggest medication. You can describe how something worked for you, but please do not advocate for a form of treatment or a specific medication. 
+
+**7**:** No alternative medicine**
+Please do not promote religion, homeopathy, diets or any other form of treatment that does not have scientific backing. We are trying to help people.
+[2021-04-16 20:48:37] (222479899808628736) Michael#3287: ill just edit it on the website lmao
+[2021-04-16 20:49:20] (516313738588979210) Lil#1500: Sorry :/
+[2021-04-16 20:50:11] (222479899808628736) Michael#3287: its ok love \<3
+[2021-04-16 20:53:57] (222479899808628736) Michael#3287: <@!516313738588979210>
+[2021-04-16 20:54:01] (222479899808628736) Michael#3287: does that look good
+[2021-04-16 20:54:26] (516313738588979210) Lil#1500: No
+[2021-04-16 20:54:37] (516313738588979210) Lil#1500: *oops sorry that was blunt*
+[2021-04-16 20:54:52] (516313738588979210) Lil#1500: but you are missing all the format and the new rule
+[2021-04-16 20:55:24] (516313738588979210) Lil#1500: and you are missing the punctuation gap to separate rule 8 and 9
+[2021-04-16 20:57:01] (222479899808628736) Michael#3287: wait i only sent the first part
+[2021-04-16 20:57:03] (222479899808628736) Michael#3287: wheres the second
+[2021-04-16 20:57:17] (516313738588979210) Lil#1500: But the first part has no format either?
+[2021-04-16 20:57:26] (222479899808628736) Michael#3287: we want the whole rule to be bolded?
+[2021-04-16 20:57:39] (516313738588979210) Lil#1500: No just the bits I did
+[2021-04-16 20:57:49] (222479899808628736) Michael#3287: yeah thats the whole rule lol
+[2021-04-16 20:58:19] (516313738588979210) Lil#1500: `__**Welcome to the r/mentalillness Discord server!**__
+
+**Rules**
+
+**1**:  **No self promotion or advertising**
+This includes linking to your own website, blog, fundraisers, or YouTube videos. Links from well known websites are allowed, but personal sites, blogs, surveys and polls are not.
+
+**2**: **The language of communication of this server is English**. 
+It's difficult to moderate other languages. Any user knowingly found communicating in any another language will have to face the consequences.
+
+**3** : **Keep things in the correct channels**. 
+Non mental health discussions regarding politics or religion are not allowed.
+
+**4**: **Please avoid minimodding.**
+ We appreciate efforts to help out, but more often than not it ends up interfering with our job, and can have unintended consequences.
+
+**5**: **Do not ask for or suggest a diagnosis**
+We are not doctors. Lists of symptoms mean nothing without seeing them in the context of your life. The most we can do is give advice for coping methods. Mental health is very important and you should seek professional help if you think something is wrong. 
+
+**6** : **Do not advocate for or against treatments**
+**Leave the treatment for the professionals**: do not prescribe treatments or suggest medication. You can describe how something worked for you, but please do not advocate for a form of treatment or a specific medication. 
+
+**7**: **No alternative medicine**
+Please do not promote religion, homeopathy, diets or any other form of treatment that does not have scientific backing. We are trying to help people.
+.`
+[2021-04-16 20:58:57] (516313738588979210) Lil#1500: `**8**: **Do not complain about a lack of responsiveness in heavy chats.**
+While we do want everyone to receive the assistance they need, and understand it can be frustrating to be seemingly ignored after a request for help, there are unfortunately some times of day where the server is relatively slow due to time zone restrictions. We do not want others to feel bad for not replying at a time they were unable to.
+
+**9**: **Respect DM roles.**
+
+**10**: **Correct Spoilering**
+Please refer to the list in #welcome-and-rules for trigger warnings and not allowed topics. Censor any words or phrases that fall within that list, and do not post about them in any light channels additionally self deprecating jokes will not be permitted in light 
+
+**11**: **Be civil and respectful**
+Racist, homophobic, transphobic, sexist or just generally offensive messages are not allowed. 
+
+**12**: **Do not encourage dangerous activities**
+Encouraging harmful or illegal activities is not okay. Advice to cease medication will be removed. Asking for medical advice concerning illicit drugs is forbidden. 
+
+**13**: **No NSFW messages out of #nsfw.**
+
+**14**: **No graphic descriptions or details**
+Specifically regarding eating disorders, self harm, or harm to others.
+
+**15**: **Moderators have final say:**
+ They're in the position for a reason. Unnecessarily argumentative behavior without valid justification will be met with an appropriate punishment.
+
+**16**: **Mod Communication**
+If you need to DM a mod for a moderation issue we ask you to either respect DM roles and ask in the server with the general topic of the dm or create a ticket in #roles-and-reports. We will not carry out private support in DMs unless **both** parties consent to do so. If you want to DM a mod in a friend-friend/non-server related manner please pay attention to our DM roles
+
+Please file a ticket in #roles-and-reports if you believe you have been wrongfully warned.`
+[2021-04-16 21:01:30] (222479899808628736) Michael#3287: done?
+[2021-04-16 21:03:39] (516313738588979210) Lil#1500: Thanks love
+[2021-04-16 21:04:07] (516313738588979210) Lil#1500: *do you mind adding a full stop to separate 7 and 8*
+[2021-04-16 21:07:40] (222479899808628736) Michael#3287: wdym
+[2021-04-16 21:07:53] (222479899808628736) Michael#3287: i cant they're separate messages
+[2021-04-16 21:08:26] (222479899808628736) Michael#3287: OH
+[2021-04-16 21:08:33] (222479899808628736) Michael#3287: is that why you added the period?
+[2021-04-16 21:08:36] (222479899808628736) Michael#3287: i thought that was just a typo lol
+[2021-04-16 21:08:38] (516313738588979210) Lil#1500: Well can you add a full stop at the top or bottom or either message
+[2021-04-16 21:08:41] (516313738588979210) Lil#1500: Yeah
+[2021-04-16 21:08:55] (222479899808628736) Michael#3287: there you go \:)
+[2021-04-16 21:10:04] (516313738588979210) Lil#1500: Thanks love
+[2021-04-16 21:13:54] (222479899808628736) Michael#3287: no problem love
+[2021-04-17 15:24:27] (396441108995112970) beebee#3442: Hey @ Support! 
+
+Support roles have moved! It is now under <#832981497773817926>. Please read through the guidelines, react with the message to show your understanding and then give yourself the support role.
+
+~ Support Moderation Team
+[2021-04-17 15:24:56] (516313738588979210) Lil#1500: People that already have the support role should not react
+[2021-04-17 15:25:00] (516313738588979210) Lil#1500: Because it will just remove it
+[2021-04-17 15:25:52] (516313738588979210) Lil#1500: Yup
+[2021-04-18 20:28:13] (396441108995112970) beebee#3442: Hello @ everyone! 
+
+Just taking a moment here to wish the server a Happy Birthday! 
+ 
+We are officially one year old and opened our server 365 days ago. Since then we have been through many changes to become the best we can be. 
+
+Join me in thanking the team for working so hard each day to keep us up and running!
+
+And a massive thank you to you guys for making it into the server we know and love. 
+
+~ the r/mentalillness team
+[2021-04-18 20:28:44] (396441108995112970) beebee#3442: <@&793917061243994134> how’s this
+[2021-04-18 20:28:58] (184040294851936256) jupiter#5970: i like
+[2021-04-18 20:29:02] (516313738588979210) Lil#1500: Looks good
+[2021-04-18 20:29:02] (184040294851936256) jupiter#5970: add a party emote
+[2021-04-18 20:29:27] (821012679816249424) Avery | Library Collective#3148: lookin fancy
+[2021-04-18 20:30:21] (533736043736858627) yxng_pxriah#1969: ye its alright
+[2021-04-18 20:30:49] (184040294851936256) jupiter#5970: bee take the space out of the announcement
+[2021-04-18 20:30:54] (184040294851936256) jupiter#5970: for the mental illness emote
+[2021-04-18 20:31:06] (396441108995112970) beebee#3442: oh shit yeah
+[2021-04-18 20:31:26] (222479899808628736) Michael#3287: *it was 366 days ago wasn’t it*
+[2021-04-18 20:31:35] (222479899808628736) Michael#3287: *2020 was a leap year lol*
+[2021-04-18 20:31:45] (821012679816249424) Avery | Library Collective#3148: shut up nerd
+[2021-04-19 08:15:07] (516313738588979210) Lil#1500: <@&793917061243994134> who’s writing the new role?
+[2021-04-19 08:17:47] (222479899808628736) Michael#3287: *what new rule*
+[2021-04-19 08:18:17] (516313738588979210) Lil#1500: The sfw and pingable name
+[2021-04-19 08:21:36] (222479899808628736) Michael#3287: *oh*
+[2021-04-19 08:21:39] (222479899808628736) Michael#3287: idk
+[2021-04-19 08:26:08] (516313738588979210) Lil#1500: *we are just gaining rules now lol*
+[2021-04-19 14:06:19] (396441108995112970) beebee#3442: i can write it up once i’ve woken up a little more
+[2021-04-19 14:06:43] (516313738588979210) Lil#1500: Okie love
+[2021-04-19 14:55:26] (396441108995112970) beebee#3442: also think we should add it to the welcome message when they join
+[2021-04-19 15:12:06] (516313738588979210) Lil#1500: Yeah? Sure
+[2021-04-19 16:41:10] (396441108995112970) beebee#3442: Rule 2947392627829673
+
+All names must be pingsble on a qwerty keyboard and sfw. 
+
+Please adopt a pingable and sfw nickname before entering the server, this makes it easier for logging purposes.
+[2021-04-19 16:41:43] (516313738588979210) Lil#1500: love
+[2021-04-19 16:42:38] (396441108995112970) beebee#3442: did the web hook editing get sorted?
+[2021-04-19 16:44:59] (516313738588979210) Lil#1500: I can’t figure it out
+[2021-04-19 16:45:06] (516313738588979210) Lil#1500: Michael said he’d look at it later
+[2021-04-19 16:45:09] (516313738588979210) Lil#1500: Idk if he did tho
+[2021-04-19 16:45:31] (396441108995112970) beebee#3442: i mean we can just resend it if you want
+[2021-04-19 16:45:33] (396441108995112970) beebee#3442: saves the trouble
+[2021-04-19 16:45:52] (516313738588979210) Lil#1500: True
+[2021-04-19 17:40:53] (516313738588979210) Lil#1500: https://docs.google.com/spreadsheets/d/1bLzIbsKgXPxxltcCbM92wDEL1HGMlPsuy82mVtQ5Fh8/edit
+
+<@&793917061243994134> please add your availability and **use the key provided in gmt**
+[2021-04-19 17:46:20] (821012679816249424) Avery | Library Collective#3148: ?should we use our account or the shared one?
+[2021-04-19 17:46:50] (516313738588979210) Lil#1500: You can use either
+[2021-04-19 17:46:57] (516313738588979210) Lil#1500: That link works for both
+[2021-04-19 17:46:57] (821012679816249424) Avery | Library Collective#3148: alright!
+[2021-04-19 17:56:22] (516313738588979210) Lil#1500: Well I found our gaps /j
+[2021-04-19 17:56:55] (821012679816249424) Avery | Library Collective#3148: lots of l's
+[2021-04-19 17:57:19] (184040294851936256) jupiter#5970: i'm just gonna say i'm available when i'm awake
+[2021-04-19 17:57:21] (184040294851936256) jupiter#5970: since i am
+[2021-04-19 17:58:20] (396441108995112970) beebee#3442: i have legit no life
+[2021-04-19 18:04:38] (184040294851936256) jupiter#5970: oh no
+[2021-04-19 18:04:48] (184040294851936256) jupiter#5970: when the thing you write for roles is more than 2000 characters
+[2021-04-19 18:05:30] (184040294851936256) jupiter#5970: **Pronouns** 
+Select the set of pronouns that you use primarily, if you use more than one set of pronouns you can select the one you prefer more or select “other”
+
+**Additional Pronouns** 
+If you use multiple sets pronouns, you can select these pronouns here.
+
+**Age**
+Select the role that fits your age.  
+
+**Mental Illness**
+Anxiety Disorders- Generalized Anxiety Disorder, Panic Disorder, Phobia-related disorders, Social Anxiety Disorder, Agoraphobia, Separation Anxiety Disorder, etc. 
+Mood Disorder- Major Depressive Disorder, Bipolar Disorder, Seasonal Affective Disorder, Cyclothymic Disorder, etc.  
+Eating Disorder- Anorexia nervosa, Bulimia nervosa, Binge-eating disorder, etc. 
+Dissociative Disorder- DID, Dissociative Amnesia, Depersonalization-derealization Disorder, etc.  Psychosis
+ADHD
+Body Disorders- Body Dysmorphic Disorder, etc.
+PSTD- Uncomplicated PTSD, Complex PTSD, Comorbid PTSD, etc.  Autism 
+Tic Disorders- Tourettes, Persistent Motor or Vocal Tic Disorder, Provisional Tic Disorder, etc.
+Schizophrenia 
+OCD
+Addiction
+Trauma
+[2021-04-19 18:06:01] (516313738588979210) Lil#1500: *what ya makin*
+[2021-04-19 18:06:33] (184040294851936256) jupiter#5970: **Where are you from?**
+If comfortable, pick the role that coincides with the location that you’re from. 
+**What do you want to be pinged for?**
+Affection- affection is pinged when someone would like a hug or another form of affection and users often respond with a hug emote or words of encouragement 
+LGBTQ+- a role for anyone who is part of the LBGTQ+ community
+Announcement- announcement is pinged when the moderators make an announcement regarding the server/ different from @-everyone since you opt into getting these announcements 
+Activities- activities gets pinged whenever there’s an event on the server that you can participate in 
+Games- games gets pinged whenever someone wants play games with other members of the server
+ Voice Hangout- voice hangout gets pinged whenever someone wants to get a group to come hang out and chat in the voice channels 
+Support- found in <#832981497773817926>, support is pinged when someone needs help or emotional support 
+**What channels do you want to see?**
+No Spoilers channels- a channel where people can vent without having to censor potential triggers
+NSFW (18+)- a channel for nsfw topics, however, only accessible for those over 18 
+Only Community Channels- you won’t see any of the heavy channels 
+System Specific Channel- a channel for those who are systems to interact with each other
+**DMs**
+DMs Open- your DMs are open and anyone can DM you without asking 
+Ask to DM- people have to ask to DM, otherwise they’re breaking the rules
+No DMs- no one is allowed to DM
+[2021-04-19 18:06:33] (396441108995112970) beebee#3442: explanation of all the roles
+[2021-04-19 18:07:44] (184040294851936256) jupiter#5970: i thought for the disorders that i would put the common ones since i know we get alot of questions about where for example depression fits under them
+[2021-04-19 18:07:46] (184040294851936256) jupiter#5970: hold up-
+[2021-04-19 18:07:53] (184040294851936256) jupiter#5970: i'm missing personality disorders
+[2021-04-19 18:09:27] (516313738588979210) Lil#1500: That’s a good idea!
+[2021-04-19 18:09:41] (516313738588979210) Lil#1500: You can do it by embeds or something tomake it matchy matchy
+[2021-04-19 18:11:50] (184040294851936256) jupiter#5970: idk how to do that
+[2021-04-19 18:11:58] (184040294851936256) jupiter#5970: but i think i got everything
+[2021-04-19 18:12:04] (184040294851936256) jupiter#5970: lmk if you want anything to be changed
+[2021-04-19 18:14:08] (516313738588979210) Lil#1500: Looks good to me!
+[2021-04-19 18:14:27] (516313738588979210) Lil#1500: The formatting of your message looks a little weird on mobile tho
+[2021-04-19 18:15:00] (533736043736858627) yxng_pxriah#1969: Ehhh it works
+[2021-04-19 18:15:06] (533736043736858627) yxng_pxriah#1969: Also thats a lot of text
+[2021-04-19 18:15:08] (821012679816249424) Avery | Library Collective#3148: yeah i'm on mobile and there's some of these squares in there
+[2021-04-19 18:15:27] (516313738588979210) Lil#1500: There’s no squares for me?
+[2021-04-19 18:15:38] (516313738588979210) Lil#1500: I was referring to spacing
+[2021-04-19 18:15:39] (533736043736858627) yxng_pxriah#1969: Me neither
+[2021-04-19 18:15:47] (516313738588979210) Lil#1500: It’s weirdly spaced on mine
+[2021-04-19 18:15:58] (821012679816249424) Avery | Library Collective#3148: like these
+[2021-04-19 18:16:30] (516313738588979210) Lil#1500: There’s nothing there for me?
+[2021-04-19 18:16:35] (821012679816249424) Avery | Library Collective#3148: huh
+[2021-04-19 18:16:37] (533736043736858627) yxng_pxriah#1969: 
+[2021-04-19 18:16:46] (821012679816249424) Avery | Library Collective#3148: android discord js being weird lately
+[2021-04-19 18:16:56] (533736043736858627) yxng_pxriah#1969: Yeah
+[2021-04-19 18:17:14] (533736043736858627) yxng_pxriah#1969: Switch to iOS ezpz
+[2021-04-19 18:17:17] (516313738588979210) Lil#1500: Also for some reason <#816981920754696212> is refusing to @ people
+[2021-04-19 18:17:37] (516313738588979210) Lil#1500: So for some of them it just has id coded
+[2021-04-19 18:17:39] (821012679816249424) Avery | Library Collective#3148: this is how it looks for me
+[2021-04-19 18:17:59] (533736043736858627) yxng_pxriah#1969: It usually does that when they aren’t here
+[2021-04-19 18:18:11] (516313738588979210) Lil#1500: *but they are*
+[2021-04-19 18:18:28] (533736043736858627) yxng_pxriah#1969: >.>
+[2021-04-19 18:18:48] (821012679816249424) Avery | Library Collective#3148: you mean online? cause everyone whos offline is invalid-user except for michael and star
+[2021-04-19 18:18:48] (184040294851936256) jupiter#5970: idk how to fix that :/
+[2021-04-19 18:19:17] (184040294851936256) jupiter#5970: you guys can format it better
+[2021-04-19 18:19:24] (184040294851936256) jupiter#5970: i have to bounce for a bit
+[2021-04-19 18:22:28] (516313738588979210) Lil#1500: Lil pinned a message to this channel.
+[2021-04-19 18:22:32] (516313738588979210) Lil#1500: Yeah maybe
+[2021-04-19 19:39:29] (543871424188907544) awesomenoodles#4169: I've been typing Js so much to the point i cant even tell if its actually a J or not
+[2021-04-19 19:39:49] (821012679816249424) Avery | Library Collective#3148: ahh i feel you haha
+[2021-04-19 19:40:08] (516313738588979210) Lil#1500: yes
+[2021-04-19 19:40:15] (516313738588979210) Lil#1500: <@!184040294851936256>
+[2021-04-19 19:40:29] (184040294851936256) jupiter#5970: yes
+[2021-04-19 19:40:30] (184040294851936256) jupiter#5970: what
+[2021-04-19 19:40:36] (184040294851936256) jupiter#5970: oh
+[2021-04-19 19:40:40] (184040294851936256) jupiter#5970: but i’m online all the time
+[2021-04-19 19:42:51] (543871424188907544) awesomenoodles#4169: *also i dont like how this exposes my shit sleep schedule*
+[2021-04-19 19:43:01] (184040294851936256) jupiter#5970: ^^^
+[2021-04-19 19:43:16] (516313738588979210) Lil#1500: :D
+[2021-04-19 19:43:20] (516313738588979210) Lil#1500: No judgment love
+[2021-04-19 19:43:25] (516313738588979210) Lil#1500: We don’t judge here
+[2021-04-19 19:43:33] (516313738588979210) Lil#1500: This is showing that I have no life
+[2021-04-19 19:43:42] (543871424188907544) awesomenoodles#4169: *yes but i judge myself smh*
+[2021-04-19 19:43:49] (821012679816249424) Avery | Library Collective#3148: i just put our default sleep schedule because everything else changes on the daily
+[2021-04-19 19:44:03] (516313738588979210) Lil#1500: Mines rough estimate I could be on more or less
+[2021-04-19 19:44:09] (184040294851936256) jupiter#5970: should i just say 3 am
+[2021-04-19 19:44:11] (821012679816249424) Avery | Library Collective#3148: yeah same
+[2021-04-19 19:44:15] (184040294851936256) jupiter#5970: for bed time
+[2021-04-19 19:44:23] (543871424188907544) awesomenoodles#4169: yeah i put down just a rough thing
+[2021-04-19 19:44:26] (821012679816249424) Avery | Library Collective#3148: jupe pls get ur rest if u need it
+[2021-04-19 19:44:27] (184040294851936256) jupiter#5970: it would be 1, 2, 3 ,4 5
+[2021-04-19 19:44:41] (184040294851936256) jupiter#5970: i went to bed at 2 last night
+[2021-04-19 19:44:46] (543871424188907544) awesomenoodles#4169: i also have not accounted for any naps that i usually take
+[2021-04-19 19:44:46] (184040294851936256) jupiter#5970: that an accomplishment
+[2021-04-19 19:44:56] (184040294851936256) jupiter#5970: idk how to account for my random naps
+[2021-04-19 19:44:58] (821012679816249424) Avery | Library Collective#3148: proud of u <:hugs:771753710526267403>
+[2021-04-19 19:45:12] (821012679816249424) Avery | Library Collective#3148: /gen
+[2021-04-19 19:45:14] (543871424188907544) awesomenoodles#4169: same
+[2021-04-19 19:45:25] (821012679816249424) Avery | Library Collective#3148: random naps best
+[2021-04-19 19:45:38] (543871424188907544) awesomenoodles#4169: i usually take a nap after school but i have no clue as to if i actually take it or how long it could be
+[2021-04-19 19:46:08] (821012679816249424) Avery | Library Collective#3148: *takes a 1 hour nap at 4pm* 
+*wakes up at 3am*
+[2021-04-19 19:46:18] (543871424188907544) awesomenoodles#4169: moooooooooood
+[2021-04-19 19:46:55] (821012679816249424) Avery | Library Collective#3148: i don't get people that have self control
+[2021-04-19 19:47:14] (543871424188907544) awesomenoodles#4169: neither do i
+[2021-04-19 19:47:22] (821012679816249424) Avery | Library Collective#3148: like good for you but how
+[2021-04-19 19:47:40] (516313738588979210) Lil#1500: I’m in BST rn
+[2021-04-19 19:48:04] (821012679816249424) Avery | Library Collective#3148: i'm in spain but the s is silent
+[2021-04-19 19:48:11] (543871424188907544) awesomenoodles#4169: lmaooo
+[2021-04-19 19:49:14] (821012679816249424) Avery | Library Collective#3148: <:PensiveCowBread:798787405695549461>
+[2021-04-19 23:10:22] (184040294851936256) jupiter#5970: i edited the role thing
+[2021-04-20 17:52:04] (516313738588979210) Lil#1500: https://discohook.org/

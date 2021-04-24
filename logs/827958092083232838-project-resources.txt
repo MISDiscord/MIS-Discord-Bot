@@ -233,3 +233,103 @@
 [2021-04-12 12:55:44] (516313738588979210) Lil#1500: Thank uou!
 [2021-04-12 12:55:50] (396441108995112970) beebee#3442: all good!
 [2021-04-12 13:01:10] (516313738588979210) Lil#1500: $positive
+[2021-04-17 14:20:26] (516313738588979210) Lil#1500: **Resources List**
+[2021-04-17 14:26:37] (516313738588979210) Lil#1500: What else
+[2021-04-17 16:55:00] (396441108995112970) beebee#3442: when we do this
+[2021-04-17 16:57:51] (516313738588979210) Lil#1500: *idk*
+[2021-04-18 10:52:50] (516313738588979210) Lil#1500: command list
+[2021-04-18 10:53:03] (516313738588979210) Lil#1500: send via webhook cuz we like matchy matchy
+[2021-04-18 10:58:15] (516313738588979210) Lil#1500: *hmm*
+[2021-04-18 11:24:53] (516313738588979210) Lil#1500: TIPP stands for:
+
+Temperature: Using your diving reflex, put your head in freezing cold water and hold your breath for 30 seconds. If you have a cold allergy or extreme sensitivity to temperature, you can also use a bag of ice on the face or any other cold object, etc to induce a change in temperature. The change in temperature can ground you and "shock" you into snapping out of it.
+
+Intensive Exercise: Go for a run, lift weights, try and do something that raises your heart rate and activates endorphins. This can help distract you from anxiety or repetitive thoughts.
+
+Paired Muscle Relaxation (PMR): There are youtube videos that can guide you through this if needed. Progressively stiffen your muscles and then relax them one by one from your feet all the way up to your neck and down your arms. The focusing and relaxation can help alleviate distress.
+
+Paced Breathing: Make your inhale shorter than your exhale! Play close attention to how you're breathing and count breaths if possible.
+
+Credits: Lucy
+[2021-04-18 11:25:28] (516313738588979210) Lil#1500: IMPROVE stands for:
+
+Imagery: Use your imagination to picture something soothing. Take yourself to a comforting place in your mind and use all 5 senses to explore the area.
+
+Meaning: Find some meaning or purpose in the pain. Journal down how you feel and learn what your pain is telling you. Oftentimes there is a reason to why we are feeling a certain emotion and discovering what that emotion is telling us can lead to creatively working around that feeling! There are emotions that are more difficult and some that are easier; make it a point to get in touch with them and listen to what your brain is telling you. Understanding yourself gives you more power over your emotions and aids in recovery.
+
+Prayer: To some people this means praying to their deity, however this can simply mean something like meditation, writing down things you are grateful for, or asking yourself for strength in this tough moment.
+
+One Thing at a Time: Only do one thing at a time! Don't try to tackle everything at once, take one thing and focus on it until you come up with the solution. Take it step by step, you've got this!
+
+Vacation: This doesn't have to mean a literal vacation, it can just involve taking a small break from a tough moment.  You can go on a brief walk around the house or lay down in bed for a little bit. Get creative! There's many different things you can do to escape for a bit.
+
+Encouragement: Tell yourself that you can do this! You've survived every worst moment in the past and you can do it again this time! You are strong, draw upon that strength now to keep yourself going.
+
+Credits: Lucy
+[2021-04-18 11:25:38] (396441108995112970) beebee#3442: Emotional Regulation Skills: These are skills for long term mental health and not crisis regulation! They are great things you can do to regulate your daily emotions and improve over time.
+
+Physical Illness: Treat any sort of cold or physical condition you have so it isn't burdening you. It is easy to feel down or upset when you're sick and stuck in bed/unable to do things that you enjoy.
+
+Balanced Eating: Our emotional regulation depends on a good diet. Eating too many sugary things can feel good temporarily but can lead to problems later. Making sure you have all the nutrients you need is important to both your body and mind!
+
+Avoid Mood Altering Substances: This can refer to substances such as excessive caffeine or harder substances such as alcohol, nicotine, or illicit drugs. These all have an effect on our moods and can cause cycles of anxiety and depression. Avoiding these things can be a good way to promote good mental health in the long term.
+
+Regular Exercise: Try for 15-30 minutes of exercise a day if you can. The endorphins will make a difference as well as the positive effects on your body. A sedentary lifestyle can mess with moods as much as well! Even if it is a small amount of exercise such as going for a walk it's still a great way to manage your moods!
+
+Credits: Lucy
+[2021-04-18 11:25:48] (396441108995112970) beebee#3442: ABC Skills: three more long term emotional regulation skills!
+
+Accumulate Positive Emotions: Do things that are enjoyable on a regular basis! Depriving yourself of positive things can really get you down; doing regularly positive things even if they are hard to do can improve your moods long term!
+
+Build Mastery: Learn a skill! You may struggle at the start but long term you will be able to feel achievement and have a positive outlet for your emotions. It helps you feel competent and productive and gives you something to do in your spare time!
+
+Cope Ahead: Rehearse coping skills on good days so they become easier to use when you are struggling. It's really easy to forget to practice coping skills when we are doing well, but neglecting them can not only lead to negative emotions, it can also make them harder to put into practice during a rough time.
+
+Credits: Lucy
+[2021-04-18 11:26:06] (516313738588979210) Lil#1500: ACCEPTS stands for:
+ 
+Activities: Put yourself into a distracting activity in order to get through the moment.
+
+Contributing: Help someone else even if it's in a small way! It can help you feel better about yourself too.
+ 
+Comparisons: Compare this situation to another time that you were able to get through it. Remember what you did to get through it last time, is there anything that worked? Is there anything that didn't? Plan a course of action based on how it went last time.
+ 
+Emotions: Do activities that are the opposite emotion of what you are feeling at the time. If you sense the start of an emotion, try and do something to turn it around! If you are feeling sad listen to happy music or watch comedy, if you're feeling like isolating try and socialize,, if you're feeling angry put yourself into a soothing situation. While it may feel uncomfortable at first, it's a way to break the cycle. 
+ 
+Pushing Away: Push away mentally from the emotion. This can involve distractions, anything that can put away the emotion long enough until you feel okay to process it.
+
+Thoughts: Use distracting thoughts such as counting to 10 or doing a puzzle or something similar that mentally challenges you and distracts from the thoughts in your head.
+
+Sensations: Use your 5 senses to soothe yourself. Some examples include listening to calming music, feeling something soft, looking up cute animal pictures or inspiring videos or blog posts, drinking some sugar free lemonade, or smelling a candle.
+
+Credits: Lucy
+[2021-04-18 11:26:11] (396441108995112970) beebee#3442: Making a Sensory Box: when you are overwhelmed you can pull out this box of goodies and indulge yourself in them to distract yourself from the crisis! Prepare this ahead of time and put things of each sense in there. There's some examples below of things you can include in your sensory box.
+
+Sight: a picture of a sunset, a poem to read, a picture of when you went on vacation, pretty jewelry, a token that means something to you
+Gratitude journaling: Keep a journal of things you are thankful of, and add to it when you are doing well and when you are struggling. Read it when you're having a hard time and it can help remind you of the many things in your life that you do have!
+
+Sound: a harmonica or other instrument to play with, a CD or headphones to listen to your favorite music, a gift card that plays a little tune
+
+Touch: something soft like a stuffed animal, something with an interesting texture like silly putty or a stress ball, a rubik's cube, or other fidget toys
+
+Smell: a candle, lotion, incense or even perfume/cologne to distract yourself with a strong and pleasant smell
+
+Taste: cookies, sugar free gum or a water flavor packet to drink, something that can engage your taste buds in a positive manner with something you like
+
+Credits: Lucy
+[2021-04-18 11:26:43] (516313738588979210) Lil#1500: Some additional Custom Commands
+
+$breathe - this comes up with a gif for breathing
+
+$grounding - this comes up with a grounding guide idea
+
+$relax- for a bigger version of the spinny profile picture
+
+$hugs- for a hug
+
+$shalternatvies- for self harm alternatives 
+
+$hotline- for a list of hotlines
+
+$positive - For a positive uplift
+[2021-04-18 11:43:26] (222479899808628736) Michael#3287: [what you want to see](url)

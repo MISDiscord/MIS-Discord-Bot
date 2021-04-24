@@ -266,3 +266,200 @@ they left the whole server
 [2021-04-13 11:32:13] (724929820726919180) Yuki_blue <3#2872: Pk;ap Yuki
 [2021-04-13 11:32:21] (724929820726919180) Yuki_blue <3#2872: Hii
 [2021-04-13 18:22:57] (681531347583631444) Vortetty#5020: pk;m Anon proxy add ˀ⁼text
+[2021-04-14 22:59:45] (724929820726919180) Yuki_blue <3#2872: Test
+[2021-04-14 23:03:23] (724929820726919180) Yuki_blue <3#2872: pk;m avery icon
+[2021-04-14 23:04:43] (724929820726919180) Yuki_blue <3#2872: pk;m Yuki icon
+[2021-04-14 23:04:59] (724929820726919180) Yuki_blue <3#2872: Ok
+[2021-04-15 16:35:22] (732879948645269586) Skylurk#4349: pk;ap off
+[2021-04-15 18:56:29] (813059039474745394) Cloud system~☁#3334: Pk; ap front
+[2021-04-15 18:59:52] (732879948645269586) Skylurk#4349: pk;ap latch
+[2021-04-16 12:01:04] (762359882157522966) chaff1nch#4613: pk;ap front
+[2021-04-16 12:02:44] (762359882157522966) chaff1nch#4613: pk;m Shigaraki pronouns he/him
+[2021-04-16 18:40:54] (762359882157522966) chaff1nch#4613: pk;switch Dabi
+[2021-04-16 23:00:08] (696517486983643196) Okuajub#0416: pk;ap off
+[2021-04-17 01:47:06] (681531347583631444) Vortetty#5020: pk;m Blurry rename ???
+[2021-04-17 12:27:17] (817286443805966356) Ash bean#1481: pk; switch Ash
+[2021-04-17 16:15:48] (732879948645269586) Skylurk#4349: pk;ap off
+[2021-04-17 17:51:39] (681531347583631444) Vortetty#5020: pk;s tag  | Tæmt modʒiɹæ / Winter
+[2021-04-17 17:51:43] (681531347583631444) Vortetty#5020: test
+[2021-04-17 17:51:57] (681531347583631444) Vortetty#5020: pk;s tag  | Winter
+[2021-04-18 05:46:18] (724929820726919180) Yuki_blue <3#2872: pk;s tag | Mystical
+[2021-04-18 06:48:48] (609434268149743626) Ursa Major System#4025: <@!430621608877490186>
+[2021-04-18 06:48:52] (609434268149743626) Ursa Major System#4025: ayoooo
+[2021-04-18 06:49:08] (430621608877490186) Rodger#0283: Hello
+[2021-04-18 06:49:21] (609434268149743626) Ursa Major System#4025: okay soooo
+[2021-04-18 06:49:30] (609434268149743626) Ursa Major System#4025: first you gotta make a system, do you have a system name?
+[2021-04-18 06:49:37] (609434268149743626) Ursa Major System#4025: pk; s
+[2021-04-18 06:49:53] (430621608877490186) Rodger#0283: Rodger system
+[2021-04-18 06:50:12] (609434268149743626) Ursa Major System#4025: okay so you'd make "pk;s new Rodger System" I think
+[2021-04-18 06:51:50] (430621608877490186) Rodger#0283: pk;s new Rodger System
+[2021-04-18 06:52:11] (609434268149743626) Ursa Major System#4025: you can follow that link too
+[2021-04-18 06:52:18] (609434268149743626) Ursa Major System#4025: but you can start with a new member and stuff
+[2021-04-18 06:52:34] (609434268149743626) Ursa Major System#4025: which is like "pk; m new *themembersname*"
+[2021-04-18 06:54:13] (430621608877490186) Rodger#0283: pk; m new Alexi
+[2021-04-18 06:55:26] (609434268149743626) Ursa Major System#4025: okay so now you want a proxy for them. so like for sally we'd say "Sa then we type what she wants" some people use "Sa: whatever" "Sally: yeet" "Sally yeet" "S. yeet" ect
+[2021-04-18 06:55:53] (609434268149743626) Ursa Major System#4025: so to make that you go "pk;m Alexi proxy Alexi: text" or wahtever you want,you have to put text. if you put a space then you have to use the space to use the proxy
+[2021-04-18 06:56:45] (430621608877490186) Rodger#0283: pk;m Alexi proxy Alexi: ax
+[2021-04-18 06:57:05] (609434268149743626) Ursa Major System#4025: you need to say text
+[2021-04-18 06:57:34] (430621608877490186) Rodger#0283: So like Alexi: text(ax)
+[2021-04-18 06:58:27] (609434268149743626) Ursa Major System#4025: you don't want the :  
+if you do it that way to proxy the message would look like "talk talk talk(ax)" to proxy
+[2021-04-18 06:58:43] (609434268149743626) Ursa Major System#4025: if you want the ax to be the proxy, you send "pk;m Alexi ax text"
+[2021-04-18 07:00:56] (430621608877490186) Rodger#0283: pk;m Alexi ax text
+[2021-04-18 07:01:42] (430621608877490186) Rodger#0283: pk;m Alexi ax Alexi:
+[2021-04-18 07:01:49] (430621608877490186) Rodger#0283: pk;m Alexi ax
+[2021-04-18 07:02:21] (609434268149743626) Ursa Major System#4025: what proxy do you want Alexi to have?
+[2021-04-18 07:07:13] (430621608877490186) Rodger#0283: pk;m Alexi dn Alexi (He/Him)
+[2021-04-18 07:08:47] (430621608877490186) Rodger#0283: pk;s system tag | Rodger System
+[2021-04-18 07:34:02] (609434268149743626) Ursa Major System#4025: oooh
+[2021-04-18 07:34:39] (430621608877490186) Rodger#0283: pk;system tag | Rodger System
+[2021-04-18 07:35:08] (609434268149743626) Ursa Major System#4025: pk;s icon
+[2021-04-18 07:35:12] (609434268149743626) Ursa Major System#4025: hahaha
+[2021-04-18 07:35:14] (609434268149743626) Ursa Major System#4025: pk; s
+[2021-04-18 07:35:17] (609434268149743626) Ursa Major System#4025: oh my god yes
+[2021-04-18 07:35:42] (609434268149743626) Ursa Major System#4025: pk;s list fll
+[2021-04-18 07:35:46] (609434268149743626) Ursa Major System#4025: pk; s list full
+[2021-04-18 07:35:53] (609434268149743626) Ursa Major System#4025: pk;s list
+[2021-04-19 01:21:29] (816103117183123476) |-+𝕞𝕒𝕜𝕠 𝕤𝕪𝕤𝕥𝕖𝕞+-|#6610: pk;ap xaine latch
+[2021-04-19 01:21:33] (816103117183123476) |-+𝕞𝕒𝕜𝕠 𝕤𝕪𝕤𝕥𝕖𝕞+-|#6610: test
+[2021-04-19 01:33:28] (776545200741941248) crow system#6180: Pk;member new zovanola
+[2021-04-19 01:34:05] (776545200741941248) crow system#6180: Pk;m zovanola proxy text -zova
+[2021-04-19 01:36:46] (776545200741941248) crow system#6180: Pk;m zovanola description name: zovanola 
+age: 4
+pronouns: he/him
+role: apparently normal part/little
+[2021-04-19 05:29:47] (817286443805966356) Ash bean#1481: pk; switch Ash
+[2021-04-19 12:20:14] (776545200741941248) crow system#6180: Pk;m zovanola avatar
+[2021-04-19 12:20:27] (776545200741941248) crow system#6180: Pk;m zovanola
+[2021-04-19 12:22:11] (776545200741941248) crow system#6180: Pk;member zovanola avatar
+[2021-04-19 12:23:48] (776545200741941248) crow system#6180: Pk;m zovanola description Pk;m zovanola description name: zovanola 
+age: 4
+pronouns: he/him
+role: apparently normal part/little/twin
+[2021-04-19 12:24:10] (776545200741941248) crow system#6180: Pk;m zovanola rename zovanola he/him
+[2021-04-19 12:25:40] (776545200741941248) crow system#6180: Pk;member new zozanova
+[2021-04-19 12:26:19] (776545200741941248) crow system#6180: Pk;m zozanova proxy text -zoza
+[2021-04-19 12:28:35] (776545200741941248) crow system#6180: Pk;m zozanova description name: zozanova
+age: 4
+pronouns: he/they
+role: emotional part/little/twin
+[2021-04-19 12:29:27] (776545200741941248) crow system#6180: Pk;m zozanova avatar
+[2021-04-19 12:33:17] (776545200741941248) crow system#6180: Pk;m zozanova rename zozanova he/they
+[2021-04-19 14:17:08] (821012679816249424) Avery | Library Collective#3148: pk;ap latch
+[2021-04-19 14:17:12] (821012679816249424) Avery | Library Collective#3148: oh
+[2021-04-19 17:52:51] (717884053180907572) ╭➛✎﹏ | 🐰 ᵇᵘⁿˢʸ // 愛着 ♡#1037: pk;ap latch
+[2021-04-20 00:55:31] (724929820726919180) Yuki_blue <3#2872: pk;system tag | Mystical System
+[2021-04-20 03:40:34] (619565354175299626) WhiteIvy#5909: Pk; system
+[2021-04-20 03:40:43] (619565354175299626) WhiteIvy#5909: Pk; system new
+[2021-04-20 03:40:54] (619565354175299626) WhiteIvy#5909: Pk;system
+[2021-04-20 03:41:18] (619565354175299626) WhiteIvy#5909: Pk; system proxy
+[2021-04-20 03:42:02] (619565354175299626) WhiteIvy#5909: Pk; system tag | White Ivy
+[2021-04-20 03:42:21] (619565354175299626) WhiteIvy#5909: Pk; m new Alex
+[2021-04-20 03:43:00] (619565354175299626) WhiteIvy#5909: PK; M Alex proxy 1-
+[2021-04-20 03:43:24] (619565354175299626) WhiteIvy#5909: Pk; m Alex proxy add 1-
+[2021-04-20 03:44:15] (619565354175299626) WhiteIvy#5909: Pk; m Alex proxy add 1-text
+[2021-04-20 03:44:23] (619565354175299626) WhiteIvy#5909: 1- test
+[2021-04-20 03:44:45] (717884053180907572) ╭➛✎﹏ | 🐰 ᵇᵘⁿˢʸ // 愛着 ♡#1037: Goo job!
+[2021-04-20 03:45:00] (717884053180907572) ╭➛✎﹏ | 🐰 ᵇᵘⁿˢʸ // 愛着 ♡#1037: <:NE_ST_HappyClap:804090593570455593>
+[2021-04-20 03:45:33] (619565354175299626) WhiteIvy#5909: Thanks
+[2021-04-20 03:45:53] (619565354175299626) WhiteIvy#5909: Pk; m new Stacy
+[2021-04-20 03:46:29] (619565354175299626) WhiteIvy#5909: Pk; m Stacy proxy add 6-text
+[2021-04-20 03:48:18] (619565354175299626) WhiteIvy#5909: Pk; m new Persephone
+[2021-04-20 03:48:39] (619565354175299626) WhiteIvy#5909: Pk; m persephone proxy 3- text
+[2021-04-20 03:48:53] (619565354175299626) WhiteIvy#5909: 3- test
+[2021-04-20 03:50:00] (619565354175299626) WhiteIvy#5909: Pk; m persephone description No she doesn't think she is a goddess it was a game tag and she liked the name and refused to use any else.
+[2021-04-20 04:16:01] (619565354175299626) WhiteIvy#5909: 
+[2021-04-20 04:16:56] (619565354175299626) WhiteIvy#5909: Pk; m Alex avatar 2pnfze0kevqyv
+[2021-04-20 04:17:33] (619565354175299626) WhiteIvy#5909: Pk; m Alex avatar https://cdn.discordapp.com/attachments/796798755113664583/833918905198051339/Photo_2021-04-19-23-15-15-753.png
+[2021-04-20 04:17:43] (619565354175299626) WhiteIvy#5909: 1- test
+[2021-04-20 04:45:37] (619565354175299626) WhiteIvy#5909: 
+[2021-04-20 04:46:14] (619565354175299626) WhiteIvy#5909: Pk; m persephone avatar https://cdn.discordapp.com/attachments/796798755113664583/833926357028306974/Photo_2021-04-19-23-44-08-396.png
+[2021-04-20 04:46:26] (619565354175299626) WhiteIvy#5909: 
+[2021-04-20 04:46:57] (619565354175299626) WhiteIvy#5909: Pk; m Stacy avatar https://cdn.discordapp.com/attachments/796798755113664583/833926560918274088/Photo_2021-04-19-23-44-45-075.png
+[2021-04-20 12:39:41] (732879948645269586) Skylurk#4349: pk;ap
+[2021-04-20 12:39:49] (732879948645269586) Skylurk#4349: pk;ap latch
+[2021-04-20 12:39:55] (732879948645269586) Skylurk#4349: sky-.
+[2021-04-20 14:28:25] (776545200741941248) crow system#6180: Pk;ap undo
+[2021-04-20 14:28:35] (776545200741941248) crow system#6180: Pk;ap off
+[2021-04-20 14:29:29] (776545200741941248) crow system#6180: Pk;m new kitty
+[2021-04-20 14:30:04] (776545200741941248) crow system#6180: Pk;m kitty proxy text -kitty
+[2021-04-20 14:35:18] (776545200741941248) crow system#6180: Pk;m kitty description name: kitty
+age: 3
+pronouns: kitty/kitten
+role: little/non human/anxiety holder
+[2021-04-20 14:36:40] (776545200741941248) crow system#6180: Pk;m kitty avatar
+[2021-04-20 14:37:42] (776545200741941248) crow system#6180: Pk;m kitty rename to kitty kitty/kitten
+[2021-04-20 14:39:28] (776545200741941248) crow system#6180: Pk;m qcuzk
+[2021-04-20 14:41:11] (776545200741941248) crow system#6180: Pk;m qcuzk rename kitty kitty/kitten￼
+[2021-04-20 14:42:41] (776545200741941248) crow system#6180: Pk;m qcuzk rename kitty kitty/kitten
+[2021-04-20 14:44:21] (776545200741941248) crow system#6180: Pk;ap latch
+[2021-04-21 01:13:59] (816103117183123476) |-+ ｌｏｉｃ+-|#6610: pk;ap off
+[2021-04-21 01:14:04] (816103117183123476) |-+ ｌｏｉｃ+-|#6610: test
+[2021-04-22 01:39:08] (776545200741941248) crow system#6180: pk;m new baby
+[2021-04-22 01:39:47] (776545200741941248) crow system#6180: pk;m baby proxy text -baby
+[2021-04-22 01:43:50] (776545200741941248) crow system#6180: pk;m baby description name: baby
+age: 1
+pronouns: she/her
+role: little/emotional part
+[2021-04-22 13:51:49] (776545200741941248) crow system#6180: Pk;m baby avatar
+[2021-04-22 13:52:09] (776545200741941248) crow system#6180: Pk;m baby rename baby she/her
+[2021-04-22 14:01:57] (776545200741941248) crow system#6180: Pk;m new sasha
+[2021-04-22 14:02:30] (776545200741941248) crow system#6180: Pk;m sasha proxy text -sasha
+[2021-04-22 14:04:30] (776545200741941248) crow system#6180: Pk;m sasha description name: sasha 
+age: 5 
+pronouns: they/them
+role: little/apparently normal part
+[2021-04-22 14:05:18] (776545200741941248) crow system#6180: Pk;m sasha avatar
+[2021-04-22 14:06:30] (776545200741941248) crow system#6180: Pk;m sasha rename sasha they/them
+[2021-04-22 14:36:51] (776545200741941248) crow system#6180: Pk;m new valmor
+[2021-04-22 14:37:32] (776545200741941248) crow system#6180: Pk;m valmor proxy text -valmor
+[2021-04-22 14:41:03] (776545200741941248) crow system#6180: Pk;m valmor description name: valmor
+age: 15
+little age: 2
+pronouns: he/him
+role: emotional part/optional little
+[2021-04-22 14:42:11] (776545200741941248) crow system#6180: Pk;m valmor avatar
+[2021-04-22 14:44:10] (776545200741941248) crow system#6180: Pk;m valmor rename valmor he/him
+[2021-04-22 15:26:33] (776545200741941248) crow system#6180: Pk;m new happy
+[2021-04-22 15:26:49] (776545200741941248) crow system#6180: Pk;m happy proxy text -happy
+[2021-04-22 15:27:10] (776545200741941248) crow system#6180: Pk;m happy avatar
+[2021-04-22 15:29:21] (776545200741941248) crow system#6180: Pk;m happy description name: happy
+age: 3
+pronouns: she/her
+role: little/apparently normal part
+[2021-04-22 15:29:44] (776545200741941248) crow system#6180: Pk;m happy rename happy she/her
+[2021-04-22 17:12:38] (821012679816249424) Avery | Library Collective#3148: pk;ap off
+[2021-04-22 19:52:25] (776545200741941248) crow system#6180: Pk;m new pinkie pie
+[2021-04-22 19:53:16] (776545200741941248) crow system#6180: Pk;m iihhf proxy text -pinkie
+[2021-04-22 19:55:57] (776545200741941248) crow system#6180: Pk;m iihhf description name: pinkie pie
+age: 27
+pronouns: she/her 
+role: fictive/apparently normal part
+[2021-04-22 19:56:39] (776545200741941248) crow system#6180: Pk;m iihhf avatar
+[2021-04-22 19:58:13] (776545200741941248) crow system#6180: Pk;m iihhf rename pinkie pie she/her
+[2021-04-22 21:07:17] (821012679816249424) Avery | Library Collective#3148: Pk;ap latch
+[2021-04-22 23:11:02] (776545200741941248) crow system#6180: Pk;m new zoe
+[2021-04-22 23:11:26] (776545200741941248) crow system#6180: Pk;m zoe proxy text -zoe
+[2021-04-22 23:11:57] (776545200741941248) crow system#6180: Pk;m zoe avatar
+[2021-04-22 23:18:58] (776545200741941248) crow system#6180: Pk;m zoe description name: zoe 
+age: 23
+little age: 3
+pronouns: she/her
+role: emotional part/optional little
+[2021-04-22 23:19:24] (776545200741941248) crow system#6180: Pk;m zoe rename zoe she/her
+[2021-04-22 23:42:26] (776545200741941248) crow system#6180: Pk;m new lucy
+[2021-04-22 23:42:53] (776545200741941248) crow system#6180: Pk;m lucy proxy text -lucy
+[2021-04-22 23:44:08] (776545200741941248) crow system#6180: Pk;m lucy description name: lucy 
+age: 15
+pronouns: she/her
+role: persecutor/emotional part
+[2021-04-22 23:45:52] (776545200741941248) crow system#6180: Pk;m lucy avatar
+[2021-04-22 23:46:38] (776545200741941248) crow system#6180: Pk;m lucy rename lucy she/her
+[2021-04-23 18:41:58] (732879948645269586) Skylurk#4349: pk;ap
+[2021-04-23 18:42:17] (732879948645269586) Skylurk#4349: Rhy-forgot my proxy
+[2021-04-23 18:42:20] (732879948645269586) Skylurk#4349: rhy-this?
+[2021-04-23 18:42:22] (732879948645269586) Skylurk#4349: ah
+[2021-04-24 02:10:14] (575147693811433472) The Titannet Collective#1771: pk;m Latin sn Latin 🛼
+[2021-04-24 02:10:32] (575147693811433472) The Titannet Collective#1771: pk;m Latin sn Latin 🛼 {t/t}
+[2021-04-24 02:11:12] (575147693811433472) The Titannet Collective#1771: pk;ap front
+[2021-04-24 02:43:59] (575147693811433472) The Titannet Collective#1771: pk;m taiden sn Taiden {h/h typing quirk}
