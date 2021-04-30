@@ -28,3 +28,6 @@ For Saturday I need everyone to vote on what times suits them the best for our f
 [2021-04-20 13:31:37] (396441108995112970) beebee#3442: tomorrow 9pm
 [2021-04-20 13:31:43] (396441108995112970) beebee#3442: yes
 [2021-04-20 13:32:26] (396441108995112970) beebee#3442: <@&705596937201516544> above is the event panel for Bee be cooking! We will be making meatballs!
+[2021-04-29 19:17:17] (543871424188907544) awesomenoodles#4169: <@&705596937201516544> its game night week again! Vote on the polls below for what game we will play and when. As always, the timezone converter is in pins :)
+[2021-04-29 19:17:31] (543871424188907544) awesomenoodles#4169: -poll "What game do you want to play? (You can vote for more than one)" "Among Us" "Gartic Phone" "Jackbox 3" "Jackbox 7" "Suggest your own in <#704860630368387072>"
+[2021-04-29 19:17:46] (543871424188907544) awesomenoodles#4169: -poll "What times on Saturday suit you best?" "5pm GMT" "6pm GMT" "7pm GMT" "9pm GMT" "10pm GMT"

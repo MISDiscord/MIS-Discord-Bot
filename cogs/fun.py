@@ -10,7 +10,7 @@ class Fun(commands.Cog):
     def __init__(self, bot):
         self.bot = bot
 
-    @commands.command(name="gayimage")
+    @commands.command(name="gayify")
     async def gay(self, ctx):
         if ctx.message.reference:
             for attachment in ctx.message.reference.resolved.attachments:

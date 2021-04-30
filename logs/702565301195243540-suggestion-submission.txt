@@ -61,3 +61,59 @@ would that be good enough and useful?? im not exactly sure so i thought feedback
 [2021-04-21 22:42:50] (527535207364952067) kyle123#7894: ?Suggest make it so that when you get to each level you get a different colour I think it would be cool
 [2021-04-22 03:26:06] (559911995693072384) calleigh#0296: ?suggestion Maybe add a "quotes" channel where positive quotes can be posted for encouragement?
 [2021-04-22 03:26:44] (184040294851936256) jupiter#5970: <#702908817515479141>
+[2021-04-24 15:31:01] (648312904940257281) Simo#0999: ?suggest could the server pin number milestones in <#833814393917407273>?
+[2021-04-25 04:02:40] (467747778622259221) greywolfember#0072: ?suggestion add a venting channel with anon submits, but it's a venting-response text channel (currently the only anon venting text channel is the no-response one)
+[2021-04-25 04:02:44] (467747778622259221) greywolfember#0072: unless this is a thing already?
+[2021-04-25 04:20:08] (467747778622259221) greywolfember#0072: oh I did it wrong
+[2021-04-25 04:20:16] (467747778622259221) greywolfember#0072: ?suggestion [add a venting channel with anon submits, but it's a venting-response text channel (currently the only anon venting text channel is the no-response one)]
+[2021-04-25 04:20:29] (467747778622259221) greywolfember#0072: wait no I guess not?
+[2021-04-25 04:20:31] (467747778622259221) greywolfember#0072: ah well
+[2021-04-25 04:21:05] (458408109027753986) Amanda09#2715: ?suggest ?suggestion [add a venting channel with anon submits, but it's a venting-response text channel (currently the only anon venting text channel is the no-response one)]
+[2021-04-25 04:21:14] (458408109027753986) Amanda09#2715: <@467747778622259221> there
+[2021-04-25 04:28:36] (467747778622259221) greywolfember#0072: oh thank you!
+[2021-04-25 20:51:56] (575147693811433472) The Titannet Collective#1771: ?suggest an age regression role?
+[2021-04-25 20:52:35] (648312904940257281) Simo#0999: what's an age regression role?
+[2021-04-25 20:52:46] (516313738588979210) Lil#1500: It’s for age regression I’m guessing
+[2021-04-25 20:53:25] (516313738588979210) Lil#1500: Lemme find a definition for age regression I have it somewhere
+[2021-04-25 20:54:20] (575147693811433472) The Titannet Collective#1771: ~~ag wegesn wew yu hav witw spas an yu few witwew den yu aw~~
+[2021-04-25 20:55:30] (648312904940257281) Simo#0999: according to the most trusted site on earth
+Google
+Age regression occurs when you mentally retreat to an earlier age.
+[2021-04-25 20:55:45] (575147693811433472) The Titannet Collective#1771: ~~t copng meskanism~~
+[2021-04-25 20:55:46] (575147693811433472) The Titannet Collective#1771: ~~t copng meskanism~~
+[2021-04-25 20:55:58] (516313738588979210) Lil#1500: It’s a coping mechanism yeah
+[2021-04-25 20:56:40] (648312904940257281) Simo#0999: could there also be roles for other coping mechanisms?
+[2021-04-25 20:57:12] (575147693811433472) The Titannet Collective#1771: ~~ah wegwsn tend t b mow dwastic an stuf wif bby tawk an stuf wik dat~~
+[2021-04-25 20:58:23] (575147693811433472) The Titannet Collective#1771: lilac: for little space it tends to be more of a tell and drastic thing (:
+[2021-04-25 20:59:19] (575147693811433472) The Titannet Collective#1771: lilac: we have a lot of age regressors in the system, it’s just a little concerning /lh
+[2021-04-26 18:47:36] (687826715321565200) TheJinxedDemon#4111: I'm a regressor as well, I just.. tend to keep it to myself because it's seen as 'irregular'.
+[2021-04-27 10:52:53] (510757842505039872) Ajmc#8880: ?suggest is it possible to add spoilers to bot text in case we're searching lyrics in the vc to check for possible triggers?
+[2021-04-27 11:10:49] (516313738588979210) Lil#1500: For 164 do you mean a custom command with the spoilers list?
+[2021-04-27 11:24:39] (543871424188907544) awesomenoodles#4169: no they mean having something that spoilers bot text
+[2021-04-27 11:25:00] (543871424188907544) awesomenoodles#4169: so like if theyre searching for lyrics from rhythm and it has something triggering it can be spoilered
+[2021-04-27 11:25:08] (543871424188907544) awesomenoodles#4169: idk if that is possible
+[2021-04-27 11:25:36] (516313738588979210) Lil#1500: That’s not possible from our end
+[2021-04-27 11:26:06] (543871424188907544) awesomenoodles#4169: yeah thats what i was thinking
+[2021-04-27 19:03:17] (648312904940257281) Simo#0999: ?suggest a way to separate questions from answers in <#827957423573565450> <#826478320472293407> and <#702178014192074775>
+[2021-04-28 11:10:24] (695635702364241930) 🎇 Hecate 💫#6865: ?suggest Can the tech team add a bot that adds LGBT+ flag colors to the user’s pfp (for example, bi, gay, ace, agender, gender fluid, etc….colors).
+[2021-04-29 05:35:30] (475451833490604043) just a regular pop culture fan#4485: bi-gender emotes bread and heart and flag thanks for your reading
+[2021-04-29 05:35:38] (475451833490604043) just a regular pop culture fan#4485: if you did it right
+[2021-04-29 05:36:12] (543871424188907544) awesomenoodles#4169: you can do ?suggest and then write that to make a suggestion that people can vote on
+[2021-04-29 05:43:34] (458408109027753986) Amanda09#2715: The breads are actually by a server member but I can ask them
+[2021-04-29 05:44:03] (475451833490604043) just a regular pop culture fan#4485: ok
+[2021-04-29 05:45:40] (184040294851936256) jupiter#5970: i think they're made by a tumblr creator
+[2021-04-29 05:45:50] (458408109027753986) Amanda09#2715: Oh okay
+[2021-04-29 05:46:06] (184040294851936256) jupiter#5970: oh maybe nvm
+[2021-04-29 05:46:14] (458408109027753986) Amanda09#2715: I really thought duck was making them
+[2021-04-29 05:47:12] (184040294851936256) jupiter#5970: there's a tumblr user that makes pride emotes in a similar style
+[2021-04-29 05:47:42] (184040294851936256) jupiter#5970: ignore me
+[2021-04-29 07:37:31] (458408109027753986) Amanda09#2715: <:Bigender_Bread:837230688217595924>
+[2021-04-29 08:01:05] (673543138098413609) Something#4609: Maybe adding Tupper Box for the people that know how to use it
+[2021-04-29 09:31:04] (543871424188907544) awesomenoodles#4169: whats tupper box?
+[2021-04-29 09:31:58] (543871424188907544) awesomenoodles#4169: we have <@466378653216014359> so we dont need tupper box
+[2021-04-29 15:23:53] (575147693811433472) The Titannet Collective#1771: ?suggest having the gay flag with the heart thingy? (the mlm flag)
+[2021-04-29 23:34:51] (673543138098413609) Something#4609: A chat where you can talk about music interests
+[2021-04-29 23:36:22] (801949748171898900) Jupiter#3533: Also what is <#833814393917407273> channel for?
+[2021-04-29 23:36:42] (184040294851936256) jupiter#5970: <#816981072855695370> is used for this
+[2021-04-29 23:36:44] (801949748171898900) Jupiter#3533: And hi <@!184040294851936256>
+[2021-04-29 23:36:51] (184040294851936256) jupiter#5970: hi jupiter lol

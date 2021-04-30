@@ -1,3 +1,66 @@
 [2021-04-24 01:37:13] (396441108995112970) beebee#3442: - sorting out voice rules
 - clearing up rules
 [2021-04-24 01:42:50] (200391976837840896) ParanoidKitty#0081: - suicide/cryouts
+[2021-04-25 12:49:38] (543871424188907544) awesomenoodles#4169: -add pingable sfw nicks to rules
+[2021-04-25 12:54:51] (396441108995112970) beebee#3442: and welcome channel^
+[2021-04-25 13:23:38] (516313738588979210) Lil#1500: - guidelines
+[2021-04-26 10:29:41] (516313738588979210) Lil#1500: **To do**
+
+<:PinkDot:801840466861621258> Voice Rules
+<:PinkDot:801840466861621258> Clearing up rules
+<:PinkDot:801840466861621258> Suicide Call out Clarification 
+<:PinkDot:801840466861621258> Pingable nicks and Sfw nicks to rules and welcome channel
+<:PinkDot:801840466861621258> Channel banner clarification
+[2021-04-26 16:09:04] (184040294851936256) jupiter#5970: -clarify how to select disorder roles
+[2021-04-26 19:01:32] (821012679816249424) The Library Collective#6969: - add a section about how to spoiler images?
+[2021-04-26 19:01:38] (821012679816249424) The Library Collective#6969: shut up yag
+[2021-04-26 19:14:40] (516313738588979210) Lil#1500: https://discord.com/channels/701102362516914186/701102417512628286/829044603054194775
+[2021-04-26 19:59:21] (396441108995112970) beebee#3442: how to spoiler command
+[2021-04-26 23:10:16] (516313738588979210) Lil#1500: I’m dishing out jobs
+[2021-04-26 23:10:30] (516313738588979210) Lil#1500: If any of you have any problems with your jobs tell me
+[2021-04-26 23:11:01] (516313738588979210) Lil#1500: <@200391976837840896> do you mind doing voice rules?
+[2021-04-26 23:11:14] (200391976837840896) ParanoidKitty#0081: Not at all
+[2021-04-26 23:11:39] (516313738588979210) Lil#1500: <@!543871424188907544> can you write a draft for the sfw and pingable nicks when you arise
+[2021-04-26 23:13:23] (516313738588979210) Lil#1500: <@!821012679816249424> do you mind (when you are free) doing the suicide call out clarification
+[2021-04-26 23:14:47] (821012679816249424) The Library Collective#6969: mhm sure thing
+[2021-04-26 23:15:23] (516313738588979210) Lil#1500: <@!533736043736858627> do you mind writing something for <#808934814689918996> explaining how to get roles?
+[2021-04-26 23:16:31] (516313738588979210) Lil#1500: Do you mind getting this done by Friday?
+[2021-04-26 23:16:39] (516313738588979210) Lil#1500: So 3 days time?
+[2021-04-27 01:51:24] (533736043736858627) yxng_pxriah#1969: Ye sure
+[2021-04-27 04:48:45] (543871424188907544) awesomenoodles#4169: i have arisen and i shall do it on the bus
+[2021-04-27 06:38:53] (543871424188907544) awesomenoodles#4169: __**Safe For Work and Pingable Nicknames**__
+All nicknames must be safe for work (sfw) and any inappropriate names will be changed to a temporary placeholder. Nicknames must also be searchable with a standard QWERTY keyboard. Any names that aren't easily searchable will also be changed to a temporary placeholder and you will be asked to change it.
+[2021-04-27 06:39:00] (543871424188907544) awesomenoodles#4169: <@!516313738588979210> that good?
+[2021-04-27 08:13:04] (516313738588979210) Lil#1500: It looks really good!
+[2021-04-27 08:14:12] (516313738588979210) Lil#1500: Do you mind though because it’s a tad long for our rules if you just put “will be changed temporarily”
+[2021-04-27 08:14:23] (516313738588979210) Lil#1500: If that sounds ok?
+[2021-04-27 08:14:32] (516313738588979210) Lil#1500: Thank you though!
+[2021-04-27 08:25:49] (543871424188907544) awesomenoodles#4169: yeah ofc
+[2021-04-27 08:27:00] (516313738588979210) Lil#1500: Thank you!
+[2021-04-27 08:27:14] (516313738588979210) Lil#1500: Imma pin this for when we re organise the rules
+[2021-04-27 08:27:18] (516313738588979210) Lil#1500: Lil pinned a message to this channel.
+[2021-04-27 08:31:19] (543871424188907544) awesomenoodles#4169: if you need me to do anything else id be more than happy to
+[2021-04-27 08:31:38] (543871424188907544) awesomenoodles#4169: (id just need some time coz i have tests this week to study for)
+[2021-04-27 08:35:00] (516313738588979210) Lil#1500: I think imma see if there’s a time we can all vc and then we can do rules together
+[2021-04-27 08:41:08] (543871424188907544) awesomenoodles#4169: that would be good
+[2021-04-27 15:28:56] (543871424188907544) awesomenoodles#4169: rule 16 - 2 strikes
+[2021-04-28 14:56:50] (516313738588979210) Lil#1500: 
+[2021-04-28 14:56:58] (516313738588979210) Lil#1500: Which style do we like for banner?
+[2021-04-28 14:57:04] (516313738588979210) Lil#1500: If we like neither I can change it
+[2021-04-28 14:59:23] (543871424188907544) awesomenoodles#4169: i dont like the bottom one
+[2021-04-28 15:00:43] (516313738588979210) Lil#1500: any other ideas?
+[2021-04-28 15:00:50] (516313738588979210) Lil#1500: maybe I could pick a different style hmmm
+[2021-04-28 15:01:07] (516313738588979210) Lil#1500: I could just do a black banner with white writing
+[2021-04-28 15:02:00] (543871424188907544) awesomenoodles#4169: the top one is fine
+[2021-04-28 15:02:06] (543871424188907544) awesomenoodles#4169: the bottom one just bothers me lol
+[2021-04-28 15:05:59] (516313738588979210) Lil#1500: What about half a circle on one side
+[2021-04-28 15:06:12] (516313738588979210) Lil#1500: Or do we like the writing under the circle?
+[2021-04-28 15:07:22] (543871424188907544) awesomenoodles#4169: i like the writing under it
+[2021-04-28 15:08:18] (516313738588979210) Lil#1500: Do be want banners for channels?
+[2021-04-28 15:08:52] (543871424188907544) awesomenoodles#4169: i think thats maybe a bit excessive?
+[2021-04-28 15:09:52] (516313738588979210) Lil#1500: Hmm
+[2021-04-28 15:10:02] (516313738588979210) Lil#1500: Not to make it look like <#825067634163843114>
+[2021-04-28 18:55:37] (516313738588979210) Lil#1500: *so no banners?*
+[2021-04-28 18:56:17] (184040294851936256) jupiter#5970: huh
+[2021-04-28 18:57:17] (184040294851936256) jupiter#5970: i can not make proper decisions rn
+[2021-04-28 18:57:23] (184040294851936256) jupiter#5970: i have a lot of caffeine in my small body

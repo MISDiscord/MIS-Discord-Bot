@@ -10,3 +10,11 @@
 [2021-04-18 11:14:13] (396441108995112970) beebee#3442: ?reason 464 racist slurs
 [2021-04-18 11:14:53] (396441108995112970) beebee#3442: ?reason 465 racist
 [2021-04-23 01:32:16] (396441108995112970) beebee#3442: ?reason 486 peadophile
+[2021-04-24 22:04:04] (222479899808628736) Michael#3287: ?unmute <@!306814023603847179>
+[2021-04-24 22:04:10] (222479899808628736) Michael#3287: ?mute <@!306814023603847179> 36h
+[2021-04-24 22:04:24] (222479899808628736) Michael#3287: ?reason 494 Continued inappropriate behavior
+[2021-04-26 16:03:31] (516313738588979210) Lil#1500: ?mute <@836253292605865984> disrespectful horrible comments
+[2021-04-27 12:32:04] (516313738588979210) Lil#1500: ^ previous infractions weren’t recorded (must have been missed) asked how to tie a ||noose|| in general
+[2021-04-27 13:28:17] (543871424188907544) awesomenoodles#4169: they were the one who asked if it was ok to be racist here as well
+[2021-04-29 16:57:41] (184040294851936256) jupiter#5970: ?reason 599 troll
+[2021-04-29 16:57:55] (184040294851936256) jupiter#5970: ?reason 559 troll
