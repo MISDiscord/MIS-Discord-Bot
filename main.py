@@ -101,27 +101,10 @@ async def on_message(ctx):
                 await asyncio.sleep(0.5)
 
     if ctx.channel.id == 826474833000661012:
-        anonymous_channel_id = 795669876345274378
-        #
-        # json_params = { "channel_id": anonymous_channel_id }
-        # headers = { "Authorization": "Bot " + os.getenv("BOT_TOKEN") }
-        # url = '/'.join(os.getenv("ANONYMOUS_CONFESSIONS_WEBHOOK_URL").split('/')[:6])
-        #
-        # change_channel = requests.patch(url, json=json_params, headers=headers)
-
-        send_message = requests.post(url=os.getenv("ANONYMOUS_CONFESSIONS_WEBHOOK_URL"), data={"content": ctx.content})
-
-        def check_user(m):
-            return m.author.id == ctx.author.id
-
-        await bot.get_channel(826474833000661012).purge(limit=5, check=check_user)
-
-        embed = discord.Embed(title="Confession Log", url=" ", color=0xabc9FF)
-        embed.set_author(name=f"{ctx.author.name}#{ctx.author.discriminator}", icon_url=ctx.author.avatar_url)
-        embed.add_field(name="Message Content:", value=ctx.content, inline=False)
-        embed.set_footer(text=f"ID: {ctx.author.id} • {datetime.now().strftime('Today at %I:%M %p')}")
-
-        await bot.get_channel(confession_log_channel_id).send(embed=embed)
+        if not ctx.content.startswith("!response") and not ctx.content.startswith("!noresposne"):
+            await ctx.delete()
+            await ctx.author.send("Please use the appropriate `!response` or `!noresponse` command to send an anonymous"
+                                  " confession.")
 
     if not ctx.content.startswith(bot.command_prefix):
 

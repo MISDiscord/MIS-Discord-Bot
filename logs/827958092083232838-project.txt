@@ -1,3 +1,241 @@
 [2021-04-24 01:37:13] (396441108995112970) beebee#3442: - sorting out voice rules
 - clearing up rules
 [2021-04-24 01:42:50] (200391976837840896) ParanoidKitty#0081: - suicide/cryouts
+[2021-04-25 12:49:38] (543871424188907544) awesomenoodles#4169: -add pingable sfw nicks to rules
+[2021-04-25 12:54:51] (396441108995112970) beebee#3442: and welcome channel^
+[2021-04-25 13:23:38] (516313738588979210) Lil#1500: - guidelines
+[2021-04-26 10:29:41] (516313738588979210) Lil#1500: **To do**
+
+<:PinkDot:801840466861621258> Voice Rules
+<:PinkDot:801840466861621258> Clearing up rules
+<:PinkDot:801840466861621258> Suicide Call out Clarification 
+<:PinkDot:801840466861621258> Pingable nicks and Sfw nicks to rules and welcome channel
+<:PinkDot:801840466861621258> Channel banner clarification
+[2021-04-26 16:09:04] (184040294851936256) jupiter#5970: -clarify how to select disorder roles
+[2021-04-26 19:01:32] (821012679816249424) The Library Collective#6969: - add a section about how to spoiler images?
+[2021-04-26 19:01:38] (821012679816249424) The Library Collective#6969: shut up yag
+[2021-04-26 19:14:40] (516313738588979210) Lil#1500: https://discord.com/channels/701102362516914186/701102417512628286/829044603054194775
+[2021-04-26 19:59:21] (396441108995112970) beebee#3442: how to spoiler command
+[2021-04-26 23:10:16] (516313738588979210) Lil#1500: I’m dishing out jobs
+[2021-04-26 23:10:30] (516313738588979210) Lil#1500: If any of you have any problems with your jobs tell me
+[2021-04-26 23:11:01] (516313738588979210) Lil#1500: <@200391976837840896> do you mind doing voice rules?
+[2021-04-26 23:11:14] (200391976837840896) ParanoidKitty#0081: Not at all
+[2021-04-26 23:11:39] (516313738588979210) Lil#1500: <@!543871424188907544> can you write a draft for the sfw and pingable nicks when you arise
+[2021-04-26 23:13:23] (516313738588979210) Lil#1500: <@!821012679816249424> do you mind (when you are free) doing the suicide call out clarification
+[2021-04-26 23:14:47] (821012679816249424) The Library Collective#6969: mhm sure thing
+[2021-04-26 23:15:23] (516313738588979210) Lil#1500: <@!533736043736858627> do you mind writing something for <#808934814689918996> explaining how to get roles?
+[2021-04-26 23:16:31] (516313738588979210) Lil#1500: Do you mind getting this done by Friday?
+[2021-04-26 23:16:39] (516313738588979210) Lil#1500: So 3 days time?
+[2021-04-27 01:51:24] (533736043736858627) yxng_pxriah#1969: Ye sure
+[2021-04-27 04:48:45] (543871424188907544) awesomenoodles#4169: i have arisen and i shall do it on the bus
+[2021-04-27 06:38:53] (543871424188907544) awesomenoodles#4169: __**Safe For Work and Pingable Nicknames**__
+All nicknames must be safe for work (sfw) and any inappropriate names will be changed to a temporary placeholder. Nicknames must also be searchable with a standard QWERTY keyboard. Any names that aren't easily searchable will also be changed to a temporary placeholder and you will be asked to change it.
+[2021-04-27 06:39:00] (543871424188907544) awesomenoodles#4169: <@!516313738588979210> that good?
+[2021-04-27 08:13:04] (516313738588979210) Lil#1500: It looks really good!
+[2021-04-27 08:14:12] (516313738588979210) Lil#1500: Do you mind though because it’s a tad long for our rules if you just put “will be changed temporarily”
+[2021-04-27 08:14:23] (516313738588979210) Lil#1500: If that sounds ok?
+[2021-04-27 08:14:32] (516313738588979210) Lil#1500: Thank you though!
+[2021-04-27 08:25:49] (543871424188907544) awesomenoodles#4169: yeah ofc
+[2021-04-27 08:27:00] (516313738588979210) Lil#1500: Thank you!
+[2021-04-27 08:27:14] (516313738588979210) Lil#1500: Imma pin this for when we re organise the rules
+[2021-04-27 08:27:18] (516313738588979210) Lil#1500: Lil pinned a message to this channel.
+[2021-04-27 08:31:19] (543871424188907544) awesomenoodles#4169: if you need me to do anything else id be more than happy to
+[2021-04-27 08:31:38] (543871424188907544) awesomenoodles#4169: (id just need some time coz i have tests this week to study for)
+[2021-04-27 08:35:00] (516313738588979210) Lil#1500: I think imma see if there’s a time we can all vc and then we can do rules together
+[2021-04-27 08:41:08] (543871424188907544) awesomenoodles#4169: that would be good
+[2021-04-27 15:28:56] (543871424188907544) awesomenoodles#4169: rule 16 - 2 strikes
+[2021-04-28 14:56:50] (516313738588979210) Lil#1500: 
+[2021-04-28 14:56:58] (516313738588979210) Lil#1500: Which style do we like for banner?
+[2021-04-28 14:57:04] (516313738588979210) Lil#1500: If we like neither I can change it
+[2021-04-28 14:59:23] (543871424188907544) awesomenoodles#4169: i dont like the bottom one
+[2021-04-28 15:00:43] (516313738588979210) Lil#1500: any other ideas?
+[2021-04-28 15:00:50] (516313738588979210) Lil#1500: maybe I could pick a different style hmmm
+[2021-04-28 15:01:07] (516313738588979210) Lil#1500: I could just do a black banner with white writing
+[2021-04-28 15:02:00] (543871424188907544) awesomenoodles#4169: the top one is fine
+[2021-04-28 15:02:06] (543871424188907544) awesomenoodles#4169: the bottom one just bothers me lol
+[2021-04-28 15:05:59] (516313738588979210) Lil#1500: What about half a circle on one side
+[2021-04-28 15:06:12] (516313738588979210) Lil#1500: Or do we like the writing under the circle?
+[2021-04-28 15:07:22] (543871424188907544) awesomenoodles#4169: i like the writing under it
+[2021-04-28 15:08:18] (516313738588979210) Lil#1500: Do be want banners for channels?
+[2021-04-28 15:08:52] (543871424188907544) awesomenoodles#4169: i think thats maybe a bit excessive?
+[2021-04-28 15:09:52] (516313738588979210) Lil#1500: Hmm
+[2021-04-28 15:10:02] (516313738588979210) Lil#1500: Not to make it look like <#825067634163843114>
+[2021-04-28 18:55:37] (516313738588979210) Lil#1500: *so no banners?*
+[2021-04-28 18:56:17] (184040294851936256) jupiter#5970: huh
+[2021-04-28 18:57:17] (184040294851936256) jupiter#5970: i can not make proper decisions rn
+[2021-04-28 18:57:23] (184040294851936256) jupiter#5970: i have a lot of caffeine in my small body
+[2021-04-30 06:40:44] (516313738588979210) Lil#1500: -reminder 11h go through suggestions
+[2021-04-30 07:24:25] (516313738588979210) Lil#1500: 1. https://discord.com/channels/701102362516914186/800112558861189181/834424241688150037 Pronoun
+
+
+2. https://discord.com/channels/701102362516914186/800112558861189181/835538329537740800 PIN number 
+
+3. https://discord.com/channels/701102362516914186/800112558861189181/834504693009874964  sleep disorder 
+
+4. https://discord.com/channels/701102362516914186/800112558861189181/835732123196719154 anon venting so can respond 
+
+5. https://discord.com/channels/701102362516914186/800112558861189181/835981478512951317 age reg 
+
+6. https://discord.com/channels/701102362516914186/800112558861189181/836678912306053142 Q & A
+
+7. https://discord.com/channels/701102362516914186/800112558861189181/837505759570427904 visible gay
+
+8. https://discord.com/channels/701102362516914186/800112558861189181/837534495745769533 spam channel 
+
+9. https://discord.com/channels/701102362516914186/800112558861189181/837549205857239090 music vibes
+[2021-04-30 07:24:49] (516313738588979210) Lil#1500: -poll "Suggestions" 1 2 3 4 5 6 7 8 9
+[2021-04-30 07:24:53] (184040294851936256) jupiter#5970: i can do the visible gay pretty easily
+[2021-04-30 07:25:07] (516313738588979210) Lil#1500: <@&793917061243994134> vote yes or no and I’ll approve or deny
+[2021-04-30 07:25:13] (516313738588979210) Lil#1500: thanks Jupe
+[2021-04-30 07:25:50] (184040294851936256) jupiter#5970: np
+[2021-04-30 07:25:59] (543871424188907544) awesomenoodles#4169: ill have a look after the exam
+[2021-04-30 07:27:32] (184040294851936256) jupiter#5970: can i get the original images for the emote
+[2021-04-30 07:27:42] (516313738588979210) Lil#1500: I don’t have original images
+[2021-04-30 07:27:53] (184040294851936256) jupiter#5970: i'll just remake it
+[2021-04-30 07:27:56] (516313738588979210) Lil#1500: Maybe we could just make a new one?
+[2021-04-30 07:27:58] (516313738588979210) Lil#1500: Thanks Jupe
+[2021-04-30 07:43:50] (184040294851936256) jupiter#5970: 
+[2021-04-30 07:44:06] (184040294851936256) jupiter#5970: idk how to split it in half evenly
+[2021-04-30 07:47:47] (516313738588979210) Lil#1500: Cut panic in half?
+[2021-04-30 07:48:55] (184040294851936256) jupiter#5970: i tried
+[2021-04-30 07:48:57] (184040294851936256) jupiter#5970: a lot
+[2021-04-30 08:25:15] (516313738588979210) Lil#1500: ah okie
+[2021-04-30 08:28:39] (184040294851936256) jupiter#5970: i’ll do it in the morning
+[2021-04-30 13:09:52] (516313738588979210) Lil#1500: <@&837676816466182234>
+[2021-04-30 13:10:51] (516313738588979210) Lil#1500: Just needs to be added
+[2021-04-30 13:14:24] (516313738588979210) Lil#1500: ooh I just thought of this if you get two squares put em together to make a rectangle that would split exactly in half
+[2021-04-30 13:14:59] (533736043736858627) yxng_pxriah#1969: i could add that if you want
+[2021-04-30 13:15:19] (516313738588979210) Lil#1500: Yes please
+[2021-04-30 13:15:39] (533736043736858627) yxng_pxriah#1969: and i can split the gay panic in half too
+[2021-04-30 13:15:42] (533736043736858627) yxng_pxriah#1969: hold on
+[2021-04-30 13:25:15] (533736043736858627) yxng_pxriah#1969: wait should we announce the role as well?
+[2021-04-30 13:28:38] (516313738588979210) Lil#1500: I’ll do all the suggestions at once
+[2021-04-30 13:29:08] (516313738588979210) Lil#1500: Cause if we do all the ones left we can make one big announcement
+[2021-04-30 13:29:21] (533736043736858627) yxng_pxriah#1969: 
+[2021-04-30 13:29:21] (533736043736858627) yxng_pxriah#1969: 
+[2021-04-30 13:30:47] (533736043736858627) yxng_pxriah#1969: oh alright
+[2021-04-30 16:40:45] (516313738588979210) Lil#1500: 4 needs <@222479899808628736>
+[2021-04-30 16:42:22] (184040294851936256) jupiter#5970: are we doign 3
+[2021-04-30 16:44:26] (516313738588979210) Lil#1500: What do we think?
+[2021-04-30 17:19:15] (516313738588979210) Lil#1500: For Q & A format
+[2021-04-30 17:19:28] (516313738588979210) Lil#1500: should we make everyone posts questions in bonding format?
+[2021-04-30 17:19:31] (516313738588979210) Lil#1500: *boldinf
+[2021-04-30 17:24:09] (184040294851936256) jupiter#5970: confused at the question
+[2021-04-30 17:24:49] (516313738588979210) Lil#1500: So like
+[2021-04-30 17:24:57] (516313738588979210) Lil#1500: **Question**
+[2021-04-30 17:25:09] (516313738588979210) Lil#1500: Has to be in bold
+[2021-04-30 17:25:20] (516313738588979210) Lil#1500: For like <#714136063798673469>
+[2021-04-30 17:26:01] (516313738588979210) Lil#1500: So did example I was saying “hey what are lesbians”
+[2021-04-30 17:26:09] (516313738588979210) Lil#1500: I’d have to put it in gold
+[2021-04-30 17:28:22] (184040294851936256) jupiter#5970: oh sure
+[2021-04-30 17:33:33] (516313738588979210) Lil#1500: You know what I mean
+[2021-04-30 17:33:36] (516313738588979210) Lil#1500: Do you like that idea?
+[2021-04-30 17:33:58] (516313738588979210) Lil#1500: Or nah
+[2021-04-30 17:37:30] (184040294851936256) jupiter#5970: i like it
+[2021-04-30 17:44:44] (516313738588979210) Lil#1500: okie I’ll write something up for that
+[2021-04-30 17:44:49] (516313738588979210) Lil#1500: Maybe
+[2021-04-30 17:46:27] (516313738588979210) Lil#1500: If you are writing a question in either <#826478320472293407> or <#827957423573565450> can you please write the questions in bold this is to make it either to distinguish the difference between question and answers to bold something you do `**text**`
+[2021-04-30 17:47:00] (516313738588979210) Lil#1500: What do you thinkV
+[2021-04-30 17:55:01] (533736043736858627) yxng_pxriah#1969: thinkV
+[2021-04-30 17:55:29] (533736043736858627) yxng_pxriah#1969: ~~you gotta demand not ask~~
+[2021-04-30 17:55:59] (184040294851936256) jupiter#5970: ^
+[2021-04-30 17:57:11] (516313738588979210) Lil#1500: Should I pin it?
+[2021-04-30 17:58:04] (184040294851936256) jupiter#5970: i'll add the gay panic emotes
+[2021-04-30 17:58:57] (516313738588979210) Lil#1500: Okie
+[2021-04-30 17:59:16] (184040294851936256) jupiter#5970: <:gaypanic1:837749865017901157><:gaypanic2:837749901654884452>
+[2021-04-30 18:00:10] (516313738588979210) Lil#1500: I LOVE
+[2021-04-30 18:00:16] (184040294851936256) jupiter#5970: thank you
+[2021-04-30 18:00:28] (516313738588979210) Lil#1500: You can delete the other if you want?
+[2021-04-30 18:00:31] (184040294851936256) jupiter#5970: i did
+[2021-04-30 18:00:41] (516313738588979210) Lil#1500: Oh yay! :)
+[2021-04-30 18:00:47] (533736043736858627) yxng_pxriah#1969: g a y
+[2021-04-30 18:01:17] (516313738588979210) Lil#1500: So do we want a sleep disorder role?
+[2021-04-30 18:01:31] (184040294851936256) jupiter#5970: i think it's a good idea imo
+[2021-04-30 18:01:37] (516313738588979210) Lil#1500: okie dokie
+[2021-04-30 18:01:39] (516313738588979210) Lil#1500: Add?
+[2021-04-30 18:01:51] (184040294851936256) jupiter#5970: yeah i can do it
+[2021-04-30 18:02:54] (516313738588979210) Lil#1500: Thank you!
+[2021-04-30 18:03:00] (533736043736858627) yxng_pxriah#1969: i could add it to yag too
+[2021-04-30 18:03:05] (516313738588979210) Lil#1500: You can approve suggestion too if you want
+[2021-04-30 18:03:18] (184040294851936256) jupiter#5970: <@&837750700339494973>
+[2021-04-30 18:03:49] (184040294851936256) jupiter#5970: I have to update <#834124929863122954> then
+[2021-04-30 18:04:32] (533736043736858627) yxng_pxriah#1969: then ill add it to <#808934814689918996>
+[2021-04-30 18:04:35] (184040294851936256) jupiter#5970: idk how to do that
+[2021-04-30 18:04:46] (533736043736858627) yxng_pxriah#1969: *call michael*
+[2021-04-30 18:05:18] (516313738588979210) Lil#1500: Michael with number 4 too
+[2021-04-30 18:05:34] (184040294851936256) jupiter#5970: ill go annoy him
+[2021-04-30 18:05:46] (533736043736858627) yxng_pxriah#1969: oh what emote do you want for the role?
+[2021-04-30 18:06:16] (184040294851936256) jupiter#5970: ❣️ ?
+[2021-04-30 18:07:16] (533736043736858627) yxng_pxriah#1969: ye that works
+[2021-04-30 18:07:28] (184040294851936256) jupiter#5970: sex
+[2021-04-30 18:07:32] (516313738588979210) Lil#1500: What’s left to do
+[2021-04-30 18:08:06] (184040294851936256) jupiter#5970: 8, 9?
+[2021-04-30 18:08:40] (533736043736858627) yxng_pxriah#1969: that's done
+[2021-04-30 18:08:55] (184040294851936256) jupiter#5970: is it?
+[2021-04-30 18:08:59] (184040294851936256) jupiter#5970: wait
+[2021-04-30 18:09:06] (184040294851936256) jupiter#5970: you mean the disorder role
+[2021-04-30 18:09:11] (533736043736858627) yxng_pxriah#1969: *yeah lmao*
+[2021-04-30 18:09:13] (533736043736858627) yxng_pxriah#1969: my bad
+[2021-04-30 18:10:07] (184040294851936256) jupiter#5970: me is dumb
+[2021-04-30 18:11:28] (516313738588979210) Lil#1500: I’m not a fan of them
+[2021-04-30 18:11:49] (184040294851936256) jupiter#5970: yeah same
+[2021-04-30 18:12:02] (516313738588979210) Lil#1500: Id rather deny
+[2021-04-30 18:13:32] (184040294851936256) jupiter#5970: for 9 just ping voice hangout and say you wanna do a music session
+[2021-04-30 18:15:53] (516313738588979210) Lil#1500: Yeah
+[2021-04-30 18:22:16] (516313738588979210) Lil#1500: <@222479899808628736> hello, when you are available do you mind checking out suggestion four from ages ago it’s about the anon confessions thanks
+[2021-04-30 18:37:18] (516313738588979210) Lil#1500: **Change Log**
+
+<a:b_arrowright02:721954769215815691> We have added <@&837676816466182234> for people who identify with any pronouns 
+
+<a:b_arrowright02:721954769215815691> <@&837750700339494973> For anyone who would like to add the sleep disorder role 
+
+<a:b_arrowright02:721954769215815691> Check pins in <#827957423573565450> and <#826478320472293407> and familiarise yourself with the format please 
+
+<a:b_arrowright02:721954769215815691> <@!184040294851936256> re made the <:gaypanic1:837749865017901157><:gaypanic2:837749901654884452>  to make it easier to read
+
+<a:b_arrowright02:721954769215815691> We have been pinning the milestones in <#833814393917407273>
+[2021-04-30 18:37:45] (516313738588979210) Lil#1500: <@&793917061243994134> how’s this?
+[2021-04-30 18:37:59] (184040294851936256) jupiter#5970: looks good
+[2021-04-30 18:41:14] (543871424188907544) awesomenoodles#4169: all looking good
+[2021-04-30 19:13:29] (222479899808628736) Michael#3287: Yeah give me a bit because I need to do it later tonight
+[2021-04-30 19:13:31] (222479899808628736) Michael#3287: But I’ll do it
+[2021-04-30 19:13:37] (516313738588979210) Lil#1500: Thank you :)
+[2021-04-30 19:13:42] (516313738588979210) Lil#1500: Appreciated
+[2021-04-30 19:13:44] (222479899808628736) Michael#3287: If you make the channel I will set it up
+[2021-04-30 19:13:56] (516313738588979210) Lil#1500: It shouldn’t need a channel should it?
+[2021-04-30 19:13:59] (222479899808628736) Michael#3287: Put it where you want it
+[2021-04-30 19:14:03] (222479899808628736) Michael#3287: Wait wdym
+[2021-04-30 19:14:16] (516313738588979210) Lil#1500: cant you just make them send it to <#826474833000661012> and then have a specified command for each channel
+[2021-04-30 19:14:20] (516313738588979210) Lil#1500: Or smthing
+[2021-04-30 19:14:22] (516313738588979210) Lil#1500: Like
+[2021-04-30 19:14:24] (222479899808628736) Michael#3287: Ohh I see
+[2021-04-30 19:14:26] (222479899808628736) Michael#3287: Yeah I can
+[2021-04-30 19:14:38] (222479899808628736) Michael#3287: But if they don’t use the command it’ll send to the wrong channel
+[2021-04-30 19:14:43] (222479899808628736) Michael#3287: So we have to trust people to read
+[2021-04-30 19:15:06] (516313738588979210) Lil#1500: Yeah
+[2021-04-30 19:15:09] (516313738588979210) Lil#1500: that will be fun lol
+[2021-04-30 19:15:30] (516313738588979210) Lil#1500: “Why did my message go to the wrong place”
+
+“Did you read” 
+
+“no...”
+[2021-04-30 19:15:56] (222479899808628736) Michael#3287: If we have two channels so like #anon-confess-submit and <#826474833000661012> I can link it so it sends based on which channel they sent it in
+[2021-04-30 19:16:45] (516313738588979210) Lil#1500: yeah idk I just don’t want more unnecessary channels ya know
+[2021-04-30 19:17:49] (222479899808628736) Michael#3287: It’s up to you I can make the command but if you trust people to use it right lol
+[2021-04-30 19:17:56] (222479899808628736) Michael#3287: We can see how it works
+[2021-04-30 19:18:23] (516313738588979210) Lil#1500: If they use the commands wrong we can just have the channel as auto delete maybe
+[2021-04-30 19:18:37] (222479899808628736) Michael#3287: Yeah that works
+[2021-04-30 19:18:52] (516313738588979210) Lil#1500: And then if it doesn’t appear then can just **read**
+[2021-04-30 19:18:59] (222479899808628736) Michael#3287: And maybe send a dm saying please use the right command
+[2021-04-30 19:19:12] (516313738588979210) Lil#1500: Yeah that’s a good idea
+[2021-04-30 19:19:20] (222479899808628736) Michael#3287: Ok cool I’ll make that tonight
+[2021-04-30 19:20:48] (516313738588979210) Lil#1500: Thanks Michael
+[2021-04-30 17:08:23] (222479899808628736) Michael#3287: If we switch to using commands, do we want them to be able to be used in any channel?
+[2021-04-30 17:08:29] (222479899808628736) Michael#3287: Or restrict to only <#826474833000661012>
+[2021-04-30 17:09:33] (516313738588979210) Lil#1500: Just confess submit pls
+[2021-04-30 17:09:47] (222479899808628736) Michael#3287: ok
+[2021-04-30 17:47:14] (222479899808628736) Michael#3287: Alright, so the current commands are `!response <message>` and `!noresponse <message>`
+[2021-04-30 17:47:25] (222479899808628736) Michael#3287: They only work in <#826474833000661012> s
+[2021-04-30 17:47:36] (222479899808628736) Michael#3287: and will send to appropriate channels
+[2021-04-30 17:48:02] (222479899808628736) Michael#3287: let me know if you want the commands to change or just to add aliases for people to use
+[2021-04-30 17:48:07] (222479899808628736) Michael#3287: maybe like !r and !nr or something idk

@@ -2,3 +2,16 @@
 [2021-04-19 21:21:19] (396441108995112970) beebee#3442: ?accept 152 <#833814393917407273>
 [2021-04-19 21:21:48] (396441108995112970) beebee#3442: ?approve 152 <#833814393917407273>
 [2021-04-22 01:13:52] (222479899808628736) Michael#3287: ?deny 160 We can’t do a separate color for *each* level, however we’d be more than willing to consider suggestions for the current level roles which are 5.10,20,30,40,50,60, and 70.
+[2021-04-29 15:39:02] (184040294851936256) jupiter#5970: ?approve #167 <:amlmheart:837349907530121216>
+[2021-04-30 07:26:25] (516313738588979210) Lil#1500: ?deny 163 it is welcome on this server but creating a role for it would mean we have to do one for all the other coping mechanisms
+[2021-04-30 07:29:25] (516313738588979210) Lil#1500: ?deny 164 we unfortunately physically cannot do this
+[2021-04-30 07:33:56] (516313738588979210) Lil#1500: ?accept 161 done <3
+[2021-04-30 07:33:59] (516313738588979210) Lil#1500: oh
+[2021-04-30 07:34:16] (516313738588979210) Lil#1500: ?approve 161 done <3
+[2021-04-30 07:35:11] (516313738588979210) Lil#1500: ?deny 154 we don’t believe this is gong to promote conversation
+[2021-04-30 07:35:35] (516313738588979210) Lil#1500: ?deny 156 we do not believe this would be good for this server
+[2021-04-30 13:10:27] (516313738588979210) Lil#1500: ?approve 158 <@&837676816466182234> :)
+[2021-04-30 13:12:45] (516313738588979210) Lil#1500: ?approve 168 on it we are trying to do this :)
+[2021-04-30 17:57:01] (516313738588979210) Lil#1500: ?approve 165 done
+[2021-04-30 18:11:18] (184040294851936256) jupiter#5970: ?approve 159 check out <#808934814689918996>
+[2021-04-30 18:16:19] (516313738588979210) Lil#1500: ?deny 170 you can just ping voice hangout

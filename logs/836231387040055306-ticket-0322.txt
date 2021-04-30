@@ -1,0 +1,14 @@
+[2021-04-26 13:25:08] (762923798550544415) Xiaoonichan#8670: Hello
+[2021-04-26 13:25:12] (222479899808628736) Michael#3287: Hey there, how can we help!
+[2021-04-26 13:25:13] (762923798550544415) Xiaoonichan#8670: So I asked a mod
+[2021-04-26 13:25:17] (762923798550544415) Xiaoonichan#8670: How do I be a dj
+[2021-04-26 13:25:36] (762923798550544415) Xiaoonichan#8670: Because at this point I used the voice channel thing religiously
+[2021-04-26 13:25:44] (762923798550544415) Xiaoonichan#8670: What is a dj
+[2021-04-26 13:25:44] (222479899808628736) Michael#3287: I think you should be able to use ;play in <#701157285434753185>
+[2021-04-26 13:26:09] (222479899808628736) Michael#3287: Ah dj is basically just an optional role if we wanted to limit the bot to specific people
+[2021-04-26 13:26:22] (762923798550544415) Xiaoonichan#8670: Oh
+[2021-04-26 13:26:29] (222479899808628736) Michael#3287: But you don’t have to worry about that since anyone can use the music commands if you’re currently in a vc
+[2021-04-26 13:26:39] (762923798550544415) Xiaoonichan#8670: True
+[2021-04-26 13:26:45] (762923798550544415) Xiaoonichan#8670: Okay then thanks for the help
+[2021-04-26 13:26:48] (762923798550544415) Xiaoonichan#8670: Byeeeee
+[2021-04-26 13:26:52] (222479899808628736) Michael#3287: No problem \:)

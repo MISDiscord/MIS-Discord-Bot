@@ -72,3 +72,7 @@
 [2021-04-21 18:40:03] (184040294851936256) jupiter#5970: do you mind if i just ask them general questions then?
 [2021-04-21 18:40:10] (396441108995112970) beebee#3442: of course go for it
 [2021-04-21 18:41:58] (516313738588979210) Lil#1500: OMG I LOVE ARA
+[2021-04-25 09:49:16] (184040294851936256) jupiter#5970: should someone tell ticket 111 that para is asleep
+[2021-04-25 09:50:47] (516313738588979210) Lil#1500: Yeah
+[2021-04-25 09:51:33] (184040294851936256) jupiter#5970: i’ll do it
+[2021-04-27 22:34:51] (396441108995112970) beebee#3442: hey y’all just a quick one, when you log a ticket, can we react to the message so the supporter knows who checked and logged it, just in case they have any questions, a supporter thinks it might be easier if they have any questions on how they did
