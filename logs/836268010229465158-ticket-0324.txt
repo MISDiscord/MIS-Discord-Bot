@@ -1,8 +1,0 @@
-[2021-04-26 15:50:40] (396441108995112970) beebee#3442: hey how can i help?
-[2021-04-26 15:50:56] (836253292605865984) oneoutofAce#9296: i was wondering why my message in the vent was removed
-[2021-04-26 15:51:23] (836253292605865984) oneoutofAce#9296: there wasn't anything harmful in it
-[2021-04-26 15:51:32] (396441108995112970) beebee#3442: messages are removed at moderators discretion
-[2021-04-26 15:51:48] (836253292605865984) oneoutofAce#9296: oh alright
-[2021-04-26 15:52:00] (836253292605865984) oneoutofAce#9296: thanks
-[2021-04-26 15:52:07] (396441108995112970) beebee#3442: is that all or can i close this ticket?
-[2021-04-26 15:52:14] (836253292605865984) oneoutofAce#9296: that's all

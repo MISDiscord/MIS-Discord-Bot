@@ -76,6 +76,10 @@ class General(commands.Cog):
         mask = Image.open('images/userheart_mask.png').convert('L')
         sparkles = Image.open('images/userheart_sparkles.png')
 
+        if len(users) > 3:
+            await ctx.send("Please do not use the sparkleheart command on more than 3 users!")
+            return
+
         for user in users:
             avatar_url = user.avatar_url
 
@@ -102,6 +106,10 @@ class General(commands.Cog):
     async def userheart(self, ctx, *users: discord.Member):
         mask = Image.open('images/userheart_mask.png').convert('L')
         sparkles = Image.open('images/userheart_sparkles.png')
+
+        if len(users) > 3:
+            await ctx.send("Please do not use the userheart command on more than 3 users!")
+            return
 
         for user in users:
             avatar_url = user.avatar_url

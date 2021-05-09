@@ -1,4 +1,0 @@
-[2021-04-16 23:10:25] (184040294851936256) jupiter#5970: hi how can we help?
-[2021-04-17 16:22:25] (184040294851936256) jupiter#5970: <@!733383166852595804> hi sorry for the thing but is there anything you wanted to discuss?
-[2021-04-17 16:23:52] (733383166852595804) willbehereforyou#0075: Hi I am very new groups and I am getting an error in selecting one roles
-[2021-04-17 16:24:16] (184040294851936256) jupiter#5970: oh that's alright. i'll close the ticket then :)

@@ -130,13 +130,6 @@ async def on_message(ctx):
 
                 level = int(np.floor((1 + np.sqrt(1 + (4 * newXP) / 25)) / 4))
 
-                level_roles = [5, 10, 20, 30, 40, 50, 60, 70, 80]
-
-                if level in level_roles:
-                    level_role = discord.utils.find(lambda r: r.name == f"Level {level}", ctx.guild.roles)
-                    if level_role and level_role not in ctx.author.roles:
-                        await ctx.author.add_roles(level_role)
-
                 print(f'{ctx.author.name} got {xp} XP points. They now have {newXP} experience.')
                 cursor.execute(
                     f'UPDATE message_levels SET xp = {newXP}, level = {level} WHERE user_id = {ctx.author.id}')

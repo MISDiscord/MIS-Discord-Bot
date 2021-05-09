@@ -3,6 +3,9 @@ import time
 import datetime
 import requests
 import os
+from dotenv import load_dotenv
+
+load_dotenv()
 
 now = datetime.datetime.now()
 current_month = str(now.strftime("%m")).lstrip("0")
@@ -17,7 +20,7 @@ def find_birthdays(month, day, spreadsheet):
     ws = wb.active
 
     for row in ws.iter_rows(values_only=True):
-        if row[1] == month and row[2] == day:
+        if row[1] == str(month) and row[2] == str(day):
             print(f'Happy Birthday <@{row[0]}>!')
             message = {"content": 'Happy Birthday <@{}>!'.format(row[0])}
             send_birthday = requests.post(url=WEBHOOK_URL, data=message)
